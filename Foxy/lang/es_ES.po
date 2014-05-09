@@ -1,0 +1,1598 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: wp-theme-elegant-foxy-adsense\n"
+"Language: es\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta publicación está protegida por contraseña. Ingrese su contraseña para ver los comentarios."
+
+#: ../comments.php:15 ../comments.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Comentarios Anteriores"
+
+#: ../comments.php:16 ../comments.php:30
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nuevos Comentarios <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:22
+msgid "0 Comments"
+msgstr "0 Comentarios"
+
+#: ../comments.php:22 ../functions.php:276
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: ../comments.php:22
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../comments.php:36
+msgid "Trackbacks/Pingbacks"
+msgstr "Retroenlace/Pingbacks"
+
+#: ../comments.php:54
+msgid "Submit Comment"
+msgstr "Enviar Comentario"
+
+#: ../comments.php:54
+msgid "Post a Reply"
+msgstr "Publicar Respuesta"
+
+#: ../comments.php:54
+msgid "Leave a Reply to %s"
+msgstr "Responder a %s"
+
+#: ../content.php:18 ../page-blog.php:64 ../includes/entry.php:31
+msgid "0 comments"
+msgstr "0 comentarios"
+
+#: ../content.php:18 ../page-blog.php:64 ../includes/entry.php:31
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: ../content.php:18 ../page-blog.php:64 ../includes/entry.php:31
+msgid "comments"
+msgstr "comentarios"
+
+#: ../content.php:25 ../image.php:62
+msgid "Pages:"
+msgstr "Páginas"
+
+#: ../footer.php:21
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../footer.php:22
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../footer.php:23
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../footer.php:40
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Diseñado por %1$s | Gracias a %2$s"
+
+#: ../functions.php:32
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: ../functions.php:33
+msgid "Footer Menu"
+msgstr "Menú de Pie"
+
+#: ../functions.php:84 ../functions.php:104 ../functions.php:293
+#: ../page-blog.php:64
+msgid "on"
+msgstr "en"
+
+#: ../functions.php:87 ../functions.php:107
+msgid "no-subset"
+msgstr "sin-subset"
+
+#: ../functions.php:128 ../functions.php:147
+msgid "Navigation Menu"
+msgstr "Menú de Navegación"
+
+#: ../functions.php:255
+msgid "Posts by %s"
+msgstr "Publicaciones por %s"
+
+#: ../functions.php:272
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: ../functions.php:274
+msgid "No Comments"
+msgstr "Sin Comentarios"
+
+#: ../functions.php:289
+msgid "By"
+msgstr "Por"
+
+#: ../functions.php:296 ../page-blog.php:64
+msgid "in"
+msgstr "en"
+
+#: ../functions.php:307
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: ../functions.php:308
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: ../functions.php:309
+msgid "Add New"
+msgstr "Añadir Nuevo"
+
+#: ../functions.php:310
+msgid "Add New Testimonial"
+msgstr "Añadir Nuevo Testimonio"
+
+#: ../functions.php:311
+msgid "Edit Testimonial"
+msgstr "Editar Testimonio"
+
+#: ../functions.php:312
+msgid "New Testimonial"
+msgstr "Nuevo Testimonio"
+
+#: ../functions.php:313
+msgid "All Testimonials"
+msgstr "Todos los Testimonios"
+
+#: ../functions.php:314
+msgid "View Testimonial"
+msgstr "Ver Testimonio"
+
+#: ../functions.php:315
+msgid "Search Testimonials"
+msgstr "Buscar Testimonio"
+
+#: ../functions.php:316
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+#: ../functions.php:317
+msgid "Nothing found in Trash"
+msgstr "Nada encontrado en Basurero"
+
+#: ../functions.php:347
+msgid "Testimonial updated. <a href=\"%s\">View testimonial</a>"
+msgstr "Testimonio Actualizado"
+
+#: ../functions.php:348
+msgid "Custom field updated."
+msgstr "Campo personalizado actualizado."
+
+#: ../functions.php:349
+msgid "Custom field deleted."
+msgstr "Campo personalizado eliminado."
+
+#: ../functions.php:350
+msgid "Testimonial updated."
+msgstr "Testimonio actualizado."
+
+#: ../functions.php:352
+msgid "Testimonial restored to revision from %s"
+msgstr "Testimonio restaurado a la revisión desde %s"
+
+#: ../functions.php:353
+msgid "Testimonial published. <a href=\"%s\">View testimonial</a>"
+msgstr "Testimonio publicado. <a href=\"%s\">Ver testimonio</a>"
+
+#: ../functions.php:354
+msgid "Testimonial saved."
+msgstr "Testimonio guardado."
+
+#: ../functions.php:355
+msgid "Testimonial submitted. <a target=\"_blank\" href=\"%s\">Preview testimonial</a>"
+msgstr "Testimonio enviado. <a target=\"_blank\" href=\"%s\">Pre visualizar testimonio</a>"
+
+#: ../functions.php:356
+msgid "Testimonial scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview testimonial</a>"
+msgstr "Testimonio programado para el: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Pre visualizar testimonio</a>"
+
+#: ../functions.php:358
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ../functions.php:359
+msgid "Testimonial draft updated. <a target=\"_blank\" href=\"%s\">Preview testimonial</a>"
+msgstr "Borrador de Testimonio actualizado. <a target=\"_blank\" href=\"%s\">Pre visualizar testimonio</a>"
+
+#: ../functions.php:367
+msgid "ET Testimonial Settings"
+msgstr "ET Configuración de Testimonios"
+
+#: ../functions.php:368 ../functions.php:369
+msgid "ET Settings"
+msgstr "ET Configuraciones"
+
+#: ../functions.php:376
+msgid "If this post is displayed in the featured slider on homepage, you can set options for it here."
+msgstr "Si esta publicación se despliega en diapositivas de su página de inicio, aquí puede alterar sus opciones."
+
+#: ../functions.php:379
+msgid "Slide Title"
+msgstr "Titulo de diapositiva"
+
+#: ../functions.php:384
+msgid "Slide Description"
+msgstr "Descripción de diapositiva"
+
+#: ../functions.php:389
+msgid "Read More Custom Link"
+msgstr "Leer Más Enlace Personalizado"
+
+#: ../functions.php:393
+msgid "Here you can provide a custom url, that will be used for the slide"
+msgstr "Aquí puedes proveer una URL personalizada, será utilizada en la diapositiva"
+
+#: ../functions.php:398
+msgid "Blurb Icon Image"
+msgstr "Icono Imagen de Propaganda"
+
+#: ../functions.php:400 ../epanel/core_functions.php:204
+msgid "Upload Image"
+msgstr "Subir Imagen"
+
+#: ../functions.php:401
+msgid "If this page is used for a blurb, you can upload the icon image here."
+msgstr "Si esta página es utilizada por una propaganda, actualiza el icono imagen aquí."
+
+#: ../functions.php:412
+msgid "Company Name"
+msgstr "Nombre de la Compañia"
+
+#: ../functions.php:560
+msgid "Fonts"
+msgstr "Tipografias"
+
+#: ../functions.php:572
+msgid "Link Color"
+msgstr "Color del Enlace"
+
+#: ../functions.php:585
+msgid "Main Font Color"
+msgstr "Color de Tipografía Principal"
+
+#: ../functions.php:598
+msgid "Slider Background Color"
+msgstr "Color Fondo de Diapositivas"
+
+#: ../functions.php:611
+msgid "Slider Shadow Color"
+msgstr "Color Sombra de Diapositivas"
+
+#: ../functions.php:624
+msgid "Button / Tab Background Color"
+msgstr "Color de Fondo Boton / Pestaña"
+
+#: ../functions.php:637
+msgid "Button / Tab Shadow Color"
+msgstr "Color de Sombra Boton / Pestaña"
+
+#: ../functions.php:650
+msgid "Widget Hightlight Color / Progress Bar Color"
+msgstr "Color de restalado de Widget / Barra de Progreso"
+
+#: ../functions.php:662
+msgid "Header Font"
+msgstr "Tipografía de Encabezado"
+
+#: ../functions.php:676
+msgid "Body Font"
+msgstr "Tipografía de Cuerpo"
+
+#: ../header.php:55 ../epanel/custom_functions.php:434
+#: ../includes/breadcrumbs.php:11
+msgid "Home"
+msgstr "Inicio"
+
+#: ../image.php:56
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: ../image.php:57
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: ../page-blog.php:64
+msgid "Posted"
+msgstr "Publicado"
+
+#: ../page-blog.php:64
+msgid "by"
+msgstr "por"
+
+#: ../page-blog.php:84
+msgid "read more"
+msgstr "leer más"
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr "Asegúrate de ingresar el captcha. "
+
+#: ../page-contact.php:22
+msgid "Numbers regenerated."
+msgstr "Números regenerados."
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr "Ingresaste el número equivocado en el captcha. "
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr "Asegurate de llenar todos los campos. "
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr "Email Invalido. "
+
+#: ../page-contact.php:65
+msgid "Thanks for contacting us"
+msgstr "Gracias por contactarnos"
+
+#: ../page-contact.php:107 ../page-contact.php:108
+msgid "Name"
+msgstr "Nombre"
+
+#: ../page-contact.php:112 ../page-contact.php:113
+msgid "Email Address"
+msgstr "Email"
+
+#: ../page-contact.php:117 ../page-contact.php:118
+msgid "Subject"
+msgstr "Título"
+
+#: ../page-contact.php:125
+msgid "Captcha: "
+msgstr "Captcha: "
+
+#: ../page-contact.php:136 ../page-contact.php:137
+msgid "Message"
+msgstr "Mensaje"
+
+#: ../page-contact.php:142 ../epanel/core_functions.php:203
+#: ../epanel/core_functions.php:377
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ../page-contact.php:143 ../page-search.php:79
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../page-gallery.php:70 ../page-template-portfolio.php:128
+msgid "Zoom in"
+msgstr "Acercar"
+
+#: ../page-gallery.php:71 ../page-template-portfolio.php:129
+msgid "Read more"
+msgstr "Leer más"
+
+#: ../page-login.php:50
+msgid "Username"
+msgstr "Nombre de Usuario"
+
+#: ../page-login.php:51
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../page-search.php:45
+msgid "search this website"
+msgstr "buscar en este sitio"
+
+#: ../page-search.php:48
+msgid "search this site..."
+msgstr "buscar en este sitio..."
+
+#: ../page-search.php:50
+msgid "Posts"
+msgstr "Publicaciones"
+
+#: ../page-search.php:51 ../page-sitemap.php:46 ../epanel/options_foxy.php:397
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../page-search.php:54
+msgid "Select a month"
+msgstr "Seleccionar un mes"
+
+#: ../page-sitemap.php:51 ../epanel/options_foxy.php:402
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../page-sitemap.php:56
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../page-sitemap.php:72
+msgid "Authors"
+msgstr "Autores"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:389
+msgid "Saving..."
+msgstr "Guardando..."
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Opciones Guardadas."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Opciones"
+
+#: ../epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr "Opciones de Tema"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "configuración guardada."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "configuración reiniciada."
+
+#: ../epanel/core_functions.php:111 ../epanel/options_foxy.php:407
+#: ../epanel/options_foxy.php:558
+msgid "General Settings"
+msgstr "Configuración General"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Navegación"
+
+#: ../epanel/core_functions.php:117
+msgid "Layout Settings"
+msgstr "Configuración de Diseño"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Administración de Anuncios"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Colorización"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Integración"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Documentación de Soporte"
+
+#: ../epanel/core_functions.php:229
+msgid "You don't have pages"
+msgstr "No tienes páginas"
+
+#: ../epanel/core_functions.php:362
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: ../epanel/core_functions.php:373
+msgid "This will return all of the settings throughout the options page to their default values. <strong>Are you sure you want to do this?"
+msgstr "Esto reiniciara todas las configuraciones en la página a sus valores por defecto. <strong>¿Está seguro de hacer esto?"
+
+#: ../epanel/custom_functions.php:840
+msgid "Image doesn't exist"
+msgstr "La imagen no existe"
+
+#: ../epanel/custom_functions.php:1029
+msgid "<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will disappear once you have clicked the Save button within the <a href=\"%2$s\">theme's options page</a>.</p></div>"
+msgstr "<div class=\"updated\"><p>Esta es una instalación reciente del tema %1$s . No olvides ir al <a href=\"%2$s\">ePanel</a> para configurarlo. Este mensaje desaparecera cuando haya hecho click en el boton Guardar de la <a href=\"%2$s\">página de opciones de tema</a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1041
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not available for this theme. If this is an Elegant Themes theme, then you must re-download the theme from the member's area and <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-install it</a> in order to update it to the latest version.</em>"
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">Ver detalles de versión %3$s</a>. <em>Las auto-actualizaciones no están disponibles para este tema. Si es un Tema Elegant Themes, debes descargar de la sección de miembros el tema y <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-instalarlo</a> para actualizarlo a la última versión.</em>"
+
+#: ../epanel/custom_functions.php:1045
+msgid "Auto-updates are not available for this theme. If this is an Elegant Themes theme, then you must re-download the theme from the member's area and <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">re-install it</a> in order to update it to the latest version."
+msgstr "Las auto-actualizaciones no están disponibles para este tema. Si es un tema de Elegant Themes, descarga el tema de el área de miembros y <a href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" target=\"_blank\">reinstalalo</a> de forma que actualices a la última versión."
+
+#: ../epanel/options_foxy.php:38
+msgid "General"
+msgstr "General"
+
+#: ../epanel/options_foxy.php:42
+msgid "Homepage"
+msgstr "Página de Inicio"
+
+#: ../epanel/options_foxy.php:46
+msgid "Featured Slider"
+msgstr "Diapositiva Principal"
+
+#: ../epanel/options_foxy.php:53
+msgid "Logo"
+msgstr "Logo"
+
+#: ../epanel/options_foxy.php:57
+msgid "If you would like to use your own custom logo image click the Upload Image button."
+msgstr "Si deseas utilizar tu propia imagen de logotipo haz click en el botón Subir Imagen"
+
+#: ../epanel/options_foxy.php:60
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_foxy.php:64
+msgid "If you would like to use your own custom favicon image click the Upload Image button."
+msgstr "Si deseas utilizar tu propia imagen de favicon haz click en el botón Subir Imagen"
+
+#: ../epanel/options_foxy.php:67
+msgid "Grab the first post image"
+msgstr "Tomar la primera imagen de la publicación"
+
+#: ../epanel/options_foxy.php:71
+msgid "By default thumbnail images are created using custom fields. However, if you would rather use the images that are already in your post for your thumbnail (and bypass using custom fields) you can activate this option. Once activcated thumbnail images will be generated automatically using the first image in your post. The image must be hosted on your own server."
+msgstr "Por defecto las imagenes de vista previa son creadas utilizando campos personalizados. Sin embargo, si desea utilizar las imagenes que ya están en su publicación para ser vista previa (y saltar utilizar campos personalizados) puedes activar esta opción. Una vez activado las imagenes de vista previa se generaran automáticamente utilizando la primer imagen de tu publicación. La imagen debe estar almacenada en tu propio servidor."
+
+#: ../epanel/options_foxy.php:74
+msgid "Show Twitter Icon"
+msgstr "Mostrar Icono de Twitter"
+
+#: ../epanel/options_foxy.php:78
+msgid "Here you can choose to display your Twitter Icon. "
+msgstr "Aquí puedes elegir mostrar tu ícono de Twitter. "
+
+#: ../epanel/options_foxy.php:83
+msgid "Show Google Plus Icon"
+msgstr "Mostrar Icono de Google Plus"
+
+#: ../epanel/options_foxy.php:87
+msgid "Here you can choose to display your Google Plus Icon. "
+msgstr "Aquí puedes elegir mostrar tu ícono de Google Plus. "
+
+#: ../epanel/options_foxy.php:90
+msgid "Show Facebook Icon"
+msgstr "Mostrar Icono de Facebook"
+
+#: ../epanel/options_foxy.php:94
+msgid "Here you can choose to display your Facebook Icon. "
+msgstr "Aquí puedes elegir mostrar tu ícono de Facebook. "
+
+#: ../epanel/options_foxy.php:99
+msgid "Twitter Profile Url"
+msgstr "Dirección de cuenta de Twitter"
+
+#: ../epanel/options_foxy.php:103
+msgid "Place your Twitter Profile URL here. "
+msgstr "Coloque la dirección de su perfil de Twitter aquí. "
+
+#: ../epanel/options_foxy.php:107
+msgid "Google Plus Url"
+msgstr "Dirección Google PLUS"
+
+#: ../epanel/options_foxy.php:111
+msgid "Place your Google Plus URL here. "
+msgstr "Coloque la dirección de su perfil de Google Plus aquí. "
+
+#: ../epanel/options_foxy.php:115
+msgid "Facebook Profile Url"
+msgstr "Dirección de Facebook  "
+
+#: ../epanel/options_foxy.php:119
+msgid "Place your Facebook Profile URL here. "
+msgstr "Coloque la dirección de su perfil de Facebook aquí. "
+
+#: ../epanel/options_foxy.php:123
+msgid "Number of Posts displayed on Category page"
+msgstr "Número de publicaciones mostradas en Categorias"
+
+#: ../epanel/options_foxy.php:127
+msgid "Here you can designate how many recent articles are displayed on the Category page. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aquí puedes elegir cuantos artículos recientes se muestran en la página Categoria.Esta opción funciona independientemente de la configuración en Opciones>Configuración de Lectura."
+
+#: ../epanel/options_foxy.php:131
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Número de Publicaciones mostradas en Páginas Archivo"
+
+#: ../epanel/options_foxy.php:135
+msgid "Here you can designate how many recent articles are displayed on the Archive pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aquí puedes designar cuantos artículos recientes se muestran en las páginas de Archivo. Esta opción funciona independiente de Configuración > Opciones de Lectura en wp-admin"
+
+#: ../epanel/options_foxy.php:139
+msgid "Number of Posts displayed on Search pages"
+msgstr "Número de articulos mostrados en busquedas"
+
+#: ../epanel/options_foxy.php:143
+msgid "Here you can designate how many recent articles are displayed on the Search results pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aquí puedes designar cuantas publicaciones recientes se muestran e"
+
+#: ../epanel/options_foxy.php:147
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Número de publicaciones mostradas en las páginas de Etiquetas"
+
+#: ../epanel/options_foxy.php:151
+msgid "Here you can designate how many recent articles are displayed on the Tag pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aquí puedes designar cuantos articulos recientes se muestran en las páginas de Etiquetas. Esta opción funciona independiente de Configuración > Opciones de Lectura en wp-admin."
+
+#: ../epanel/options_foxy.php:155
+msgid "Date format"
+msgstr "Formato de Fecha"
+
+#: ../epanel/options_foxy.php:159
+msgid "This option allows you to change how your dates are displayed. For more information please refer to the WordPress codex here:<a href='http://codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and Time</a>"
+msgstr "Esta opción permite que cambies como se muestran las fechas. Para mas información revisa la información aquí: <a href='http://codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Dando formato a Fecha y Hora</a>"
+
+#: ../epanel/options_foxy.php:165
+msgid "Use excerpts when defined"
+msgstr "Utilizar fragmentos cuando se definan"
+
+#: ../epanel/options_foxy.php:169
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "Esto habilitará el uso de fragmentos en publicaciones o páginas."
+
+#: ../epanel/options_foxy.php:172
+msgid "Responsive shortcodes"
+msgstr "Codigo-Atajos Responsivos"
+
+#: ../epanel/options_foxy.php:176
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr "Active esta opción para que los codigo-atajos respondan a varios tamaños de pantalla"
+
+#: ../epanel/options_foxy.php:181
+msgid "Google Fonts subsets"
+msgstr "Subconjunto de Fuentes Google"
+
+#: ../epanel/options_foxy.php:185
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "Esto habilitará Fuentes Google para idiomas extranjeros."
+
+#: ../epanel/options_foxy.php:190
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: ../epanel/options_foxy.php:194
+msgid "Here you can add custom css to override or extend default styles."
+msgstr "Aquí puede añadir css propio para sobrecargar o extender estilos predeterminados."
+
+#: ../epanel/options_foxy.php:204
+msgid "Display Content Areas"
+msgstr "Mostrar áreas de Contenido"
+
+#: ../epanel/options_foxy.php:208
+msgid "Here you can choose to display the Content Areas on the homepage. "
+msgstr "Aquí puede elegir mostrar Areas de Contenido en la página de inicio. "
+
+#: ../epanel/options_foxy.php:211
+msgid "Display Products Slider"
+msgstr "Mostrar Diapositivas de Productos"
+
+#: ../epanel/options_foxy.php:215
+msgid "Here you can choose to display the Products Slider on the homepage. "
+msgstr "Aquí puedes elegir mostrar las Diapositivas de Productos en la página inicial. "
+
+#: ../epanel/options_foxy.php:220
+msgid "Display Pages in Tabs Area"
+msgstr "Mostrar Páginas en Área de Pestañas"
+
+#: ../epanel/options_foxy.php:224
+msgid "Here you can choose to display Clients logos section on the homepage. "
+msgstr "Acá puedes seleccionar el logotipo que aparecerá en tu página de inicio"
+
+#: ../epanel/options_foxy.php:227
+msgid "Display Testimonials"
+msgstr "Mostrar Testimonios"
+
+#: ../epanel/options_foxy.php:231
+msgid "Here you can choose to display the Testimonials on the homepage. "
+msgstr "Aquí puedes elegir mostrar los Testimonios en la página inicial. "
+
+#: ../epanel/options_foxy.php:236
+msgid "Display Callout"
+msgstr "Mostrar Atención"
+
+#: ../epanel/options_foxy.php:240
+msgid "Here you can choose to display Callout button on the homepage. "
+msgstr "Aquí puedes elegir mostrar el botón de Atención en la página Inicial. "
+
+#: ../epanel/options_foxy.php:245
+msgid "Content Area 1 Page"
+msgstr "Área de Contenido 1 Página"
+
+#: ../epanel/options_foxy.php:249 ../epanel/options_foxy.php:257
+#: ../epanel/options_foxy.php:265
+msgid "Choose the page you would like to display in the Content Area. "
+msgstr "Elije la página que quieres mostrar en el área de Contenido. "
+
+#: ../epanel/options_foxy.php:253
+msgid "Content Area 2 Page"
+msgstr "Área de Contenido 2 Páginas"
+
+#: ../epanel/options_foxy.php:261
+msgid "Content Area 3 Page"
+msgstr "Área de Contenido 3 Páginas"
+
+#: ../epanel/options_foxy.php:269
+msgid "Callout Url"
+msgstr "Url de Atención"
+
+#: ../epanel/options_foxy.php:273
+msgid "Place your Callout button URL here. "
+msgstr "Coloque su Botón URL de Atención aquí. "
+
+#: ../epanel/options_foxy.php:277
+msgid "Callout Text"
+msgstr "Texto de Atención"
+
+#: ../epanel/options_foxy.php:281
+msgid "Place your Callout text here. "
+msgstr "Coloque su texto de Atención aquí. "
+
+#: ../epanel/options_foxy.php:284
+msgid "Callout Button Text"
+msgstr "Texto de Botón de Atención"
+
+#: ../epanel/options_foxy.php:288
+msgid "Place your Callout button Text here. "
+msgstr "Coloque el Texto del botón de atención aquí. "
+
+#: ../epanel/options_foxy.php:292
+msgid "Number of Featured Products"
+msgstr "Número de Productos Promocionados"
+
+#: ../epanel/options_foxy.php:296
+msgid "Here you can designate how many featured products are displayed on the homepage."
+msgstr "Aquí puedes designar cuantos productos promocionados se muestran en la página de inicio."
+
+#: ../epanel/options_foxy.php:300
+msgid "Include pages in the Tabs Area"
+msgstr "Incluye páginas en el Área de Pestañas"
+
+#: ../epanel/options_foxy.php:304 ../epanel/options_foxy.php:360
+msgid "If you selected Use Pages above, then use the checkboxes below to choose which pages are displayed in the Featured Slider."
+msgstr "Si seleccionaste Utilizar Páginas arriba, entonces utiliza las selecciones abajo para elegir que páginas se muestran en las Diapositivas de Promocionados."
+
+#: ../epanel/options_foxy.php:315
+msgid "Display Featured Slider"
+msgstr "Mostrar Diapositivas de Promocionados."
+
+#: ../epanel/options_foxy.php:319
+msgid "You can choose whether or not to display the Featured Articles section on the homepge. If you don't want to utilize this feature simply disable this option."
+msgstr "Aquí puedes elegir mostrar la sección Artículos Promocionados. Si no deseas utilizarlos desactiva esta opción."
+
+#: ../epanel/options_foxy.php:322
+msgid "Duplicate Featured Articles"
+msgstr "Duplicar Artículos Promocionados"
+
+#: ../epanel/options_foxy.php:326
+msgid "In some cases your Featured Articles will also be one of your most recent articles, in which case the article will be displayed twice on the homepage. If you would like to remove duplicate posts enable this option."
+msgstr "Algunas veces tus Artículos Promocionados serán uno de tus mas recientes, en ese caso el articulo se mostrará dos veces en la página de inicio. Si quieres eliminar duplicados activa esta opción."
+
+#: ../epanel/options_foxy.php:331
+msgid "Number of Featured Slides"
+msgstr "Número de diapositivas destacadas"
+
+#: ../epanel/options_foxy.php:335
+msgid "This setting controls how menu tabs are added to the Featured Articles slider on the homepage."
+msgstr "Esta configuración controla cuantas pestañas se añaden a las diapositivas de Artículos Promocionados en la página inicial."
+
+#: ../epanel/options_foxy.php:339
+msgid "Featured Posts Category"
+msgstr "Categoría de publicaciones promocionadas"
+
+#: ../epanel/options_foxy.php:343
+msgid "Here you can choose which category to be used to populate the Featured Slider on the homepage. This only applies if you have disabled the Use Pages options below."
+msgstr "Aquí puedes elegir la categoría para cargar las diapositivas Promocionadas en la página de inicio. Solo aplica si has desactivado el Usar Páginas abajo."
+
+#: ../epanel/options_foxy.php:347
+msgid "Use pages"
+msgstr "Usar Páginas"
+
+#: ../epanel/options_foxy.php:351
+msgid "The homepage Featured Slider can be set up using two methods. You can populate the slider using Posts, or you can populate it using Pages. If you would like to use Pages in the Featured Slider then enable this option."
+msgstr "Las diapositivas Promocionadas en la página de inicio se pueden usar de dos formas. Utilizando Publicaciones o utilizando páginas. Si quieres utilizar páginas como diapositiva activa esta opción."
+
+#: ../epanel/options_foxy.php:356
+msgid "Include pages in the Featured Slider (if Use Pages enabled)"
+msgstr "Incluir páginas en Diapositivas Promocionadas (si Usar Páginas está activo)"
+
+#: ../epanel/options_foxy.php:365
+msgid "Automatic Slider Animation"
+msgstr "Animación Automática de Diapositivas"
+
+#: ../epanel/options_foxy.php:369
+msgid "If you would like the Featured Articles slider to slide automatically, without the visitor having to click the next button, enable this option and then adjust the rotation speed below if desired."
+msgstr "Si deseas diapositivas destacadas que se deslicen automáticamente sin que el visitante haga clic, activa esta opción y ajusta la velocidad de rotación como desees."
+
+#: ../epanel/options_foxy.php:374
+msgid "Automatic Animation Speed (in ms)"
+msgstr "Velocidad Automática de Animación (en ms)"
+
+#: ../epanel/options_foxy.php:378
+msgid "Here you can designate how fast the slider fades between each article. The higher the number the longer the pause between each rotation."
+msgstr "Aquí puedes elegir que rápido las diapositivas cambian entre cada articulo. Número mas alto indica una mayor pausa."
+
+#: ../epanel/options_foxy.php:415
+msgid "Exclude pages from the navigation bar"
+msgstr "Excluir páginas de la barra de navegación"
+
+#: ../epanel/options_foxy.php:419
+msgid "Here you can choose to remove certain pages from the navigation menu. All pages marked with an X will not appear in your navigation bar. "
+msgstr "Aquí puedes elegir eliminar ciertas páginas del menú de navegación. Todas las páginas marcadas con X no aparecerán en la barra de navegación. "
+
+#: ../epanel/options_foxy.php:423 ../epanel/options_foxy.php:478
+msgid "Show dropdown menus"
+msgstr "Mostrar menús desplegables"
+
+#: ../epanel/options_foxy.php:427
+msgid "If you would like to remove the dropdown menus from the pages navigation bar disable this feature."
+msgstr "Si deseas remover el menú desplegable de la barra de navegación de páginas desactiva aquí"
+
+#: ../epanel/options_foxy.php:430
+msgid "Display Home link"
+msgstr "Mostrar enlace de Inicio"
+
+#: ../epanel/options_foxy.php:434
+msgid "By default the theme creates a Home link that, when clicked, leads back to your blog's homepage. If, however, you are using a static homepage and have already created a page called Home to use, this will result in a duplicate link. In this case you should disable this feature to remove the link."
+msgstr "Predeterminado el tema crea un enlace a Inicio que cuando se hace clic te lleva a tu página inicial. Si utilizas una página estática y has creado una página Inicio a usar, esto causara dos enlaces a inicio. En este caso deberías desactivar esta característica."
+
+#: ../epanel/options_foxy.php:439
+msgid "Sort Pages Links"
+msgstr "Ordenar Enlaces de Páginas"
+
+#: ../epanel/options_foxy.php:443
+msgid "Here you can choose to sort your pages links."
+msgstr "Aquí puedes elegir ordenar los enlaces de páginas."
+
+#: ../epanel/options_foxy.php:446
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Ordenar Enlaces de Páginas Ascendente/Descendente"
+
+#: ../epanel/options_foxy.php:450
+msgid "Here you can choose to reverse the order that your pages links are displayed. You can choose between ascending and descending."
+msgstr "Acá puedes seleccionar invertir el orden de los links de las páginas que son desplegadas. Puedes elegir entre ascendente o descendente"
+
+#: ../epanel/options_foxy.php:453 ../epanel/options_foxy.php:494
+#, fuzzy
+msgid "Number of dropdown tiers shown"
+msgstr "Número de niveles de menú dropdown"
+
+#: ../epanel/options_foxy.php:457 ../epanel/options_foxy.php:498
+#, fuzzy
+msgid "This options allows you to control how many teirs your pages dropdown menu has. Increasing the number allows for additional menu items to be shown."
+msgstr "Esta opción te permiete controlar cuantos niveles de menú dropdown tendrás por página. Incrementar el número te permitirá  desplegar más elementos."
+
+#: ../epanel/options_foxy.php:470
+msgid "Exclude categories from the navigation bar"
+msgstr "Excluir categorías de barra de navegación"
+
+#: ../epanel/options_foxy.php:474
+msgid "Here you can choose to remove certain categories from the navigation menu. All categories marked with an X will not appear in your navigation bar. "
+msgstr "Acá puedes seleccionar las categorías que deseas quitar del menú. Todas las categorías marcadas con una X no aparecerán en la barra de navegación."
+
+#: ../epanel/options_foxy.php:482
+msgid "If you would like to remove the dropdown menus from the categories navigation bar disable this feature."
+msgstr "Si deseas quitar los menú dropdown de la barra de navegación de categorías des"
+
+#: ../epanel/options_foxy.php:485
+msgid "Hide empty categories"
+msgstr "Ocultar categorías vacias"
+
+#: ../epanel/options_foxy.php:489
+msgid "If you would like categories to be displayed in your navigationbar that don't have any posts in them then disable this option. By default empty categories are hidden"
+msgstr "Si quieres mostrar las categorías en tu barra de navegación que no posee ninguna publicación entonces desactiva esta opción. Las categorías vacías se ocultan de otra forma."
+
+#: ../epanel/options_foxy.php:504
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Ordenar Enlaces de Categorías por Nombre/ID/Slug/Cantidad/Grupo"
+
+#: ../epanel/options_foxy.php:508
+msgid "By default pages are sorted by name. However if you would rather have them sorted by ID you can adjust this setting."
+msgstr "De forma predeterminada las páginas se ordenan por nombre. Puedes ordenarlas por ID en esta configuración"
+
+#: ../epanel/options_foxy.php:511
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Ordenar Enlaces de Categoría Ascendente/Descendente"
+
+#: ../epanel/options_foxy.php:515
+msgid "Here you can choose to reverse the order that your categories links are displayed. You can choose between ascending and descending."
+msgstr "Aquí puedes elegir invertir el orden de los enlaces de categorías. Puedes elegir entre Ascendente y Descendente."
+
+#: ../epanel/options_foxy.php:524
+msgid "Disable top tier dropdown menu links"
+msgstr "Desactivar la parte superior de los enlaces en menú desplegable"
+
+#: ../epanel/options_foxy.php:528
+msgid "In some cases users will want to create parent categories or links as placeholders to hold a list of child links or categories. In this case it is not desirable to have the parent links lead anywhere, but instead merely serve an organizational function. Enabling this options will remove the links from all parent pages/categories so that they don't lead anywhere when clicked."
+msgstr "En algunos casos los usuarios querrán crear categorías padres o enlaces como contenedores para almacenar un listado de categorías hijo. En ese caso no se desea que los enlaces padres redirijan a ningún lado, sino solo como organización. Activando esta opción eliminara los enlaces de todas las páginas/categorías para que no envíen a ningún lado al hacer clic."
+
+#: ../epanel/options_foxy.php:548
+msgid "Single Post Layout"
+msgstr "Diseño de Publicación Simple"
+
+#: ../epanel/options_foxy.php:553
+msgid "Single Page Layout"
+msgstr "Diseño de Página Simple"
+
+#: ../epanel/options_foxy.php:566
+msgid "Choose which items to display in the postinfo section"
+msgstr "Elegir que elementos mostrar en la sección postinfo"
+
+#: ../epanel/options_foxy.php:570
+msgid "Here you can choose which items appear in the postinfo section on single post pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr "Aquí puedes elegir que elementos aparecerán en la sección postinfo de las páginas con una sola publicación. Esta área, usualmente bajo el titulo de la publicación, muestra la información acerca de la misma. Los elementos resaltados aparecerán. "
+
+#: ../epanel/options_foxy.php:573
+msgid "Place Thumbs on Posts"
+msgstr "Colocar Imágenes en miniatura en Publicaciones"
+
+#: ../epanel/options_foxy.php:577
+msgid "By default thumbnails are placed at the beginning of your post on single post pages. If you would like to remove this initial thumbnail image to avoid repetition simply disable this option. "
+msgstr "De forma predeterminada las imágenes en miniatura se colocan al principio de tu publicación en páginas de una sola publicación. Si quieres eliminar esta imagen para evitar repetición desactiva esta opción. "
+
+#: ../epanel/options_foxy.php:580
+msgid "Show comments on posts"
+msgstr "Mostrar comentarios en publicaciones"
+
+#: ../epanel/options_foxy.php:584
+msgid "You can disable this option if you want to remove the comments and comment form from single post pages. "
+msgstr "Puedes desactivar esta opción si quieres eliminar los comentarios y el formulario de comentarios de las páginas de una sola publicación. "
+
+#: ../epanel/options_foxy.php:595
+msgid "Place Thumbs on Pages"
+msgstr "Colocar Imágenes Miniatura en Páginas"
+
+#: ../epanel/options_foxy.php:599
+msgid "By default thumbnails are not placed on pages (they are only used on posts). However, if you want to use thumbnails on posts you can! Just enable this option. "
+msgstr "De forma predeterminada no se colocan en páginas ("
+
+#: ../epanel/options_foxy.php:602
+msgid "Show comments on pages"
+msgstr "Mostrar comentarios en páginas"
+
+#: ../epanel/options_foxy.php:606
+msgid "By default comments are not placed on pages, however, if you would like to allow people to comment on your pages simply enable this option. "
+msgstr "De forma predeterminada los comentarios no se muestran en las páginas. Puedes activar los comentarios en páginas activando esta opción. "
+
+#: ../epanel/options_foxy.php:617
+msgid "Post info section"
+msgstr "Sección Post info"
+
+#: ../epanel/options_foxy.php:621
+msgid "Here you can choose which items appear in the postinfo section on pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr "Aquí puedes elegir que elementos aparecerán en la sección postinfo en páginas. Esta área usualmente bajo el titulo de la publicación muestra la información de la misma. Los elementos resaltados se mostraran. "
+
+#: ../epanel/options_foxy.php:626
+msgid "Show Thumbs on Index pages"
+msgstr "Mostrar miniaturas en páginas Indice"
+
+#: ../epanel/options_foxy.php:630
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "Activa esta opción para mostrar miniaturas en páginas Indice"
+
+#: ../epanel/options_foxy.php:632
+msgid "Show Author Avatar on Blog Posts"
+msgstr "Mostrar Avatar de Autor en Publicaciones"
+
+#: ../epanel/options_foxy.php:636
+msgid "Enable this option to show the post author avatar on Blog Posts."
+msgstr "Activa esta opción para mostrar el avatar del autor en las publicaciones del Blog"
+
+#: ../epanel/options_foxy.php:655
+msgid "Homepage SEO"
+msgstr "SEO Pagina de Inicio"
+
+#: ../epanel/options_foxy.php:660
+msgid "Single Post Page SEO"
+msgstr "SEO Publicación de página simple"
+
+#: ../epanel/options_foxy.php:665
+msgid "Index Page SEO"
+msgstr "SEO Página de Indice"
+
+#: ../epanel/options_foxy.php:673
+msgid " Enable custom title "
+msgstr " Activar titulo personalizado"
+
+#: ../epanel/options_foxy.php:677
+msgid "By default the theme uses a combination of your blog name and your blog description, as defined when you created your blog, to create your homepage titles. However if you want to create a custom title then simply enable this option and fill in the custom title field below. "
+msgstr "De forma predeterminada el tema utiliza el nombre de tu blog y la descripción del mismo que defines al crear tu página de inicio. Sin embargo si quieres crear un título personalizado activa esta opción y llena el campo personalizado abajo. "
+
+#: ../epanel/options_foxy.php:680
+msgid " Enable meta description"
+msgstr " Activar meta descripción"
+
+#: ../epanel/options_foxy.php:684
+msgid "By default the theme uses your blog description, as defined when you created your blog, to fill in the meta description field. If you would like to use a different description then enable this option and fill in the custom description field below. "
+msgstr "De forma predeterminada el tema utiliza la descripción del blog, como definiste cuando creaste el blog, para llenar el campo meta descripción. Si deseas utilizar otra activa esta opción y llena el campo personalizado abajo. "
+
+#: ../epanel/options_foxy.php:687
+msgid " Enable meta keywords"
+msgstr " Activar meta palabras clave"
+
+#: ../epanel/options_foxy.php:691
+msgid "By default the theme does not add keywords to your header. Most search engines don't use keywords to rank your site anymore, but some people define them anyway just in case. If you want to add meta keywords to your header then enable this option and fill in the custom keywords field below. "
+msgstr "De forma predeterminada el tema no añade palabras clave a su sitio. La mayoría de motores de búsqueda no utilizan las palabras clave para calificar su sitio, sin embargo algunos las definen por si acaso. Si quieres añadir palabras clave meta a su encabezado active esta opción y llene las palabras clave abajo. "
+
+#: ../epanel/options_foxy.php:694 ../epanel/options_foxy.php:827
+msgid " Enable canonical URL's"
+msgstr " Habilitar URL's canonicas"
+
+#: ../epanel/options_foxy.php:698
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URLs all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treaded individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr "La canonicalización ayuda a prevenir indexar contenido duplicado por motores de búsqueda, como resutlado puede ayudar evitar penalidades por contenido repetido y degradación en el rango de la página. Definir una URL canónica avisa al motor de búsqueda que URL quieres utilizar de forma oficial. El tema basa su URL canónica en base a sus \"permalinks\" y el nombre de dominio en la pestaña de configuración de wp-admin."
+
+#: ../epanel/options_foxy.php:703
+msgid "Homepage custom title (if enabled)"
+msgstr "Título personalizado en página de inicio (al activar)"
+
+#: ../epanel/options_foxy.php:707
+msgid "If you have enabled custom titles you can add your custom title here. Whatever you type here will be placed between the < title >< /title > tags in header.php"
+msgstr "Si activaste títulos personalizados puedes añadirlo aquí. Lo que escribas aquí se colocara en etiquetas <title></title> en header.php"
+
+#: ../epanel/options_foxy.php:711
+msgid "Homepage meta description (if enabled)"
+msgstr "La meta descripción de la página de inicio (al activar)"
+
+#: ../epanel/options_foxy.php:715
+msgid "If you have enabled meta descriptions you can add your custom description here."
+msgstr "Si activaste la meta descripción puedes añadir descripción personalizada aquí."
+
+#: ../epanel/options_foxy.php:719
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Palabras meta en página de inicio (al activar)"
+
+#: ../epanel/options_foxy.php:723
+msgid "If you have enabled meta keywords you can add your custom keywords here. Keywords should be separated by comas. For example: wordpress,themes,templates,elegant"
+msgstr "Si activaste las palabras meta puedes añadir las personalizadas aquí. Las palabras clave se separan por comas. Por ejemplo: wodrpess,temas,etchq"
+
+#: ../epanel/options_foxy.php:727 ../epanel/options_foxy.php:805
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr "Si los títulos personalizados están desactivados, elige método de autogenerar"
+
+#: ../epanel/options_foxy.php:732
+msgid "If you are not using cutsom post titles you can still have control over how your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr "Si no utilizas títulos de publicación personalizados aún puedes tener control de como se generan los títulos. Puedes elegir el orden en el que deseas se muestre o eliminar completamente el nombre del blog del título."
+
+#: ../epanel/options_foxy.php:735 ../epanel/options_foxy.php:813
+#: ../epanel/options_foxy.php:851
+msgid "Define a character to separate BlogName and Post title"
+msgstr "Elige un caracter para serpara el NombredelBlog del título de la publicación"
+
+#: ../epanel/options_foxy.php:739 ../epanel/options_foxy.php:817
+msgid "Here you can change which character separates your blog title and post name when using autogenerated post titles. Common values are | or -"
+msgstr "Aquí puedes cambiar que carácter separa el título del blog y nombre de publicación cuando utilizas títulos de publicación auto generados. Valores comunes son | o -"
+
+#: ../epanel/options_foxy.php:749
+msgid "Enable custom titles"
+msgstr "Activar títulos personalizados"
+
+#: ../epanel/options_foxy.php:753
+msgid "By default the theme creates post titles based on the title of your post and your blog name. If you would like to make your meta title different than your actual post title you can define a custom title for each post using custom fields. This option must be enabled for custom titles to work, and you must choose a custom field name for your title below."
+msgstr "Predeterminado el tema crea los títulos de las publicaciones de forma automática de tu publicación y nombre de blog. Si deseas hacer tu titulo meta diferente de tu publicación actual puedes definir un título para cada publicación utilizando campos personalizados. Esta opción debe estar activada para que los títulos personalizados funcionen y debes elegir un nombre de campo personalizado."
+
+#: ../epanel/options_foxy.php:756
+msgid "Enable custom description"
+msgstr "Habilitar descripción personalizada"
+
+#: ../epanel/options_foxy.php:760
+msgid "If you would like to add a meta description to your post you can do so using custom fields. This option must be enabled for descriptions to be displayed on post pages. You can add your meta description using custom fields based off the custom field name you define below."
+msgstr "Puedes utilizar la meta descripción desde campos personalizados. Esta opción debe estar hablitada para mostrar las descripciones en las páginas. Puedes añadir la descripción meta utilizando campos personalizados en el nombre que definas aquí."
+
+#: ../epanel/options_foxy.php:765
+msgid "Enable custom keywords"
+msgstr "Habilitar palabras clave personalizadas"
+
+#: ../epanel/options_foxy.php:769
+msgid "If you would like to add meta keywords to your post you can do so using custom fields. This option must be enabled for keywords to be displayed on post pages. You can add your meta keywords using custom fields based off the custom field name you define below."
+msgstr "Si deseas añadir meta palabras clave a tu publicación lo puedes hacer por campos personalizados. Esta opción debe estar activada para que las palabras clave se muestren en publicaciones. Puedes añadir las palabras clave usando el campo personalizado definido aquí."
+
+#: ../epanel/options_foxy.php:772
+msgid "Enable canonical URL's"
+msgstr "Hablitar URL's canonicas"
+
+#: ../epanel/options_foxy.php:776 ../epanel/options_foxy.php:831
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URL's all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treaded individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr "Canonizar ayuda evitar el indexado de contenido duplicado por los motores de busqueda y por consiguiente evitar penalidades. Algunas páginas tienen diferente URL y dirigen al mismo sitio. Definir una URL canónica le indica al buscador cual es la URL que oficialmente quieres utilizar."
+
+#: ../epanel/options_foxy.php:781
+msgid "Custom field Name to be used for title"
+msgstr "Nombre de campo personalizado para utilizar como título"
+
+#: ../epanel/options_foxy.php:785
+msgid "When you define your title using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom title you would like to use."
+msgstr "Cuando defines el título por medio de campos personalizados utiliza este valor para el campo personalizado."
+
+#: ../epanel/options_foxy.php:789
+msgid "Custom field Name to be used for description"
+msgstr "Nombre de campo personalizado para utilizar como descripción"
+
+#: ../epanel/options_foxy.php:793
+msgid "When you define your meta description using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom description you would like to use."
+msgstr "Cuando defines la meta descripción por medio de campos personalizados utiliza este valor para el campo personalizado."
+
+#: ../epanel/options_foxy.php:797
+msgid "Custom field Name to be used for keywords"
+msgstr "Nombre de campo personalizado para utilizar como palabras clave."
+
+#: ../epanel/options_foxy.php:801
+msgid "When you define your keywords using custom fields you should use this value for the custom field Name. The Value of your custom field should be the meta keywords you would like to use, separated by comas."
+msgstr "Cuando defines las palabras clave por medio de campos personalizados utiliza este valor para el campo personalizado."
+
+#: ../epanel/options_foxy.php:810
+msgid "If you are not using cutsom post titles you can still have control over hw your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr "Si no utilizas títulos personalizados aún puedes tener control sobre como se generan. Puedes elegir el orden de tu publicación y nombre de blog para desplegar o puedes eliminar el nombre de blog completamente."
+
+#: ../epanel/options_foxy.php:834
+msgid "Enable meta descriptions"
+msgstr "Hablitar descripciones meta"
+
+#: ../epanel/options_foxy.php:838
+msgid "Check this box if you want to display meta descriptions on category/archive pages. The description is based off the category description you choose when creating/edit your category in wp-admin."
+msgstr "Selecciona si deseas mostrar meta descripción en archivo/categoría. Esta descripción está basada en la categoría cuando creas/editas la categoría en wp-admin."
+
+#: ../epanel/options_foxy.php:843
+msgid "Choose title autogeneration method"
+msgstr "Elegir método de auto generación de título"
+
+#: ../epanel/options_foxy.php:848
+msgid "Here you can choose how your titles on index pages are generated. You can change which order your blog name and index title are displayed, or you can remove the blog name from the title completely."
+msgstr "Puedes elegir como tus títulos en páginas indice se generan. Puedes cambiar el orden del nombre del blog y el título del indice o eliminar el nombre del blog del título."
+
+#: ../epanel/options_foxy.php:855
+msgid "Here you can change which character separates your blog title and index page name when using autogenerated post titles. Common values are | or -"
+msgstr "Aquí puedes cambiar el caracter que separa el título del blog y el nombre de la página de indice utilizando títulos de publicación autogenerado. Valores comunes | o -"
+
+#: ../epanel/options_foxy.php:876
+msgid "Code Integration"
+msgstr "Integración de Código"
+
+#: ../epanel/options_foxy.php:884
+msgid "Enable header code"
+msgstr "Activar código de encabezado"
+
+#: ../epanel/options_foxy.php:888
+msgid "Disabling this option will remove the header code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Desactivar esta opción eliminará el código de encabezado debajo del blog. Esto permite guardar el código y no utilizarlo."
+
+#: ../epanel/options_foxy.php:891
+msgid "Enable body code"
+msgstr "Activar código de cuerpo"
+
+#: ../epanel/options_foxy.php:895
+msgid "Disabling this option will remove the body code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Desactivar esta opción eliminará el código del cuerpo de ser usado en el blog. Permite eliminar el código mientras lo guardas para uso posterior."
+
+#: ../epanel/options_foxy.php:900
+msgid "Enable single top code"
+msgstr "Activar código único superior"
+
+#: ../epanel/options_foxy.php:904
+msgid "Disabling this option will remove the single top code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Desactivar esta opción eliminará el código debajo de su blog. Esto permite que lo elimines pero guardarlo para uso posterior."
+
+#: ../epanel/options_foxy.php:907
+msgid "Enable single bottom code"
+msgstr "Activar código de fondo simple"
+
+#: ../epanel/options_foxy.php:911
+msgid "Disabling this option will remove the single bottom code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Desactivar esta opción eliminará el código debajo del blog. Permite guardar el código para uso posterior."
+
+#: ../epanel/options_foxy.php:916
+msgid "Add code to the < head > of your blog"
+msgstr "Añade el código a la etiqueta < head > de tu blog"
+
+#: ../epanel/options_foxy.php:920
+msgid "Any code you place here will appear in the head section of every page of your blog. This is useful when you need to add javascript or css to all pages."
+msgstr "Cualquier código que muestres aquí aparecerá en la sección encabezado de cada página de tu blog. Esto es útil cuando deseas añadir css o javascript a todas tus páginas."
+
+#: ../epanel/options_foxy.php:923
+msgid "Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr "Añade código al < body >. Util para códigos de rastreo como google analytics"
+
+#: ../epanel/options_foxy.php:927
+msgid "Any code you place here will appear in body section of all pages of your blog. This is usefull if you need to input a tracking pixel for a state counter such as Google Analytics."
+msgstr "Cualquier código que coloques aquí aparecerá en la sección de cuerpo de todas las páginas de tu blog. Útil para rastreo de estados como Google Analytics."
+
+#: ../epanel/options_foxy.php:930
+msgid "Add code to the top of your posts"
+msgstr "Añadir códiigo a la parte superior de tus publicaciones"
+
+#: ../epanel/options_foxy.php:934 ../epanel/options_foxy.php:941
+msgid "Any code you place here will be placed at the top of all single posts. This is useful if you are looking to integrating things such as social bookmarking links."
+msgstr "Cualquier código que coloques aquí se colocará en la parte superior de cada publicación individual. Esto es útil si buscas integrar cosas como enlaces sociales."
+
+#: ../epanel/options_foxy.php:937
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Añade código debajo de tus publicaciones, antes de los comentarios"
+
+#: ../epanel/options_foxy.php:959
+msgid "Documentation"
+msgstr "Documentación"
+
+#: ../epanel/options_foxy.php:985
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Administrar Anuncios sin-widget"
+
+#: ../epanel/options_foxy.php:993
+msgid "Enable Single Post 468x60 banner"
+msgstr "Habilitar Banner 468x60 en publicación simple"
+
+#: ../epanel/options_foxy.php:997
+msgid "Enabling this option will display a 468x60 banner ad on the bottom of your post pages below the single post content. If enabled you must fill in the banner image and destination url below."
+msgstr "Esta opción habilita un anuncio de 486x60 en el inferior de tus páginas de publicación bajo el contenido de la publicación. Si está activado debes llenar la imagen de banner y dirección de destino abajo."
+
+#: ../epanel/options_foxy.php:1002
+msgid "Input 468x60 advertisement banner image"
+msgstr "Ingrese imagen de publicidad de 486x60"
+
+#: ../epanel/options_foxy.php:1006
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Aquí puedes ingresar la URL de la imagen del banner"
+
+#: ../epanel/options_foxy.php:1010
+msgid "Input 468x60 advertisement destination url"
+msgstr "Ingrese URL de destino para el anuncio de 486x60"
+
+#: ../epanel/options_foxy.php:1014
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Aquí puedes ingresar la dirección de destino para el banner de 468x60"
+
+#: ../epanel/options_foxy.php:1018
+msgid "Input 468x60 adsense code"
+msgstr "Ingresa el código adsense de 486x60"
+
+#: ../epanel/options_foxy.php:1022
+msgid "Place your adsense code here."
+msgstr "Ingrese su código adsense aquí"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Fill"
+msgstr "Llenar"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "field"
+msgstr "campo"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Invalid email"
+msgstr "email invalido"
+
+#: ../epanel/page_templates/page_templates.php:37
+msgid "ET Page Template Settings"
+msgstr "Configuración de Plantilla de Página ET"
+
+#: ../epanel/page_templates/page_templates.php:64
+msgid "Additional settings appear here, when one of ET page templates is selected ( Page Attributes -> Template )"
+msgstr "Configuración adicional aparece aquí, cuando alguna plantilla de página ET se selecciona (Atributos de Página - Plantilla)"
+
+#: ../epanel/page_templates/page_templates.php:69
+msgid "Full Width Page"
+msgstr "Página de Ancho completo"
+
+#: ../epanel/page_templates/page_templates.php:74
+msgid "Regenerate captcha numbers"
+msgstr "Regenerar números captcha"
+
+#: ../epanel/page_templates/page_templates.php:78
+msgid "Email To:"
+msgstr "Enviar email a:"
+
+#: ../epanel/page_templates/page_templates.php:84
+msgid "Blog Style mode"
+msgstr "Estilo de blog"
+
+#: ../epanel/page_templates/page_templates.php:89
+msgid "Hide Auto Thumbnail"
+msgstr "Ocultar auto miniaturas de imagen"
+
+#: ../epanel/page_templates/page_templates.php:94
+msgid "Show Titles"
+msgstr "Mostrar Títulos"
+
+#: ../epanel/page_templates/page_templates.php:99
+msgid "Show Descriptions"
+msgstr "Mostrar Descripciones"
+
+#: ../epanel/page_templates/page_templates.php:104
+msgid "Detect Portrait Images"
+msgstr "Detectar Imagenes de Portrato (Verticales)"
+
+#: ../epanel/page_templates/page_templates.php:108
+msgid "Thumbnail Size:"
+msgstr "Tamaño de vista previa:"
+
+#: ../epanel/page_templates/page_templates.php:109
+msgid "Small"
+msgstr "Pequeño"
+
+#: ../epanel/page_templates/page_templates.php:110
+msgid "Medium"
+msgstr "Mediano"
+
+#: ../epanel/page_templates/page_templates.php:111
+msgid "Large"
+msgstr "Grande"
+
+#: ../epanel/page_templates/page_templates.php:115
+#: ../epanel/page_templates/page_templates.php:120
+msgid "Number of posts per page:"
+msgstr "Número de publicaciones por página:"
+
+#: ../epanel/page_templates/page_templates.php:125
+msgid "Select blog categories:"
+msgstr "Seleccione categorías de blog:\n"
+""
+
+#: ../epanel/page_templates/page_templates.php:144
+msgid "Select gallery categories:"
+msgstr "Selecciones categorías de galería:"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Previous"
+msgstr "Anterior"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Next"
+msgstr "Siguiente"
+
+#: ../epanel/shortcodes/shortcodes.php:302
+msgid "Member Login"
+msgstr "Ingreso de Miembro"
+
+#: ../epanel/shortcodes/shortcodes.php:305
+msgid "Username: "
+msgstr "Nombre de usuario: "
+
+#: ../epanel/shortcodes/shortcodes.php:306
+msgid "Password: "
+msgstr "Contraseña: "
+
+#: ../epanel/shortcodes/shortcodes.php:307
+msgid "Login"
+msgstr "Ingresar"
+
+#: ../epanel/shortcodes/shortcodes.php:343
+msgid "Add a Tooltip Text"
+msgstr "Añadir texto de ayuda"
+
+#: ../epanel/shortcodes/shortcodes.php:365
+msgid "Click here to learn more"
+msgstr "Haz click para aprender más"
+
+#: ../epanel/shortcodes/shortcodes.php:973
+msgid "Caption"
+msgstr "Leyenda"
+
+#: ../epanel/shortcodes/shortcodes.php:974
+msgid "Caption goes here"
+msgstr "Aquí va la leyenda"
+
+#: ../epanel/shortcodes/shortcodes.php:975
+msgid "Caption title goes here"
+msgstr "Título va aquí"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "State"
+msgstr "Estado"
+
+#: ../epanel/shortcodes/shortcodes.php:981
+msgid "Select between expanded and closed state"
+msgstr "Seleccione entre estado expandido y cerrado"
+
+#: ../epanel/shortcodes/shortcodes.php:986
+#: ../epanel/shortcodes/shortcodes.php:1002
+#: ../epanel/shortcodes/shortcodes.php:1031
+#: ../epanel/shortcodes/shortcodes.php:1111
+msgid "Content"
+msgstr "Contenido"
+
+#: ../epanel/shortcodes/shortcodes.php:987
+#: ../epanel/shortcodes/shortcodes.php:1003
+#: ../epanel/shortcodes/shortcodes.php:1089
+#: ../epanel/shortcodes/shortcodes.php:1112
+msgid "Content goes here"
+msgstr "Aquí va contenido"
+
+#: ../epanel/shortcodes/shortcodes.php:988
+#: ../epanel/shortcodes/shortcodes.php:1004
+#: ../epanel/shortcodes/shortcodes.php:1033
+msgid "Content text or html"
+msgstr "Texto o HTML"
+
+#: ../epanel/shortcodes/shortcodes.php:995
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "Type"
+msgstr "Typo"
+
+#: ../epanel/shortcodes/shortcodes.php:997
+msgid "Type of the box"
+msgstr "Typo de caja"
+
+#: ../epanel/shortcodes/shortcodes.php:1011
+msgid "Link"
+msgstr "Link"
+
+#: ../epanel/shortcodes/shortcodes.php:1013
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1019
+msgid "Choose button type"
+msgstr "Elige tipo de botón"
+
+#: ../epanel/shortcodes/shortcodes.php:1024
+msgid "Color"
+msgstr "Color"
+
+#: ../epanel/shortcodes/shortcodes.php:1026
+msgid "Choose button color"
+msgstr "Elige color de botón"
+
+#: ../epanel/shortcodes/shortcodes.php:1032
+msgid "Link text"
+msgstr "Texto de vinculo"
+
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Icon"
+msgstr "Íconon"
+
+#: ../epanel/shortcodes/shortcodes.php:1039
+msgid "Used for icon button type"
+msgstr "Utilizado para tipo de botón con ícono"
+
+#: ../epanel/shortcodes/shortcodes.php:1044
+msgid "Open link in new window"
+msgstr "Abrir enlace en nueva ventana"
+
+#: ../epanel/shortcodes/shortcodes.php:1046
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Selecciona Si para abrir en nueva ventana"
+
+#: ../epanel/shortcodes/shortcodes.php:1054
+msgid "Slider Type"
+msgstr "Tipo de Diapositivas"
+
+#: ../epanel/shortcodes/shortcodes.php:1056
+msgid "Select Slider Type here"
+msgstr "Seleccione el tipo de diapositivas aquí"
+
+#: ../epanel/shortcodes/shortcodes.php:1061
+msgid "Effect"
+msgstr "Efecto"
+
+#: ../epanel/shortcodes/shortcodes.php:1063
+msgid "Select Animation Effect"
+msgstr "Seleccione Efecto de Animación"
+
+#: ../epanel/shortcodes/shortcodes.php:1068
+msgid "Auto"
+msgstr "Auto"
+
+#: ../epanel/shortcodes/shortcodes.php:1070
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Seleccione si para activar una animación automática a sus diapositivas"
+
+#: ../epanel/shortcodes/shortcodes.php:1075
+msgid "Auto Speed"
+msgstr "Velocidad Automática"
+
+#: ../epanel/shortcodes/shortcodes.php:1077
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "Velocidad de diapositivas automatica (funciona solo si Auto está en Si)"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Tab Text"
+msgstr "Texto de Pestaña"
+
+#: ../epanel/shortcodes/shortcodes.php:1088
+msgid "Tab Content"
+msgstr "Contenido de Pestaña"
+
+#: ../epanel/shortcodes/shortcodes.php:1090
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr "Pegar dirección de imagen aquí. Si selecciona diapositivas tipo \"imagen\""
+
+#: ../epanel/shortcodes/shortcodes.php:1098
+msgid "Image Url"
+msgstr "URL de Imágen"
+
+#: ../epanel/shortcodes/shortcodes.php:1100
+msgid "Author Image URL"
+msgstr "URL de autor de imágen"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Use resizing"
+msgstr "Utilizar redimensionar"
+
+#: ../epanel/shortcodes/shortcodes.php:1181
+msgid "+ Add One More Tab"
+msgstr "+ Añadir nueva pestaña"
+
+#: ../epanel/shortcodes/shortcodes.php:1331
+msgid "Image Height"
+msgstr "Altura Imagen"
+
+#: ../epanel/shortcodes/shortcodes.php:1332
+msgid "Image Width"
+msgstr "Anchura Imagen"
+
+#: ../includes/breadcrumbs.php:14
+msgid "Posts Tagged "
+msgstr "Publicaciones Etiquetadas "
+
+#: ../includes/breadcrumbs.php:16 ../includes/breadcrumbs.php:18
+#: ../includes/breadcrumbs.php:20 ../includes/top_info.php:8
+#: ../includes/top_info.php:10 ../includes/top_info.php:12
+msgid "Posts made in"
+msgstr "Publicaciones hechas en"
+
+#: ../includes/breadcrumbs.php:22 ../includes/top_info.php:14
+msgid "Search results for"
+msgstr "Resultados de Búsqueda para"
+
+#: ../includes/breadcrumbs.php:68 ../includes/top_info.php:21
+msgid "Posts by "
+msgstr "Publicaciones por "
+
+#: ../includes/entry.php:41
+msgid "Read More"
+msgstr "Leer más"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Anteriores"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "&laquo; Older Entries"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Resultados no encontrados"
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "La página solicitada no se pudo encontrar. Intenta refinar tu búsqueda o utiliza el menú para navegar."
+
+#: ../includes/top_info.php:6
+msgid "Posts Tagged &quot;"
+msgstr "Publicaciones Etiquetadas &quot;"
+
+#: ../includes/functions/comments.php:8
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario esta esperando moderación."
+
+#: ../includes/functions/comments.php:16
+msgid "Reply"
+msgstr "Responder"
+
+#: ../includes/functions/comments.php:31
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../includes/functions/comments.php:34
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../includes/functions/installation.php:1
+msgid "Read Foxy Documentation"
+msgstr "Leer Documentación Foxy"
+
+#: ../woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr "Productos Relacionados"
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr "Tal vez te guste&hellip;"
+
