@@ -1,0 +1,2157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Notebook 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-02 21:06+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jossemar Cordero <hello@jossemargt.com>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Esta publicación está protegida por contraseña. Ingresa la contraseña para "
+"ver comentarios."
+
+#: ../comments.php:19 ../functions.php:117
+msgid "No Comments"
+msgstr "Sin comentarios"
+
+#: ../comments.php:19
+msgid "One Comment"
+msgstr "Un comentario"
+
+#: ../comments.php:19
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../comments.php:23 ../comments.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Comentarios antiguos"
+
+#: ../comments.php:24 ../comments.php:37
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Comentarios recientes <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr "Retroenlace/Pingbacks"
+
+#: ../comments.php:63 ../page-contact.php:144 ../page-search.php:78
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../comments.php:63
+#, fuzzy
+msgid "Submit a Comment"
+msgstr "Comentar"
+
+#: ../comments.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Responder a %s"
+
+#: ../footer.php:11
+#, php-format
+msgid "Designed by %s | Powered by %s"
+msgstr "Diseñado por %s | Impulsado por %s"
+
+#: ../functions.php:11
+msgid "Thin Vertical Lines"
+msgstr "Líneas delgadas verticales"
+
+#: ../functions.php:11
+msgid "Small Squares"
+msgstr "Cuadros pequeños"
+
+#: ../functions.php:11
+msgid "Thick Diagonal Lines"
+msgstr "Líneas gruesas diagonales"
+
+#: ../functions.php:11
+msgid "Thin Diagonal Lines"
+msgstr "Líneas delgadas diagonales"
+
+#: ../functions.php:11
+msgid "Diamonds"
+msgstr "Diamantes"
+
+#: ../functions.php:11
+msgid "Small Circles"
+msgstr "Circulos pequeños"
+
+#: ../functions.php:11
+msgid "Thick Vertical Lines"
+msgstr "Líneas gruesas verticales"
+
+#: ../functions.php:11
+msgid "Thin Flourish"
+msgstr "Floral delgado"
+
+#: ../functions.php:11
+msgid "Thick Flourish"
+msgstr "Floral grueso"
+
+#: ../functions.php:11
+msgid "Pocodot"
+msgstr "Pocodot"
+
+#: ../functions.php:11
+msgid "Checkerboard"
+msgstr "Damas"
+
+#: ../functions.php:11
+msgid "Squares"
+msgstr "Cuadros"
+
+#: ../functions.php:11
+msgid "Noise"
+msgstr "Ruido"
+
+#: ../functions.php:11
+msgid "Wooden"
+msgstr "Madera"
+
+#: ../functions.php:11
+msgid "Stone"
+msgstr "Piedra"
+
+#: ../functions.php:11
+msgid "Canvas"
+msgstr "Lienzo"
+
+#: ../functions.php:48
+msgid "Primary Menu"
+msgstr "Menú primario"
+
+#: ../functions.php:75
+#, php-format
+msgid "Posts by %s"
+msgstr "Publicaciones por %s"
+
+#: ../functions.php:89
+msgid "By"
+msgstr "Por"
+
+#: ../functions.php:93 ../page-blog.php:62
+#, fuzzy
+msgid "on"
+msgstr "el"
+
+#: ../functions.php:96 ../page-blog.php:62
+msgid "in"
+msgstr "en"
+
+#: ../functions.php:115
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: ../functions.php:119
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: ../functions.php:217
+msgid "Play"
+msgstr "Reproducir"
+
+#: ../functions.php:218
+msgid "Pause"
+msgstr "Pausa"
+
+#: ../functions.php:227
+msgid "Update Required"
+msgstr "Actualización requerida"
+
+#: ../functions.php:228
+#, php-format
+msgid ""
+"To play the media you will need to either update your browser to a recent "
+"version or update your %s."
+msgstr ""
+"Para reproducir multimedia necesitará actualizar su navegador web a una "
+"versión reciente o actualizar su %s."
+
+#: ../functions.php:310 ../loop-page.php:26 ../page-blog.php:104
+#: ../page-contact.php:152 ../page-gallery.php:85 ../page-search.php:50
+#: ../page-search.php:86 ../page-sitemap.php:44 ../page-sitemap.php:75
+#: ../page-template-portfolio.php:176 ../epanel/options_notebook.php:238
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../functions.php:311 ../loop-page.php:27 ../page-blog.php:105
+#: ../page-contact.php:153 ../page-gallery.php:86 ../page-login.php:58
+#: ../page-search.php:87 ../page-sitemap.php:76
+#: ../page-template-portfolio.php:177
+msgid "Edit this page"
+msgstr "Editar esta página"
+
+#: ../functions.php:331
+msgid "Example Colors"
+msgstr "Colores de ejemplo"
+
+#: ../functions.php:341 ../functions.php:352
+msgid "or define your own in ePanel"
+msgstr "o defina el suyo en ePanel"
+
+#: ../functions.php:343
+#, fuzzy
+msgid "Texture Overlays"
+msgstr "Cubiertas con textura"
+
+#: ../functions.php:362 ../functions.php:532
+msgid "Fonts"
+msgstr "Fuentes tipográficas"
+
+#: ../functions.php:365
+msgid "Header"
+msgstr "Encabezado"
+
+#: ../functions.php:376
+msgid "Body"
+msgstr "Cuerpo"
+
+#: ../functions.php:543 ../epanel/options_notebook.php:81
+msgid "Header Font"
+msgstr "Fuente tipográfica de encabezado"
+
+#: ../functions.php:557 ../epanel/options_notebook.php:96
+msgid "Body Font"
+msgstr "Fuente tipográfica de cuerpo"
+
+#: ../header.php:59 ../epanel/custom_functions.php:434
+#: ../includes/breadcrumbs.php:4
+msgid "Home"
+msgstr "Inicio"
+
+#: ../page-blog.php:62
+msgid "Posted"
+msgstr "Publicado"
+
+#: ../page-blog.php:62
+msgid "by"
+msgstr "por"
+
+#: ../page-blog.php:62 ../includes/postinfo.php:3 ../includes/postinfo.php:10
+msgid "0 comments"
+msgstr "0 comentarios"
+
+#: ../page-blog.php:62 ../includes/postinfo.php:3 ../includes/postinfo.php:10
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: ../page-blog.php:62 ../includes/postinfo.php:3 ../includes/postinfo.php:10
+msgid "comments"
+msgstr "comentarios"
+
+#: ../page-blog.php:82
+msgid "read more"
+msgstr "leer más"
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr "Revise si ha ingresado el captcha"
+
+#: ../page-contact.php:22
+msgid "Numbers regenerated."
+msgstr "Números regenerados"
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr "Ha introducido un número erroneo en el captcha."
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr "Revise que haya llenado todos los campos."
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr "Email invalido"
+
+#: ../page-contact.php:65
+msgid "Thanks for contacting us"
+msgstr "Gracias por contactarnos"
+
+#: ../page-contact.php:108 ../page-contact.php:109
+msgid "Name"
+msgstr "Nombre"
+
+#: ../page-contact.php:113 ../page-contact.php:114
+msgid "Email Address"
+msgstr "Email"
+
+#: ../page-contact.php:118 ../page-contact.php:119
+msgid "Subject"
+msgstr "Encabezado"
+
+#: ../page-contact.php:126
+msgid "Captcha: "
+msgstr "Captcha:"
+
+#: ../page-contact.php:137 ../page-contact.php:138
+msgid "Message"
+msgstr "Mensaje"
+
+#: ../page-contact.php:143 ../epanel/core_functions.php:203
+#: ../epanel/core_functions.php:377
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ../page-gallery.php:67 ../page-template-portfolio.php:128
+msgid "Zoom in"
+msgstr "Acercar"
+
+#: ../page-gallery.php:68 ../page-template-portfolio.php:129
+msgid "Read more"
+msgstr "Leer más"
+
+#: ../page-login.php:48
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ../page-login.php:49
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../page-search.php:44
+msgid "search this website"
+msgstr "buscar en este sitio"
+
+#: ../page-search.php:47
+msgid "search this site..."
+msgstr "buscar en este sitio..."
+
+#: ../page-search.php:49
+msgid "Posts"
+msgstr "Publicaciones"
+
+#: ../page-search.php:53
+msgid "Select a month"
+msgstr "Seleccione un mes"
+
+#: ../page-sitemap.php:49 ../epanel/options_notebook.php:243
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../page-sitemap.php:54
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../page-sitemap.php:68
+msgid "Authors"
+msgstr "Autores"
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Buscar"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:389
+msgid "Saving..."
+msgstr "Guardando..."
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Opciones guardadas."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Opciones"
+
+#: ../epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr "Opciones de tema"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "Configuraciones guardadas."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "Reiniciar configuraciones"
+
+#: ../epanel/core_functions.php:111 ../epanel/options_notebook.php:379
+msgid "General Settings"
+msgstr "Configuraciones generales"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Navegación"
+
+#: ../epanel/core_functions.php:117
+msgid "Layout Settings"
+msgstr "Configuración de diseño"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Administración de anuncios"
+
+#: ../epanel/core_functions.php:123 ../epanel/options_notebook.php:471
+msgid "Colorization"
+msgstr "Colorización"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Integración"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Documentos de ayuda"
+
+#: ../epanel/core_functions.php:204
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: ../epanel/core_functions.php:229
+msgid "You don't have pages"
+msgstr "Usted no posee páginas"
+
+#: ../epanel/core_functions.php:362
+msgid "Save changes"
+msgstr "Guardar camgios"
+
+#: ../epanel/core_functions.php:373
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?"
+msgstr ""
+"Esto reiniciara todas las configuraciones en la página a sus valores por "
+"defecto. <strong>¿Está seguro de hacer esto?"
+
+#: ../epanel/custom_functions.php:840
+msgid "Image doesn't exist"
+msgstr "La imagen no existe"
+
+#: ../epanel/custom_functions.php:1029
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Esta es una instalación reciente del tema %1$s . "
+"No olvides ir al <a href=\"%2$s\">ePanel</a> para configurarlo. Este mensaje "
+"desaparecera cuando haya hecho click en el boton Guardar de la <a href=\"%2$s"
+"\">página de opciones de tema</a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1041
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not "
+"available for this theme. If this is an Elegant Themes theme, then you must "
+"re-download the theme from the member's area and <a href=\"http://www."
+"elegantthemes.com/members-area/documentation.html#update\" target=\"_blank"
+"\">re-install it</a> in order to update it to the latest version.</em>"
+msgstr ""
+"Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">Ver detalles de versión %3$s</a>. <em>Las auto-"
+"actualizaciones no están disponibles para este tema. Si es un Tema Elegant "
+"Themes, debes descargar de la sección de miembros el tema y <a href=\"http://"
+"www.elegantthemes.com/members-area/documentation.html#update\" target="
+"\"_blank\">re-instalarlo</a> para actualizarlo a la última versión.</em>"
+
+#: ../epanel/custom_functions.php:1045
+msgid ""
+"Auto-updates are not available for this theme. If this is an Elegant Themes "
+"theme, then you must re-download the theme from the member's area and <a "
+"href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" "
+"target=\"_blank\">re-install it</a> in order to update it to the latest "
+"version."
+msgstr ""
+"Las automatizaciones automáticas no están disponibles para este tema. Si es "
+"un tema de Elegant Themes, descarga el tema de el área de miembros y <a href="
+"\"http://www.elegantthemes.com/members-area/documentation.html#update\" "
+"target=\"_blank\">reinstalalo</a> de forma que actualices a la última "
+"versión."
+
+#: ../epanel/import_settings.php:12
+msgid "Import epanel settings"
+msgstr "Importar configuraciones de epanel"
+
+#: ../epanel/options_notebook.php:34
+msgid "General"
+msgstr "General"
+
+#: ../epanel/options_notebook.php:38
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: ../epanel/options_notebook.php:45
+msgid "Logo"
+msgstr "Logo"
+
+#: ../epanel/options_notebook.php:49
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+"Si desea utilizar su propio logotipo haga click en el botón de Subir Imagen"
+
+#: ../epanel/options_notebook.php:52
+msgid "Favicon"
+msgstr "Favico"
+
+#: ../epanel/options_notebook.php:56
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+"Si desea utilizar su propio favicon haga click en el botón de Subir Imagen"
+
+#: ../epanel/options_notebook.php:59
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: ../epanel/options_notebook.php:63
+#, fuzzy
+msgid ""
+"This will enable a custom background color. Selecting the field will bring "
+"up the color picker which will allow you to choose a custom color."
+msgstr ""
+"Esto habilitará un color de fondo personalizado. Al activar este campo se "
+"desplegará un selector de colores que le permitirá seleccionar un color de "
+"su preferencia."
+
+#: ../epanel/options_notebook.php:66
+msgid "Background Texture"
+msgstr "Textura de fondo"
+
+#: ../epanel/options_notebook.php:71
+msgid "Choose a background texture from the drop down menu."
+msgstr "Seleccione una textura de fondo del menú desplegable."
+
+#: ../epanel/options_notebook.php:74
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: ../epanel/options_notebook.php:78
+msgid ""
+"Place the file URL of the image you would like to use as your background. "
+msgstr "Coloque la dirección de la imagen que desea utilizar como fondo."
+
+#: ../epanel/options_notebook.php:86 ../epanel/options_notebook.php:101
+msgid "Choose a font from the drop down menu."
+msgstr "Seleccione una fuente del menú desplegable."
+
+#: ../epanel/options_notebook.php:89
+msgid "Header Font Color"
+msgstr "Color de fuente tipográfica de encabezado"
+
+#: ../epanel/options_notebook.php:93
+msgid ""
+"This will enable a custom header font color. Selecting the field will bring "
+"up the color picker which will allow you to choose a custom color."
+msgstr ""
+"Esto habilitará un color de fuente tipográfica personalizado para su "
+"encabezado. Al activar este campo se desplegará un selector de colores que "
+"le permitirá seleccionar un color de su preferencia."
+
+#: ../epanel/options_notebook.php:104
+msgid "Body Font Color"
+msgstr "Color de fuente tipográfica de cuerpo"
+
+#: ../epanel/options_notebook.php:108
+msgid ""
+"This will enable a custom body font color. Selecting the field will bring up "
+"the color picker which will allow you to choose a custom color."
+msgstr ""
+"Esto habilitará un color de fuente tipográfica personalizado para el cuerpo. "
+"Al activar este campo se desplegará un selector de colores que le permitirá "
+"seleccionar un color de su preferencia."
+
+#: ../epanel/options_notebook.php:111
+#, fuzzy
+msgid "Blog Style post format"
+msgstr "Formato de publicación de estilo de blog"
+
+#: ../epanel/options_notebook.php:115
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"Por defecto el tema trunca su publicación en la página de inicio de manera "
+"automática para crear previsualizaciones del mismo. Si usted prefiere "
+"mostrar toda la publicación en su página de inicio como los blog "
+"tradicionales entonces puede activar esta opción."
+
+#: ../epanel/options_notebook.php:118
+msgid "Grab the first post image"
+msgstr "Tomar la primer imagen dentro la publiación"
+
+#: ../epanel/options_notebook.php:122
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"Por defecto las imagenes miniatura son creadas utilizando campos especiales "
+"de la publicación. Mas si prefiere utilizar las imagenes que están dentro la "
+"publicación como miniaturas (omitiendo los campos especiales) puede activar "
+"esta opción. Una vez activado las imagenes miniatura serán generadas "
+"automáticamente  a partir de la primer imagen dentro la publicación. La "
+"imagen deberá estar situada en su propio servidor."
+
+#: ../epanel/options_notebook.php:127
+msgid "Number of Posts displayed on Category page"
+msgstr "Número de publiaciones a mostarr en la página de categoría"
+
+#: ../epanel/options_notebook.php:132
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Acá puede designar cuantos artículos recientes serán desplegados por página "
+"de categoría. Esta opción trabaja independientemente de \"Opciones > Lecutra"
+"\" en el panel principal."
+
+#: ../epanel/options_notebook.php:135
+#, fuzzy
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Número de publicaciones desplegadas en la página de archivo"
+
+#: ../epanel/options_notebook.php:140
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Acá puede designar cuantos artículos recientes serán desplegados por página "
+"de archivo. Esta opción trabaja independientemente de \"Opciones > Lecutra\" "
+"en el panel principal."
+
+#: ../epanel/options_notebook.php:143
+msgid "Number of Posts displayed on Search pages"
+msgstr "Número de publicaciones desplegadas en las páginas de búsqueda"
+
+#: ../epanel/options_notebook.php:148
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Acá puede designar cuantos artículos recientes serán desplegados en el "
+"resultado de las búsquedas. Esta opción trabaja independientemente de "
+"\"Opciones > Lecutra\" en el panel principal."
+
+#: ../epanel/options_notebook.php:151
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Número de publicaciones desplegadas por etiqueta de página"
+
+#: ../epanel/options_notebook.php:156
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Acá puede designar cuantos artículos recientes serán desplegados por página "
+"de etiqueta. Esta opción trabaja independientemente de \"Opciones > Lecutra"
+"\" en el panel principal."
+
+#: ../epanel/options_notebook.php:159
+msgid "Date format"
+msgstr "Formato de fecha"
+
+# Aún no existe traducción en español de la página que se hace referencia.
+#: ../epanel/options_notebook.php:164
+#, fuzzy
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"Esta opcion le permite cambiar como se despliega la fecha. Para más "
+"información por favor revise la documentación de Wordpress en: <a "
+"href='http://codex.wordpress.org/Formatting_Date_and_Time' "
+"target='_blank'>Formato de fecha y tiempo</a>"
+
+#: ../epanel/options_notebook.php:169
+msgid "Use excerpts when defined"
+msgstr "Utilizar extractos cuando sean definidos"
+
+#: ../epanel/options_notebook.php:173
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "Esto habilitará el uso de extractos en las publicaciones o páginas"
+
+#: ../epanel/options_notebook.php:176
+msgid "Show Control Panel"
+msgstr "Mostrar panel de control"
+
+#: ../epanel/options_notebook.php:180
+msgid ""
+"Here you can choose to display the CSS control panel on the homepage. This "
+"will only be visible to users that are logged in as an Administrator. "
+msgstr ""
+"Acá puede elegir si despliega el panel de control CSS en la página de "
+"inicio. Esto solo será visible para usuarios que estén registrados como "
+"Administrador"
+
+#: ../epanel/options_notebook.php:185
+msgid "Google Fonts subsets"
+msgstr "Subcojunto de Google Fonts"
+
+#: ../epanel/options_notebook.php:189
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr ""
+"Esto habilitará las fuentes tipográficas de Google para lenguajes que no se "
+"basen en inglés."
+
+#: ../epanel/options_notebook.php:194
+msgid "Custom CSS"
+msgstr "CSS personalizados"
+
+#: ../epanel/options_notebook.php:198
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"Acá puede agregar sus propias reglas de estilo CSS para extender los estilos "
+"defecto."
+
+#: ../epanel/options_notebook.php:207
+msgid "Number of Recent Posts displayed on homepage"
+msgstr "Número de publicaciones recientes mostradas en la página de inicio."
+
+#: ../epanel/options_notebook.php:212
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"homepage. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Acá puede designar cuantos articulos recientes serán desplegados en la "
+"página de inicio. Esta opción funciona de manera independientes de "
+"\"Opciones > Lectura\" en el panel principal."
+
+#: ../epanel/options_notebook.php:215
+msgid "Exclude categories from homepage recent posts"
+msgstr "Excluir categorías de publicaciones recientes en página de inicio"
+
+#: ../epanel/options_notebook.php:219
+msgid ""
+"By default the homepage displays a list of all of your most recent posts. "
+"However, if you would like to exlcude certain category from the list you can "
+"do so here. "
+msgstr ""
+"Por defecto la página de inicio despliega una lista con todas las "
+"publicaciones recientes. Mas si desea excluir alguna categoría en específico "
+"de esa lista lo puede hacer acá."
+
+#: ../epanel/options_notebook.php:251
+msgid "Exclude pages from the navigation bar"
+msgstr "Excluir páginas de la barra de navegación"
+
+#: ../epanel/options_notebook.php:255
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Acá puede seleccionar remover páginas en específico de la barra de menú. "
+"Todas las páginas marcadas con una X no aparecerán en la barra de navegación."
+
+#: ../epanel/options_notebook.php:259 ../epanel/options_notebook.php:314
+msgid "Show dropdown menus"
+msgstr "Mostrar menús desplegables"
+
+#: ../epanel/options_notebook.php:263
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"Si desea remover los menús desplegables de la barra de navegación "
+"deshabilite esta opción."
+
+#: ../epanel/options_notebook.php:266
+msgid "Display Home link"
+msgstr "Mostrar enlace a página de inicio"
+
+#: ../epanel/options_notebook.php:270
+#, fuzzy
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr "Por defecto el tema crea un enlace a la Página de Inicio."
+
+#: ../epanel/options_notebook.php:275
+msgid "Sort Pages Links"
+msgstr "Orden de enlaces de páginas"
+
+#: ../epanel/options_notebook.php:279
+msgid "Here you can choose to sort your pages links."
+msgstr "Acá puede elegir como ordenar los enlaces a las páginas"
+
+#: ../epanel/options_notebook.php:282
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Ordenar enlaces a páginas de manera Ascendente/Descendente"
+
+#: ../epanel/options_notebook.php:286
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Acá puede elegir invertir el orden en que los enlaces a las páginas son "
+"desplegados. Puede elegir entre ascendente y descendente."
+
+#: ../epanel/options_notebook.php:289 ../epanel/options_notebook.php:330
+#, fuzzy
+msgid "Number of dropdown tiers shown"
+msgstr "Número de niveles por menú desplegable"
+
+#: ../epanel/options_notebook.php:294 ../epanel/options_notebook.php:335
+#, fuzzy
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"Esta opción permite que controle cuantos niveles tiene el menú desplegable. "
+"Incremente el número para permitir mayor cantidad de elementos desplegados "
+"en el menú."
+
+#: ../epanel/options_notebook.php:306
+msgid "Exclude categories from the navigation bar"
+msgstr "Excluir categorías de la barra de navegación"
+
+#: ../epanel/options_notebook.php:310
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Acá puede elegir remover ciertas categorías del menú de navegación. Todas "
+"las categorías marcadas con una X no aparecerán en la barra de navegación."
+
+#: ../epanel/options_notebook.php:318
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"Si desea remover los menús desplegables de la barra de navegación de "
+"categorías deshabilite esta opción."
+
+#: ../epanel/options_notebook.php:321
+msgid "Hide empty categories"
+msgstr "Ocultar categorías vacías"
+
+#: ../epanel/options_notebook.php:325
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"Si desea que las categorías sin publicaciones sean desplegadas en la barra "
+"de navegación deshabilite esta opción. Por defecto las categorías vacías "
+"está ocultas"
+
+#: ../epanel/options_notebook.php:340
+#, fuzzy
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Ordenar enlace de categorías por Nombre/ID/Slug/Conteo/Taxonomía"
+
+#: ../epanel/options_notebook.php:344
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"Por defecto las páginas son ordenadas por nombre. Mas si usted desea puede "
+"ordenarlas por su ID por medio de esta opción."
+
+#: ../epanel/options_notebook.php:347
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Ordenar enlaces de categoría de manera Ascendente/Descendente"
+
+#: ../epanel/options_notebook.php:351
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Acá puede elegir invertir el orden en que los enlaces de categorías son "
+"desplegados. Puede elegir entre orden ascendente y descendente."
+
+#: ../epanel/options_notebook.php:369
+msgid "Single Post Layout"
+msgstr "Distribución de diseño de publicación"
+
+#: ../epanel/options_notebook.php:374
+msgid "Single Page Layout"
+msgstr "Distribución de diseño de página"
+
+#: ../epanel/options_notebook.php:387
+msgid "Choose which items to display in the postinfo section"
+msgstr ""
+"Elegir que elementos desplegar en el área de información de la publicación"
+
+#: ../epanel/options_notebook.php:391
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"Acá puede elegir que elementos aparecen en la sección de información de una "
+"publicación. Esta área usualmente aparece debajo el título de la "
+"publicación, la cual despliega información acerca de la misma. Los elementos "
+"seleccionados aparecerán en dicha área."
+
+#: ../epanel/options_notebook.php:394
+msgid "Place Thumbs on Posts"
+msgstr "Colocar miniaturas en las publicaciones"
+
+#: ../epanel/options_notebook.php:398
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"Por defecto las miniaturas son colocadas al inicio de la publicación. Si "
+"desea remover las imagenes miniaturas para evitar repeticiones, simplemente "
+"deshabilite esta opción."
+
+#: ../epanel/options_notebook.php:401
+msgid "Show comments on posts"
+msgstr "Mostar comentarios en publicación"
+
+#: ../epanel/options_notebook.php:405
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"Puede deshabilitar esta opción si desea remover los comentarios de las "
+"páginas de publicaciones."
+
+#: ../epanel/options_notebook.php:416
+msgid "Place Thumbs on Pages"
+msgstr "Colocar miniaturas en páginas"
+
+#: ../epanel/options_notebook.php:420
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on posts you can! Just enable this "
+"option. "
+msgstr ""
+"Por defecto las miniaturas no son colocadas al inicio de las páginas (estas "
+"solo son utilizadas en las publicaciones). Si utilizar imagenes miniaturas "
+"en páginas habilite esta opción."
+
+#: ../epanel/options_notebook.php:423
+msgid "Show comments on pages"
+msgstr "Mostar comentarios en páginas"
+
+#: ../epanel/options_notebook.php:427
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"Por defecto los comentarios no son mostrados en las páginas, sin embargo, si "
+"desea permitir que sus visitantes comenten en sus páginas habilite esta "
+"opción."
+
+#: ../epanel/options_notebook.php:438
+msgid "Post info section"
+msgstr "Sección de información de publicación"
+
+#: ../epanel/options_notebook.php:442
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"Acá puede elegir que elementos aparecen en la sección de información de cada "
+"página. Esta área usualmente aparece debajo el título de la página, la cual "
+"despliega información acerca de la misma. Los elementos seleccionados "
+"aparecerán en dicha área."
+
+#: ../epanel/options_notebook.php:447
+#, fuzzy
+msgid "Show Thumbs on Index pages"
+msgstr "Mostrar miniatura en páginas de resumen"
+
+#: ../epanel/options_notebook.php:451
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "Habilite esta opción para mostrar miniaturas en las páginas de resumen"
+
+#: ../epanel/options_notebook.php:479
+msgid ""
+"Color visualizer (this is not setting, just a tool to find hexdecimal values)"
+msgstr ""
+"Visualizador de colores (esta no es una opción solo una herramienta para "
+"encontrar valores hexadecimales de los colores)"
+
+#: ../epanel/options_notebook.php:481
+msgid ""
+"This is a tool that can be used to find hexdecimal color values. These "
+"values can be used to customize the colors of the various elements below. "
+"This color picker will also appear which you click in any of the fields "
+"below. "
+msgstr ""
+"Esta herramienta puede ser utilizada para encontrar valores hexadecimales de "
+"colores. Estos valores pueden ser utilizados para personalizar los colores "
+"de los elementos de abajo."
+
+#: ../epanel/options_notebook.php:484
+msgid "Enable custom colors"
+msgstr "Habilitar colores personalizados"
+
+#: ../epanel/options_notebook.php:488
+msgid ""
+"This option allows you to customize the color of a certain element of the "
+"theme. When you click in the field a color picker will appear. Scroll to "
+"find your desired color and then click the circular submit button on the "
+"lower right to accept the value."
+msgstr ""
+"Esta opción le permite personalizar el color de un determinado elemento del "
+"tema. Al hacer clic en el campo aparecerá un selector de color. Desplácese "
+"hasta encontrar el color que desee y luego haga clic en el botón circular de "
+"presentar en la parte inferior derecha para aceptar el valor."
+
+#: ../epanel/options_notebook.php:491
+msgid "Enable child stylesheet"
+msgstr "Habilitar estilos de tema derivado (avanzado)"
+
+#: ../epanel/options_notebook.php:495
+msgid ""
+"If you would like to add a second stylsheet to your blog enable this option "
+"and input the link to your stylesheet below."
+msgstr ""
+"Si desea agregar un archivo de estilo CSS extra para el tema, active la "
+"opción e introduzca su archivo en el campo siguiente."
+
+#: ../epanel/options_notebook.php:500
+msgid "Child stylesheet URL"
+msgstr "Dirección de archivo CSS"
+
+#: ../epanel/options_notebook.php:505
+msgid "Input the URL to your child stylsheet here."
+msgstr "Ingrese dirección de archivo CSS acá."
+
+#: ../epanel/options_notebook.php:508
+msgid "Main font color"
+msgstr "Color de tipografía principal"
+
+#: ../epanel/options_notebook.php:512 ../epanel/options_notebook.php:519
+#: ../epanel/options_notebook.php:526 ../epanel/options_notebook.php:533
+#: ../epanel/options_notebook.php:540 ../epanel/options_notebook.php:547
+#: ../epanel/options_notebook.php:554 ../epanel/options_notebook.php:561
+msgid ""
+"This option allows you to customize the color of a certain element of the "
+"theme. When you click inside the field a color picker will appear. Scroll to "
+"find your desired color and then click the circular submit button on the "
+"lower right to accept the value"
+msgstr ""
+"Esta opción le permite personalizar el color de un determinado elemento del "
+"tema. Al hacer clic en el campo aparecerá un selector de color. Desplácese "
+"hasta encontrar el color que desee y luego haga clic en el botón circular de "
+"presentar en la parte inferior derecha para aceptar el valor."
+
+#: ../epanel/options_notebook.php:515
+msgid "Link color"
+msgstr "Color de enlace"
+
+#: ../epanel/options_notebook.php:522
+msgid "Menu link color"
+msgstr "Color de enlace de menú"
+
+#: ../epanel/options_notebook.php:529
+msgid "Menu active link color"
+msgstr "Color de menú activo"
+
+#: ../epanel/options_notebook.php:536
+msgid "Headings color"
+msgstr "Color de encabezados"
+
+#: ../epanel/options_notebook.php:543
+msgid "Sidebar links color"
+msgstr "Color de enlaces de barra lateral"
+
+#: ../epanel/options_notebook.php:550
+msgid "Footer text color"
+msgstr "Color de texto de pie de página"
+
+#: ../epanel/options_notebook.php:557
+msgid "Footer links color"
+msgstr "Color de enlaces de pie de página"
+
+#: ../epanel/options_notebook.php:578
+msgid "Homepage SEO"
+msgstr " SEO en Página de Inicio"
+
+#: ../epanel/options_notebook.php:583
+msgid "Single Post Page SEO"
+msgstr "SEO en publicación individual"
+
+#: ../epanel/options_notebook.php:588
+msgid "Index Page SEO"
+msgstr "SEO en página de resumen"
+
+#: ../epanel/options_notebook.php:596
+msgid " Enable custom title "
+msgstr "Habilitar título personalizado"
+
+#: ../epanel/options_notebook.php:600
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"Por defecto el tema utiliza la combinanción del nombre y la descripción de "
+"su sitio, para crear el título de la página de inicio. Sin embaro, si desea "
+"crear un título personalizado debe habilitar esta opción y llenar el "
+"siguiente campo."
+
+#: ../epanel/options_notebook.php:603
+msgid " Enable meta description"
+msgstr "Habilitar meta descripción"
+
+#: ../epanel/options_notebook.php:607
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"Por defecto el tema utiliza la descripción del sitio para llenar la meta "
+"descripción. Sin embargo si desea utilizar una descripción diferente puede "
+"habilitar esta opción y dejar la descripción personalizada en el siguiente "
+"campo."
+
+#: ../epanel/options_notebook.php:610
+msgid " Enable meta keywords"
+msgstr "Habilitar meta palabras"
+
+#: ../epanel/options_notebook.php:614
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"Por defecto el tema no agrega meta palabras al encabezado. Muchos motores de "
+"búsqueda ya no utiliza meta palabras para catalogar los sitios, pero algunos "
+"prefieren definirlas de igual manera.  Si desea agregar meta palabras en su "
+"encabezado habilite esta opción y llene el campo siguiente."
+
+#: ../epanel/options_notebook.php:617 ../epanel/options_notebook.php:749
+msgid " Enable canonical URL's"
+msgstr "Habilitar dirección URL canónica"
+
+#: ../epanel/options_notebook.php:621
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treaded individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"Utilizar URL canónica ayuda a evitar la indexación de contenido duplicado "
+"por los motores de búsqueda, y, como resultado, puede ayudar a evitar "
+"sanciones y la degradación de pagerank. Algunas páginas pueden tener "
+"diferentes URLs todo lo cual lleva al mismo lugar. Por ejemplo domain.com, "
+"domain.com/index.html, y www.domain.com son todas las direcciones URL "
+"diferentes que conducen a tu página principal. Desde la perspectiva de un "
+"motor de búsqueda de estas URLs duplicadas, que también ocurren a menudo "
+"debido a permalinks personalizados, pueden ser interepretadas "
+"individualmente en lugar de como un solo destino. Definición de una URL "
+"canónica le dice al motor de búsqueda de la dirección URL que le gustaría "
+"usar oficialmente. El tema basa sus URLs canónicas tus enlaces permanentes y "
+"el nombre de dominio se define en el panel principal."
+
+#: ../epanel/options_notebook.php:626
+msgid "Homepage custom title (if enabled)"
+msgstr "Título personalizado de página de inicio (si está habilitado)"
+
+#: ../epanel/options_notebook.php:631
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"Si posee habilitados los titulos personalizados puede agregarlo acá. Todo lo "
+"que escriba se colocará entre las etiquetas < title > < /title > en el "
+"header.php"
+
+#: ../epanel/options_notebook.php:634
+msgid "Homepage meta description (if enabled)"
+msgstr "Meta descripción de página de inicio"
+
+#: ../epanel/options_notebook.php:638
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr "Si tiene habilitado las meta descripciones la puede agregar acá."
+
+#: ../epanel/options_notebook.php:641
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Meta palabras de página de inicio"
+
+#: ../epanel/options_notebook.php:646
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"Si ha habilitado las palabras clave puede agregarlas aquí. Las palabras "
+"clave deben estar separadas por comas. Por ejemplo: wordpress, temas, "
+"plantillas, elegante"
+
+#: ../epanel/options_notebook.php:649 ../epanel/options_notebook.php:727
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+"Si los títulos personalizados están desactivados, debe elegir método "
+"autogeneración"
+
+#: ../epanel/options_notebook.php:654
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Si no está utilizando títulos personalizados para las publicaciones aún "
+"tiene control sobre cómo se generan sus títulos. Aquí se puede elegir qué "
+"orden desea en que su título  y el nombre del sitio se muestren, o puede "
+"quitar el nombre del sitio por completo completo."
+
+#: ../epanel/options_notebook.php:657 ../epanel/options_notebook.php:735
+#: ../epanel/options_notebook.php:773
+msgid "Define a character to separate BlogName and Post title"
+msgstr ""
+"Defina el caracter que separará el nombre del sitio del título de la entrada"
+
+#: ../epanel/options_notebook.php:662 ../epanel/options_notebook.php:740
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Acá puede cambiar el caracter que separa el título de la entrada y nombre "
+"del sitio cuando está utilizando títulos autogenerados. Los valores comunes "
+"son | o ~"
+
+#: ../epanel/options_notebook.php:671
+msgid "Enable custom titles"
+msgstr "Habilitar títulos personalizados"
+
+#: ../epanel/options_notebook.php:675
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"Por defecto el tema crea títulos de entradas basados ​​en el título de su "
+"mensaje y su nombre del sitio. Si usted desea hacer su meta título diferente "
+"al de su título de la entrada actual se puede definir un título "
+"personalizado para cada mensaje usando campos personalizados."
+
+#: ../epanel/options_notebook.php:678
+msgid "Enable custom description"
+msgstr "Habilitar descripción personalizada"
+
+#: ../epanel/options_notebook.php:682
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"Si desea añadir una meta descripción de la entrada, puede hacerlo a través "
+"de campos personalizados. Esta opción debe estar habilitada para mostar "
+"dichas descripciones en las publicaciones. Usted puede añadir su meta "
+"descripción  utilizando campos personalizados definidos a continuación."
+
+#: ../epanel/options_notebook.php:687
+msgid "Enable custom keywords"
+msgstr "Habilitar palabras clave personalizadas"
+
+#: ../epanel/options_notebook.php:691
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"Si desea añadir una meta palabras clave de la entrada, puede hacerlo a "
+"través de campos personalizados. Esta opción debe estar habilitada para "
+"mostar dichas palabras clave en las publicaciones. Usted puede añadir su "
+"meta descripción  utilizando campos personalizados definidos a continuación."
+
+#: ../epanel/options_notebook.php:694
+msgid "Enable canonical URL's"
+msgstr "Habilitar URL canonicas"
+
+#: ../epanel/options_notebook.php:698 ../epanel/options_notebook.php:753
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URL's all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treaded individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"Utilizar URL canónica ayuda a evitar la indexación de contenido duplicado "
+"por los motores de búsqueda, y, como resultado, puede ayudar a evitar "
+"sanciones y la degradación de pagerank. Algunas páginas pueden tener "
+"diferentes URLs todo lo cual lleva al mismo lugar. Por ejemplo domain.com, "
+"domain.com/index.html, y www.domain.com son todas las direcciones URL "
+"diferentes que conducen a tu página principal. Desde la perspectiva de un "
+"motor de búsqueda de estas URLs duplicadas, que también ocurren a menudo "
+"debido a permalinks personalizados, pueden ser interepretadas "
+"individualmente en lugar de como un solo destino. Definición de una URL "
+"canónica le dice al motor de búsqueda de la dirección URL que le gustaría "
+"usar oficialmente. El tema basa sus URLs canónicas tus enlaces permanentes y "
+"el nombre de dominio se define en el panel principal."
+
+#: ../epanel/options_notebook.php:703
+msgid "Custom field Name to be used for title"
+msgstr "Nombre de campo especial que será utilizado para el título"
+
+#: ../epanel/options_notebook.php:708
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"Cuando se define el título utilizando campos personalizados deberá utilizar "
+"el valor de este campo como nombre de campo personalizado. El valor de ese "
+"campo personalizado debe ser el título que desea utilizar."
+
+#: ../epanel/options_notebook.php:711
+msgid "Custom field Name to be used for description"
+msgstr "Nombre de campo especial que será utilizado para la descripción"
+
+#: ../epanel/options_notebook.php:716
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"Cuando se define la meta descripción utilizando campos personalizados deberá "
+"utilizar el valor de este campo como nombre de campo personalizado. El valor "
+"de ese campo personalizado debe ser la metra descripción que desea utilizar."
+
+#: ../epanel/options_notebook.php:719
+msgid "Custom field Name to be used for keywords"
+msgstr "Nombre de campo especial que será utilizado para las palabras clave"
+
+#: ../epanel/options_notebook.php:724
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"Cuando se definen las meta palabras clave utilizando campos personalizados "
+"deberá utilizar el valor de este campo como nombre de campo personalizado. "
+"El valor de ese campo personalizado deben ser las meta palabras clave que "
+"desea utilizar, separadas por coma."
+
+#: ../epanel/options_notebook.php:732
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Si no está utilizando títulos personalizados para las publicaciones aún "
+"tiene control sobre cómo se generan sus títulos. Aquí se puede elegir qué "
+"orden desea en que su título  y el nombre del sitio se muestren, o puede "
+"quitar el nombre del sitio por completo completo."
+
+#: ../epanel/options_notebook.php:756
+msgid "Enable meta descriptions"
+msgstr "Habilitar meta descripciones"
+
+#: ../epanel/options_notebook.php:760
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"Marque esta casilla si desea mostrar meta descripciones en páginas de "
+"categoría / archivo. La descripción está basada en la descripción de la "
+"categoría que elija al crear / editar su categoría en panel de control "
+"principal."
+
+#: ../epanel/options_notebook.php:765
+msgid "Choose title autogeneration method"
+msgstr "Elegir método de autogeneración de título"
+
+#: ../epanel/options_notebook.php:770
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"Acá puede elegir cómo se generan sus títulos en las páginas de resumen. "
+"Puede cambiar el orden del nombre del sitio y el título que se muestran, o "
+"se puede quitar el nombre del sitio en el título completo."
+
+#: ../epanel/options_notebook.php:778 ../epanel/options_notebook.php:928
+#: ../epanel/options_notebook.php:936
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Acá puede cambiar el caracter que separa el título de la entrada y nombre "
+"del sitio cuando está utilizando títulos autogenerados. Los valores comunes "
+"son | o ~"
+
+#: ../epanel/options_notebook.php:798
+msgid "Code Integration"
+msgstr "Integración de código"
+
+#: ../epanel/options_notebook.php:806
+msgid "Enable header code"
+msgstr "Habilitar código de cabecera"
+
+#: ../epanel/options_notebook.php:810
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Al desactivar esta opción se eliminará el código de la cabecera de su sitio. "
+"Esto le permite quitar el código mientras se guarda para su uso posterior."
+
+#: ../epanel/options_notebook.php:813
+msgid "Enable body code"
+msgstr "Habilitar código de cuerpo (dentro etiquetas < body >< /body >)"
+
+#: ../epanel/options_notebook.php:817
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Al desactivar esta opción se eliminará el código del cuerpo de su sitio. "
+"Esto le permite quitar el código mientras se guarda para su uso posterior."
+
+#: ../epanel/options_notebook.php:822
+msgid "Enable single top code"
+msgstr "Habilitar código único al inicio de página"
+
+#: ../epanel/options_notebook.php:826
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"Al desactivar esta opción se eliminará el código que está al inicio de cada "
+"página de su sitio. Esto le permite quitar el código mientras se guarda para "
+"su uso posterior."
+
+#: ../epanel/options_notebook.php:829
+msgid "Enable single bottom code"
+msgstr "Habilitar código único a final de página"
+
+#: ../epanel/options_notebook.php:833
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"Al desactivar esta opción se eliminará el código que está al final de cada "
+"página de su sitio. Esto le permite quitar el código mientras se guarda para "
+"su uso posterior."
+
+#: ../epanel/options_notebook.php:838
+msgid "Add code to the < head > of your blog"
+msgstr "Agregar código a la etiqueta < head > de tu sitio"
+
+#: ../epanel/options_notebook.php:842
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Cualquier código que coloque aquí aparecerá en la sección de cabecera de "
+"cada página de tu sitio. Esto es útil cuando es necesario agregar javascript "
+"o CSS para todas las páginas."
+
+#: ../epanel/options_notebook.php:845
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+"Agregar código luego de la etiqueta < body > (útil para códigos de rastreo "
+"como google analytics)"
+
+#: ../epanel/options_notebook.php:849
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"Cualquier código que coloque aquí aparecerá en la sección de cabecera de "
+"cada página de tu sitio. Esto es útil cuando es necesario agregar javascript "
+"o CSS para todas las páginas."
+
+#: ../epanel/options_notebook.php:852
+msgid "Add code to the top of your posts"
+msgstr "Agregar código al inicio de tu publicación"
+
+#: ../epanel/options_notebook.php:856 ../epanel/options_notebook.php:863
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Cualquier código que coloque aquí aparecerá al inicio de cada publicación. "
+"Esto es útil si esta buscando integrar elementos como elementos de redes "
+"sociales."
+
+#: ../epanel/options_notebook.php:859
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Agregar código al final de sus publicaciones, antes de los comentarios"
+
+#: ../epanel/options_notebook.php:881
+msgid "Documentation"
+msgstr "Documentación"
+
+#: ../epanel/options_notebook.php:907
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Administrar anuncios sin widget"
+
+#: ../epanel/options_notebook.php:915
+msgid "Enable 468x60 banner"
+msgstr "Habilitar banner de 468x60 pixeles"
+
+#: ../epanel/options_notebook.php:919
+#, fuzzy
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"Habiltando esta opción podrá mostrar banners de anuncio de 468x60  en el "
+"fondo de sus publicaciones. Si habilita esta opción deberá llenar la "
+"dirección de imagen y el desnito de la misma más abajo."
+
+#: ../epanel/options_notebook.php:924
+msgid "Input 468x60 advertisement banner image"
+msgstr "Ingrese banner de anuncio de 480x60"
+
+#: ../epanel/options_notebook.php:931
+msgid "Input 468x60 advertisement destination url"
+msgstr "Ingrese dirección de destion de banner de anuncio de 468x60"
+
+#: ../epanel/options_notebook.php:939
+msgid "Input 468x60 adsense code"
+msgstr "Ingrese código de adsense para 468x60"
+
+#: ../epanel/options_notebook.php:943
+msgid "Place your adsense code here."
+msgstr "Coloque su código de adsense acá"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Captcha"
+msgstr "Capcha"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Fill"
+msgstr "Llenar"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "field"
+msgstr "campo"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Invalid email"
+msgstr "Correo electrónico inválido"
+
+#: ../epanel/page_templates/page_templates.php:37
+msgid "ET Page Template Settings"
+msgstr "Opciones de página especiales (ET)"
+
+#: ../epanel/page_templates/page_templates.php:64
+msgid ""
+"Additional settings appear here, when one of ET page templates is selected "
+"( Page Attributes -> Template )"
+msgstr ""
+"Las opciones adicionales aparecen acá, cuando una de las plantillas de "
+"página es seleccionada."
+
+#: ../epanel/page_templates/page_templates.php:69
+#, fuzzy
+msgid "Full Width Page"
+msgstr "Página de ancho completo"
+
+#: ../epanel/page_templates/page_templates.php:74
+msgid "Regenerate captcha numbers"
+msgstr "Regenerar números de captcha"
+
+#: ../epanel/page_templates/page_templates.php:78
+msgid "Email To:"
+msgstr "Enviar a:"
+
+#: ../epanel/page_templates/page_templates.php:84
+#, fuzzy
+msgid "Blog Style mode"
+msgstr "Modo de estilo de blog"
+
+#: ../epanel/page_templates/page_templates.php:89
+msgid "Hide Auto Thumbnail"
+msgstr "Ocultar miniaturas automáticas"
+
+#: ../epanel/page_templates/page_templates.php:94
+msgid "Show Titles"
+msgstr "Mostar títulos"
+
+#: ../epanel/page_templates/page_templates.php:99
+msgid "Show Descriptions"
+msgstr "Mostar descripciones"
+
+#: ../epanel/page_templates/page_templates.php:104
+msgid "Detect Portrait Images"
+msgstr "Detectar imagenes verticales"
+
+#: ../epanel/page_templates/page_templates.php:108
+msgid "Thumbnail Size:"
+msgstr "Tamaño de miniaturas"
+
+#: ../epanel/page_templates/page_templates.php:109
+msgid "Small"
+msgstr "Pequeño"
+
+#: ../epanel/page_templates/page_templates.php:110
+msgid "Medium"
+msgstr "Mediano"
+
+#: ../epanel/page_templates/page_templates.php:111
+msgid "Large"
+msgstr "Largo"
+
+#: ../epanel/page_templates/page_templates.php:115
+#: ../epanel/page_templates/page_templates.php:120
+msgid "Number of posts per page:"
+msgstr "Número de publicaciones por página:"
+
+#: ../epanel/page_templates/page_templates.php:125
+msgid "Select blog categories:"
+msgstr "Seleccione categorías:"
+
+#: ../epanel/page_templates/page_templates.php:144
+msgid "Select gallery categories:"
+msgstr "Seleccione categorías de galería:"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Previous"
+msgstr "Anterior"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Next"
+msgstr "Siguiente"
+
+#: ../epanel/shortcodes/shortcodes.php:302
+msgid "Member Login"
+msgstr "Ingreso de Miembros"
+
+#: ../epanel/shortcodes/shortcodes.php:305
+msgid "Username: "
+msgstr "Nombre de usuario:"
+
+#: ../epanel/shortcodes/shortcodes.php:306
+msgid "Password: "
+msgstr "Contraseña"
+
+#: ../epanel/shortcodes/shortcodes.php:307
+msgid "Login"
+msgstr "Ingreso"
+
+#: ../epanel/shortcodes/shortcodes.php:343
+msgid "Add a Tooltip Text"
+msgstr "Agregar ayuda de texto"
+
+#: ../epanel/shortcodes/shortcodes.php:365
+msgid "Click here to learn more"
+msgstr "Haga click acá para aprender más"
+
+#: ../epanel/shortcodes/shortcodes.php:973
+msgid "Caption"
+msgstr "Leyenda"
+
+#: ../epanel/shortcodes/shortcodes.php:974
+msgid "Caption goes here"
+msgstr "La leyenda va acá"
+
+#: ../epanel/shortcodes/shortcodes.php:975
+msgid "Caption title goes here"
+msgstr "La leyenda de título va acá"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "State"
+msgstr "Estado"
+
+#: ../epanel/shortcodes/shortcodes.php:981
+msgid "Select between expanded and closed state"
+msgstr "Seleccione estado expandido o cerrado"
+
+#: ../epanel/shortcodes/shortcodes.php:986
+#: ../epanel/shortcodes/shortcodes.php:1002
+#: ../epanel/shortcodes/shortcodes.php:1031
+#: ../epanel/shortcodes/shortcodes.php:1111
+msgid "Content"
+msgstr "Contenido"
+
+#: ../epanel/shortcodes/shortcodes.php:987
+#: ../epanel/shortcodes/shortcodes.php:1003
+#: ../epanel/shortcodes/shortcodes.php:1089
+#: ../epanel/shortcodes/shortcodes.php:1112
+msgid "Content goes here"
+msgstr "El contenido va acá"
+
+#: ../epanel/shortcodes/shortcodes.php:988
+#: ../epanel/shortcodes/shortcodes.php:1004
+#: ../epanel/shortcodes/shortcodes.php:1033
+msgid "Content text or html"
+msgstr "Contenido en texto o código html"
+
+#: ../epanel/shortcodes/shortcodes.php:995
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "Type"
+msgstr "Tipo"
+
+#: ../epanel/shortcodes/shortcodes.php:997
+msgid "Type of the box"
+msgstr "Tipo de caja"
+
+#: ../epanel/shortcodes/shortcodes.php:1011
+msgid "Link"
+msgstr "Enlace"
+
+#: ../epanel/shortcodes/shortcodes.php:1013
+msgid "URL"
+msgstr "Dirección de enlace"
+
+#: ../epanel/shortcodes/shortcodes.php:1019
+msgid "Choose button type"
+msgstr "Elija tipo de botón"
+
+#: ../epanel/shortcodes/shortcodes.php:1024
+msgid "Color"
+msgstr "Color"
+
+#: ../epanel/shortcodes/shortcodes.php:1026
+msgid "Choose button color"
+msgstr "Elija color de botón"
+
+#: ../epanel/shortcodes/shortcodes.php:1032
+msgid "Link text"
+msgstr "Texto de vínculo"
+
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Icon"
+msgstr "Icono"
+
+#: ../epanel/shortcodes/shortcodes.php:1039
+msgid "Used for icon button type"
+msgstr "Utilizado para los botones con icono"
+
+#: ../epanel/shortcodes/shortcodes.php:1044
+msgid "Open link in new window"
+msgstr "Abrir enlace en nueva ventana"
+
+#: ../epanel/shortcodes/shortcodes.php:1046
+msgid "Select yes if the link should be opened in a new window"
+msgstr ""
+"Seleccione \"SI\", si dsea que el enlace se despliegue en una nueva ventana"
+
+#: ../epanel/shortcodes/shortcodes.php:1054
+msgid "Slider Type"
+msgstr "Tipo de diapositiva"
+
+#: ../epanel/shortcodes/shortcodes.php:1056
+msgid "Select Slider Type here"
+msgstr "Seleccione tipo de diapositiva"
+
+#: ../epanel/shortcodes/shortcodes.php:1061
+msgid "Effect"
+msgstr "Efecto"
+
+#: ../epanel/shortcodes/shortcodes.php:1063
+msgid "Select Animation Effect"
+msgstr "Seleccionar efecto de animación"
+
+#: ../epanel/shortcodes/shortcodes.php:1068
+msgid "Auto"
+msgstr "Auto"
+
+#: ../epanel/shortcodes/shortcodes.php:1070
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Elija \"Si\" si desea la animación automática de las diapositivas"
+
+#: ../epanel/shortcodes/shortcodes.php:1075
+msgid "Auto Speed"
+msgstr "Velocidad automática"
+
+#: ../epanel/shortcodes/shortcodes.php:1077
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "Velocidad automática de diapositivas"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Tab Text"
+msgstr "Texto de lengüeta"
+
+#: ../epanel/shortcodes/shortcodes.php:1088
+msgid "Tab Content"
+msgstr "Contenido de lengüeta"
+
+#: ../epanel/shortcodes/shortcodes.php:1090
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+"Coloque la dirección de la imagen acá, si eligió tipo de diapositivas de "
+"\"imagenes\""
+
+#: ../epanel/shortcodes/shortcodes.php:1098
+msgid "Image Url"
+msgstr "Dirección de imagen"
+
+#: ../epanel/shortcodes/shortcodes.php:1100
+msgid "Author Image URL"
+msgstr "Dirección de imagen de autor"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Use resizing"
+msgstr "Cambiar de tamañó automáticamente"
+
+#: ../epanel/shortcodes/shortcodes.php:1181
+msgid "+ Add One More Tab"
+msgstr "+ Agregar una lengüeta más"
+
+#: ../epanel/shortcodes/shortcodes.php:1331
+msgid "Image Height"
+msgstr "Altura de imagen"
+
+#: ../epanel/shortcodes/shortcodes.php:1332
+msgid "Image Width"
+msgstr "Anchuera de imagen"
+
+#: ../includes/additional_functions.php:22
+msgid "Video Post Format Settings: "
+msgstr "Opciones de formato de publicación tipo video"
+
+#: ../includes/additional_functions.php:25
+msgid "Video url:"
+msgstr "Dirección de video:"
+
+#: ../includes/additional_functions.php:28
+msgid "You can put Youtube or Vimeo link here."
+msgstr "Puede colocar un enlace de Youtube o Vimeo aca."
+
+#: ../includes/additional_functions.php:31
+msgid "Audio Post Format Settings: "
+msgstr "Opciones de formato de publicación tipo audio"
+
+#: ../includes/additional_functions.php:34
+msgid "Audio Mp3 Url:"
+msgstr "Dirección de audio MP3:"
+
+#: ../includes/additional_functions.php:41
+msgid "Audio Ogg Url:"
+msgstr "Dirección de audio Oogg"
+
+#: ../includes/breadcrumbs.php:7
+msgid "Posts Tagged "
+msgstr "Publicaciones etiquetadas"
+
+#: ../includes/breadcrumbs.php:9 ../includes/breadcrumbs.php:11
+#: ../includes/breadcrumbs.php:13 ../includes/top_info.php:8
+#: ../includes/top_info.php:10 ../includes/top_info.php:12
+msgid "Posts made in"
+msgstr "Publicaciones hechas en"
+
+#: ../includes/breadcrumbs.php:15 ../includes/top_info.php:14
+msgid "Search results for"
+msgstr "Resultado de búsqueda para"
+
+#: ../includes/breadcrumbs.php:24 ../includes/top_info.php:21
+msgid "Posts by "
+msgstr "Publicaciones por"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Publicaciones antiguas"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Publicaciones recientes &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "No se encontró ningún resultado"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"La página solicitada no se pudo encontrar. Trate de mejorar su búsqueda, o "
+"utilizar la navegación para localizar la publicación deseada"
+
+#: ../includes/top_info.php:6
+msgid "Posts Tagged &quot;"
+msgstr "Publicaciones etiquetadas &quot;"
+
+#: ../includes/functions/comments.php:17
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: ../includes/functions/comments.php:17
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../includes/functions/comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario esta esperando por moderación."
+
+#: ../includes/functions/comments.php:29
+msgid "Reply"
+msgstr "Comentar"
+
+#: ../includes/functions/installation.php:1
+msgid "Read Notebook Documentation"
+msgstr "Leer documentación de tema Notebook"
+
+#: ../includes/functions/troubleshooting.php:1
+msgid ""
+"1. First, have you read the readme documentation that came with your theme?"
+msgstr "1. Primero ¿Ha leído usted la documentación que viene con el tema?"
+
+#: ../includes/functions/troubleshooting.php:2
+msgid ""
+"Each theme comes with a readme file that includes detailed installation "
+"instructions. Before continuing, please make sure that you have read through "
+"this file and followed each step correctly. You can view the readme files "
+"online at the following locations:\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bluesky/readme.html"
+"\">Bluesky</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bluemist/readme.html"
+"\">BlueMist</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/simplism/readme.html"
+"\">Simplism</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/quadro/readme.html\">Quadro</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/earthlytouch/readme.html"
+"\">EarthlyTouch</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/artsee/readme.html\">ArtSee</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/tidalforce/readme.html"
+"\">TidalForce</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/wooden/readme.html\">Wooden</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/interphase/readme.html"
+"\">InterPhase</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/whoswho/readme.html"
+"\">Who'sWho</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/studioblue/readme.html"
+"\">StudioBlue</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/influx/readme.html\">Influx</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/grungemag/readme.html"
+"\">GrungeMag</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/egallery/readme.html"
+"\">eGallery</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/cion/readme.html\">Cion</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/evid/readme.html\">eVid</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/egamer/readme.html\">eGamer</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/lightsource/readme.html"
+"\">LightSource</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/coldstone/readme.html"
+"\">ColdStone</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/basic/readme.html\">Basic</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/puretype/readme.html"
+"\">PureType</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/cherrytruffle/readme.html"
+"\">CherryTruffle</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/ebusiness/readme.html"
+"\">eBusiness</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/ephoto/readme.html\">ePhoto</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bold/readme.html\">Bold</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/enews/readme.html\">eNews</a>"
+msgstr ""
+"Cada tema viene con un archivo readme que incluye instrucciones detalladas "
+"de instalación. Antes de continuar, por favor asegúrese de que usted ha "
+"leído dicho archivo y seguido cada paso correctamente. Puede ver los "
+"archivos readme en línea en los siguientes lugares:\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bluesky/readme.html"
+"\">Bluesky</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bluemist/readme.html"
+"\">BlueMist</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/simplism/readme.html"
+"\">Simplism</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/quadro/readme.html\">Quadro</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/earthlytouch/readme.html"
+"\">EarthlyTouch</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/artsee/readme.html\">ArtSee</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/tidalforce/readme.html"
+"\">TidalForce</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/wooden/readme.html\">Wooden</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/interphase/readme.html"
+"\">InterPhase</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/whoswho/readme.html"
+"\">Who'sWho</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/studioblue/readme.html"
+"\">StudioBlue</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/influx/readme.html\">Influx</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/grungemag/readme.html"
+"\">GrungeMag</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/egallery/readme.html"
+"\">eGallery</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/cion/readme.html\">Cion</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/evid/readme.html\">eVid</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/egamer/readme.html\">eGamer</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/lightsource/readme.html"
+"\">LightSource</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/coldstone/readme.html"
+"\">ColdStone</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/basic/readme.html\">Basic</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/puretype/readme.html"
+"\">PureType</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/cherrytruffle/readme.html"
+"\">CherryTruffle</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/ebusiness/readme.html"
+"\">eBusiness</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/ephoto/readme.html\">ePhoto</"
+"a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/bold/readme.html\">Bold</a>,\n"
+"<a href=\"http://www.elegantthemes.com/gallery/enews/readme.html\">eNews</a>"
+
+#: ../includes/functions/troubleshooting.php:31
+msgid "2. Have you watched the video tutorials?"
+msgstr "2. ¿Ha visto los video tutoriales?"
+
+#: ../includes/functions/troubleshooting.php:32
+msgid ""
+"Many of the common issues that occur have already been covered in the video "
+"tutorials section of the members area. To access the video tutorials page <a "
+"href=\"http://www.elegantthemes.com/members-area/tutorials\">log in here</a>."
+msgstr ""
+"Muchos de los problemas comunes que se producen ya se han cubierto en la "
+"sección de video tutoriales del área de miembros de Elegant Themes. Para "
+"acceder a la página de vídeo tutoriales  <a href=\"http://www.elegantthemes."
+"com/members-area/tutorials\">ingrese acá</a>."
+
+#: ../includes/functions/troubleshooting.php:35
+msgid "3. Do you have plugins active that did not come with the theme?"
+msgstr "3.  ¿Ha activado plugins que no vengan con este tema?"
+
+#: ../includes/functions/troubleshooting.php:36
+msgid ""
+"If you are using additional plugins that did not come with the theme it is "
+"possible that one of them is interfering with the design. Unfortunately it "
+"is impossible to predict what will happen when unknown code is place into my "
+"themes, so it is always important, if you are experiencing problems, to "
+"disable all of the plugins that did not come with the theme to see if they "
+"are at fault. Try disabling each plugin one by one to find the culprit."
+msgstr ""
+"Si usted está usando plugins adicionales que no vienen con el tema, es "
+"posible que uno de ellos está interfiriendo con el diseño. Por desgracia, es "
+"imposible predecir lo que sucederá cuando el código es desconocido en este "
+"tema, por lo que siempre es importante, si usted está experimentando "
+"problemas, para desactivar todos los plugins que no vienen con el tema para "
+"ver si ellos tienen la culpa . Intenta desactivar cada plugin hasta "
+"encontrar al culpable."
+
+#: ../includes/functions/troubleshooting.php:38
+msgid ""
+"4. Have you uploaded the correct theme folder to the correct theme directory?"
+msgstr "4. ¿Ha subido de manera correcta el directorio del tema?"
+
+# To much content didn't translate it at all.
+#: ../includes/functions/troubleshooting.php:39
+#, fuzzy
+msgid ""
+"When you download one of my themes and unzip it you will see a few different "
+"folders. Photoshop Files, Plugins, Theme, and, with select themes, Fonts. "
+"The &quot;theme folder&quot; that you need to upload to your server is "
+"located within the Theme folder in your ZIP file. You need to upload this "
+"folder to the correct folder on your server (wp-content/themes/). Do not "
+"upload the &quot;Theme&quot; folder, only upload the folder within the &quot;"
+"Theme&quot; folder. For example, if you are using my Studioblue theme you "
+"would want to upload the &quot;StudioBlue&quot; folder contained within the "
+"&quot;Theme&quot; folder to wp-content/themes. Do not upload StudioBlue's "
+"parent folder. Furthermore, make sure that you do not rename the &quot;"
+"StudioBlue&quot; folder.\n"
+"For more information you can also refer to this detailed video tutorial: <a "
+"href=\"http://www.elegantthemes.com/members-area/tutorials/uploading.php"
+"\">Installing a Theme</a>."
+msgstr ""
+"Cuando descarga este tema y lo descomprime, podrá observar diferentes "
+"directorios.  Este deberá subirlo via ftp a wp-content/themes."
+
+#: ../includes/functions/troubleshooting.php:43
+msgid "5. Are you using the latest version of Wordpress?"
+msgstr "5. ¿Está utilizando la versión más reciente de Wordpress?"
+
+#: ../includes/functions/troubleshooting.php:44
+msgid ""
+"Wordpress is constantly changing, it is always best to keep your Wordpress "
+"install up-to-date. Using an out-dated version may lead to unknown problems."
+msgstr ""
+"Wordpress está en constante cambio, siempre es mejor para mantener tu "
+"instalación de Wordpress al día. El uso de una versión anticuada puede "
+"llevar a problemas desconocidos."
+
+#: ../includes/functions/troubleshooting.php:46
+msgid "6. Have you made any customizations to the theme?"
+msgstr "6. ¿Le ha hecho cambios al tema?"
+
+#: ../includes/functions/troubleshooting.php:47
+msgid ""
+"Before contacting me about theme problems make sure customizations you made "
+"are not the cause of the problem. If you have made edits to the theme files, "
+"try uploading a fresh version of the theme and compare the two."
+msgstr ""
+"Antes de ponerse en contacto con el creador del tema acerca de los problemas "
+"del tema asegúrese que las personalizaciones realizadas no son la causa del "
+"problema. Si ha realizado modificaciones en los archivos del tema, trate de "
+"subir una nueva versión del tema y comparar los dos."
+
+#: ../includes/functions/troubleshooting.php:49
+msgid "7. Are you having trouble getting your thumbnails to appear?"
+msgstr "7. ¿Tiene problemas haciendo visibles las miniaturas de imagenes?"
+
+#: ../includes/functions/troubleshooting.php:50
+msgid ""
+"There are several different things that could lead to thumbnail troubles. "
+"For more information please read the following guide: <a href=\"http://www."
+"elegantthemes.com/troubleshooting-timthumb.html\">Troubleshooting Timthumb</"
+"a>."
+msgstr ""
+"Hay varios cosas que pueden conducir a problemas con las imagenes en "
+"miniatura. Para obtener más información, por favor lea la siguiente guía: <a "
+"href=\"http://www.elegantthemes.com/troubleshooting-timthumb.html\"> "
+"Solución de problemas Timthumb </ a>."
+
+#: ../includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "Ver video tutoriales"
