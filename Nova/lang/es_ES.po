@@ -2,10 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nova 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-05-09 14:10-0600\n"
+"POT-Creation-Date: 2014-05-15 13:55-0600\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jossemar Cordero <hello@jossemargt.com>\n"
-"Language-Team: Propositios\n"
+"Language-Team: jossemarGT <hello@jossemargt.com>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,6 +16,28 @@ msgstr ""
 "X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ..\n"
+
+#: ../page-full.php:44 ../page-login.php:50 ../page-search.php:50
+#: ../page-search.php:60 ../page-gallery.php:53 ../page-contact.php:106
+#: ../page-template-portfolio.php:62 ../single.php:41 ../page.php:38
+#: ../page-blog.php:58 ../page-sitemap.php:50 ../page-sitemap.php:54
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../page-full.php:45 ../page-login.php:68 ../page-search.php:96
+#: ../page-gallery.php:95 ../page-contact.php:161
+#: ../page-template-portfolio.php:184 ../single.php:42 ../page.php:39
+#: ../page-blog.php:116 ../page-sitemap.php:83
+msgid "Edit this page"
+msgstr "Editar esta página"
+
+#: ../page-login.php:58
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: ../page-login.php:59
+msgid "Password"
+msgstr "Contraseña"
 
 #: ../comments.php:4
 msgid "Please do not load this page directly. Thanks!"
@@ -64,97 +86,33 @@ msgstr "Deja tu comentario"
 msgid "Leave a Reply to %s"
 msgstr "Responder a %s"
 
-#: ../footer.php:14
-msgid "Designed by "
-msgstr "Diseñado por "
+#: ../page-search.php:54
+msgid "search this website"
+msgstr "buscar en este sitio"
 
-#: ../footer.php:14
-msgid "Powered by "
-msgstr "Basado en "
-
-#: ../functions.php:42
-msgid "Primary Menu"
-msgstr "Menú primario"
-
-#: ../functions.php:155
-msgid "navigation menu"
-msgstr "Menú de navegación"
-
-#: ../functions.php:193
-msgid "Fonts"
-msgstr "Fuentes tipográficas"
-
-#: ../functions.php:204
-msgid "Header Font"
-msgstr "Fuentes tipográficas de encabezado"
-
-#: ../functions.php:218
-msgid "Body Font"
-msgstr "Fuentes tipográficas de cuerpo"
-
-#: ../header.php:59 ../epanel/custom_functions.php:434
-#: ../includes/breadcrumbs.php:7
-msgid "Home"
-msgstr "Inicio"
-
-#: ../header.php:73 ../page-search.php:57
+#: ../page-search.php:57 ../header.php:71
 msgid "search this site..."
 msgstr "buscar en este sitio..."
 
-#: ../home.php:82 ../home.php:114 ../page-blog.php:93 ../includes/entry.php:34
-msgid "read more"
-msgstr "leer más"
+#: ../page-search.php:59
+msgid "Posts"
+msgstr "Publicaciones"
 
-#: ../home.php:105 ../page-gallery.php:77 ../page-template-portfolio.php:136
+#: ../page-search.php:63
+msgid "Select a month"
+msgstr "Selecciona un mes"
+
+#: ../page-search.php:88 ../page-contact.php:152
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../page-gallery.php:77 ../page-template-portfolio.php:136 ../home.php:117
 msgid "Zoom in"
 msgstr "Acercar"
 
-#: ../home.php:106 ../page-gallery.php:78 ../page-template-portfolio.php:137
+#: ../page-gallery.php:78 ../page-template-portfolio.php:137 ../home.php:118
 msgid "Read more"
 msgstr "Leer más"
-
-#: ../page-blog.php:58 ../page-contact.php:106 ../page-full.php:44
-#: ../page-gallery.php:53 ../page-login.php:50 ../page-search.php:50
-#: ../page-search.php:60 ../page-sitemap.php:50 ../page-sitemap.php:54
-#: ../page-template-portfolio.php:62 ../page.php:38 ../single.php:41
-msgid "Pages"
-msgstr "Páginas"
-
-#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
-msgid "Posted"
-msgstr "Publicado"
-
-#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
-msgid "by"
-msgstr "por"
-
-#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
-#, fuzzy
-msgid "on"
-msgstr "el"
-
-#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
-msgid "in"
-msgstr "en"
-
-#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
-msgid "0 comments"
-msgstr "0 comentarios"
-
-#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
-msgid "1 comment"
-msgstr "1 comentario"
-
-#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
-msgid "comments"
-msgstr "comentarios"
-
-#: ../page-blog.php:116 ../page-contact.php:161 ../page-full.php:45
-#: ../page-gallery.php:95 ../page-login.php:68 ../page-search.php:96
-#: ../page-sitemap.php:83 ../page-template-portfolio.php:184 ../page.php:39
-#: ../single.php:42
-msgid "Edit this page"
-msgstr "Editar esta página"
 
 #: ../page-contact.php:19
 msgid "Make sure you entered the captcha. "
@@ -202,33 +160,79 @@ msgid "Message"
 msgstr "Mensaje"
 
 #: ../page-contact.php:151 ../epanel/core_functions.php:203
-#: ../epanel/core_functions.php:377
+#: ../epanel/core_functions.php:379
 msgid "Reset"
 msgstr "Reiniciar"
 
-#: ../page-contact.php:152 ../page-search.php:88
-msgid "Submit"
-msgstr "Enviar"
+#: ../functions.php:42
+msgid "Primary Menu"
+msgstr "Menú primario"
 
-#: ../page-login.php:58
-msgid "Username"
-msgstr "Nombre de usuario"
+#: ../functions.php:154
+msgid "navigation menu"
+msgstr "Menú de navegación"
 
-#: ../page-login.php:59
-msgid "Password"
-msgstr "Contraseña"
+#: ../functions.php:192
+msgid "Fonts"
+msgstr "Fuentes tipográficas"
 
-#: ../page-search.php:54
-msgid "search this website"
-msgstr "buscar en este sitio"
+#: ../functions.php:203
+msgid "Header Font"
+msgstr "Fuentes tipográficas de encabezado"
 
-#: ../page-search.php:59
-msgid "Posts"
-msgstr "Publicaciones"
+#: ../functions.php:217
+msgid "Body Font"
+msgstr "Fuentes tipográficas de cuerpo"
 
-#: ../page-search.php:63
-msgid "Select a month"
-msgstr "Selecciona un mes"
+#: ../footer.php:14
+msgid "Designed by "
+msgstr "Diseñado por "
+
+#: ../footer.php:14
+msgid "Powered by "
+msgstr "Basado en "
+
+#: ../header.php:57 ../epanel/custom_functions.php:462
+#: ../includes/breadcrumbs.php:7
+msgid "Home"
+msgstr "Inicio"
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Buscar"
+
+#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
+msgid "Posted"
+msgstr "Publicado"
+
+#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
+msgid "by"
+msgstr "por"
+
+#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
+#, fuzzy
+msgid "on"
+msgstr "el"
+
+#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
+msgid "in"
+msgstr "en"
+
+#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
+msgid "0 comments"
+msgstr "0 comentarios"
+
+#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: ../page-blog.php:73 ../includes/postinfo.php:3 ../includes/postinfo.php:8
+msgid "comments"
+msgstr "comentarios"
+
+#: ../page-blog.php:93 ../home.php:94 ../home.php:126 ../includes/entry.php:34
+msgid "read more"
+msgstr "leer más"
 
 #: ../page-sitemap.php:59
 msgid "Categories"
@@ -242,11 +246,107 @@ msgstr "Etiquetas"
 msgid "Authors"
 msgstr "Autores"
 
-#: ../searchform.php:4
-msgid "Search"
-msgstr "Buscar"
+#: ../epanel/options_nova.php:146
+msgid "Responsive shortcodes"
+msgstr "Atajos responsivos"
 
-#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:389
+#: ../epanel/options_nova.php:150
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"Activa esta opción para hacer que los atajos respondan a varios tamaños de "
+"pantalla"
+
+#: ../epanel/options_nova.php:153
+msgid "Google Fonts subsets"
+msgstr "Sub-conjuntos de Fuentes de Google"
+
+#: ../epanel/options_nova.php:157
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr ""
+"Esto activará las las fuentes Google para lenguajes que no sean inglés."
+
+#: ../epanel/options_nova.php:162
+#, fuzzy
+msgid "Custom CSS"
+msgstr "CSS extras"
+
+#: ../epanel/options_nova.php:166
+#, fuzzy
+msgid "Here you can add custom css to override or extend default styles."
+msgstr "Acá pedes agregar tus css propios para extender los estilos defecto."
+
+#: ../epanel/custom_functions.php:189
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: ../epanel/custom_functions.php:703
+msgid "Archives"
+msgstr "Archivos"
+
+#: ../epanel/custom_functions.php:705
+#, fuzzy, php-format
+msgid "Search results for \"%s\""
+msgstr "Resultado de búsqueda de"
+
+#: ../epanel/custom_functions.php:707
+#, fuzzy
+msgid "404 Not Found"
+msgstr "No se encontraron resultados"
+
+#: ../epanel/custom_functions.php:778
+#, php-format
+msgid "Currently viewing archives from %1$s"
+msgstr "Actualmente esta viendo los archivos de %1$s"
+
+#: ../epanel/custom_functions.php:1011
+msgid "Image doesn't exist"
+msgstr "La imagen no existe"
+
+#: ../epanel/custom_functions.php:1207
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Esta es una instalación nueva del tema %1$s. No "
+"olvide dirigirse al <a href=\"%2$s\">ePanel</a> para configurarlo. Este "
+"mensaje desaparecerá una vez pulse el botón de guardard en la página de <a "
+"href=\"%2$s\">opciones de tema</a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1219
+#, fuzzy, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"Existe una nueva versión de %1$s disponible. <a href=\"%2$s\" class="
+"\"thickbox\" title=\"%1$s\">Ver detalles de versión de %3$s </a>. <em>Las "
+"actualizaciones automáticas para este tema no están habilitadas.  Si este es "
+"un tema  de Elegant Themes, deberá volver a descargar el tema del área de "
+"miembors y <a href=\"http://www.elegantthemes.com/members-area/documentation."
+"html#update\" target=\"_blank\">reinstalarlo</a>  de tal manera tener la "
+"última versión.</em>"
+
+#: ../epanel/custom_functions.php:1223
+#, fuzzy
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"Las actualizaciones automáticas no están disponibles para este tema. Si es "
+"un tema de Elegant Themes, entonces deberá volver a descargar el tema del "
+"área de miembros y  <a href=\"http://www.elegantthemes.com/members-area/"
+"documentation.html#update\" target=\"_blank\">reinstalarlo</a> para ver la "
+"última versión."
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:391
 msgid "Saving..."
 msgstr "Guardando..."
 
@@ -309,99 +409,213 @@ msgstr "Documentos de soporte"
 msgid "Upload Image"
 msgstr "Subir Imagen"
 
-#: ../epanel/core_functions.php:229
+#: ../epanel/core_functions.php:231
 msgid "You don't have pages"
 msgstr "No posee páginas"
 
-#: ../epanel/core_functions.php:362
+#: ../epanel/core_functions.php:364
 msgid "Save changes"
 msgstr "Guardar cambios"
 
-#: ../epanel/core_functions.php:373
+#: ../epanel/core_functions.php:375
+#, fuzzy
 msgid ""
 "This will return all of the settings throughout the options page to their "
-"default values. <strong>Are you sure you want to do this?"
+"default values. <strong>Are you sure you want to do this?</strong>"
 msgstr ""
 "Esto restaurará todas las opciones a su valor defecto. <strong>¿Está seguro "
 "de que desea hacerlo?</strong>"
 
-#: ../epanel/custom_functions.php:840
-msgid "Image doesn't exist"
-msgstr "La imagen no existe"
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Previous"
+msgstr "Anterior"
 
-#: ../epanel/custom_functions.php:1029
-#, php-format
-msgid ""
-"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
-"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
-"disappear once you have clicked the Save button within the <a href=\"%2$s"
-"\">theme's options page</a>.</p></div>"
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Next"
+msgstr "Siguiente"
+
+#: ../epanel/shortcodes/shortcodes.php:287
+msgid "Member Login"
+msgstr "Ingreso de miembros"
+
+#: ../epanel/shortcodes/shortcodes.php:290
+msgid "Username: "
+msgstr "Nombre de usuario:"
+
+#: ../epanel/shortcodes/shortcodes.php:291
+msgid "Password: "
+msgstr "Contraseña"
+
+#: ../epanel/shortcodes/shortcodes.php:292
+msgid "Login"
+msgstr "Inicio de sesión"
+
+#: ../epanel/shortcodes/shortcodes.php:328
+msgid "Add a Tooltip Text"
+msgstr "Agregar texto de ayuda"
+
+#: ../epanel/shortcodes/shortcodes.php:350
+msgid "Click here to learn more"
+msgstr "Da click acá para aprender más"
+
+#: ../epanel/shortcodes/shortcodes.php:960
+msgid "Caption"
+msgstr "Leyenda"
+
+#: ../epanel/shortcodes/shortcodes.php:961
+msgid "Caption goes here"
+msgstr "La leyenda va acá"
+
+#: ../epanel/shortcodes/shortcodes.php:962
+msgid "Caption title goes here"
+msgstr "La leyenda del título va acá"
+
+#: ../epanel/shortcodes/shortcodes.php:966
+msgid "State"
+msgstr "Estado"
+
+#: ../epanel/shortcodes/shortcodes.php:968
+msgid "Select between expanded and closed state"
+msgstr "Seleccione entre estado expandido o cerrado"
+
+#: ../epanel/shortcodes/shortcodes.php:973
+#: ../epanel/shortcodes/shortcodes.php:989
+#: ../epanel/shortcodes/shortcodes.php:1018
+#: ../epanel/shortcodes/shortcodes.php:1098
+msgid "Content"
+msgstr "Contenido"
+
+#: ../epanel/shortcodes/shortcodes.php:974
+#: ../epanel/shortcodes/shortcodes.php:990
+#: ../epanel/shortcodes/shortcodes.php:1076
+#: ../epanel/shortcodes/shortcodes.php:1099
+msgid "Content goes here"
+msgstr "El contenido va acá"
+
+#: ../epanel/shortcodes/shortcodes.php:975
+#: ../epanel/shortcodes/shortcodes.php:991
+#: ../epanel/shortcodes/shortcodes.php:1020
+msgid "Content text or html"
+msgstr "Contenido en texto o html"
+
+#: ../epanel/shortcodes/shortcodes.php:982
+#: ../epanel/shortcodes/shortcodes.php:1004
+msgid "Type"
+msgstr "Tipo"
+
+#: ../epanel/shortcodes/shortcodes.php:984
+msgid "Type of the box"
+msgstr "Tipo de caja"
+
+#: ../epanel/shortcodes/shortcodes.php:998
+msgid "Link"
+msgstr "Enlace"
+
+#: ../epanel/shortcodes/shortcodes.php:1000
+msgid "URL"
+msgstr "Dirección web"
+
+#: ../epanel/shortcodes/shortcodes.php:1006
+msgid "Choose button type"
+msgstr "Seleccione tipo de botón"
+
+#: ../epanel/shortcodes/shortcodes.php:1011
+msgid "Color"
+msgstr "Color"
+
+#: ../epanel/shortcodes/shortcodes.php:1013
+msgid "Choose button color"
+msgstr "Seleccione color de botón"
+
+#: ../epanel/shortcodes/shortcodes.php:1019
+msgid "Link text"
+msgstr "Texto de enlace"
+
+#: ../epanel/shortcodes/shortcodes.php:1024
+msgid "Icon"
+msgstr "Icono"
+
+#: ../epanel/shortcodes/shortcodes.php:1026
+msgid "Used for icon button type"
+msgstr "Utilizado para el tipo de botón con icono"
+
+#: ../epanel/shortcodes/shortcodes.php:1031
+msgid "Open link in new window"
+msgstr "Abrir en nueva ventana"
+
+#: ../epanel/shortcodes/shortcodes.php:1033
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Selecciona SI, si deseas que se abra el enlace en nuna nueva ventana"
+
+#: ../epanel/shortcodes/shortcodes.php:1041
+msgid "Slider Type"
+msgstr "Tipo diapositiva"
+
+#: ../epanel/shortcodes/shortcodes.php:1043
+msgid "Select Slider Type here"
+msgstr "Selecciona el tipo diapositiva acá"
+
+#: ../epanel/shortcodes/shortcodes.php:1048
+msgid "Effect"
+msgstr "Efecto"
+
+#: ../epanel/shortcodes/shortcodes.php:1050
+msgid "Select Animation Effect"
+msgstr "Seleccione la animación de efecto"
+
+#: ../epanel/shortcodes/shortcodes.php:1055
+msgid "Auto"
+msgstr "Automático"
+
+#: ../epanel/shortcodes/shortcodes.php:1057
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Selecciona SI, si deseas animación automática de diapositivas"
+
+#: ../epanel/shortcodes/shortcodes.php:1062
+msgid "Auto Speed"
+msgstr "Velocidad automática"
+
+#: ../epanel/shortcodes/shortcodes.php:1064
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "Velocidad automática de diapositivas"
+
+#: ../epanel/shortcodes/shortcodes.php:1068
+msgid "Tab Text"
+msgstr "Texto de lengüeta"
+
+#: ../epanel/shortcodes/shortcodes.php:1075
+msgid "Tab Content"
+msgstr "Contenido de lengüeta"
+
+#: ../epanel/shortcodes/shortcodes.php:1077
+msgid "Paste image url here, if you chose \"images\" slider type"
 msgstr ""
-"<div class=\"updated\"><p>Esta es una instalación nueva del tema %1$s. No "
-"olvide dirigirse al <a href=\"%2$s\">ePanel</a> para configurarlo. Este "
-"mensaje desaparecerá una vez pulse el botón de guardard en la página de <a "
-"href=\"%2$s\">opciones de tema</a>.</p></div>"
+"Pega la dirección de la imagen acá, si has seleccionado el tipo de  "
+"diapostivas de \"imagenes\"."
 
-#: ../epanel/custom_functions.php:1041
-#, php-format
-msgid ""
-"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
-"\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not "
-"available for this theme. If this is an Elegant Themes theme, then you must "
-"re-download the theme from the member's area and <a href=\"http://www."
-"elegantthemes.com/members-area/documentation.html#update\" target=\"_blank"
-"\">re-install it</a> in order to update it to the latest version.</em>"
-msgstr ""
-"Existe una nueva versión de %1$s disponible. <a href=\"%2$s\" class="
-"\"thickbox\" title=\"%1$s\">Ver detalles de versión de %3$s </a>. <em>Las "
-"actualizaciones automáticas para este tema no están habilitadas.  Si este es "
-"un tema  de Elegant Themes, deberá volver a descargar el tema del área de "
-"miembors y <a href=\"http://www.elegantthemes.com/members-area/documentation."
-"html#update\" target=\"_blank\">reinstalarlo</a>  de tal manera tener la "
-"última versión.</em>"
+#: ../epanel/shortcodes/shortcodes.php:1085
+msgid "Image Url"
+msgstr "Dirección de imagen"
 
-#: ../epanel/custom_functions.php:1045
-msgid ""
-"Auto-updates are not available for this theme. If this is an Elegant Themes "
-"theme, then you must re-download the theme from the member's area and <a "
-"href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" "
-"target=\"_blank\">re-install it</a> in order to update it to the latest "
-"version."
-msgstr ""
-"Las actualizaciones automáticas no están disponibles para este tema. Si es "
-"un tema de Elegant Themes, entonces deberá volver a descargar el tema del "
-"área de miembros y  <a href=\"http://www.elegantthemes.com/members-area/"
-"documentation.html#update\" target=\"_blank\">reinstalarlo</a> para ver la "
-"última versión."
+#: ../epanel/shortcodes/shortcodes.php:1087
+msgid "Author Image URL"
+msgstr "Dirección de imagen de autor"
 
-#: ../epanel/options_nova.php:146
-msgid "Responsive shortcodes"
-msgstr "Atajos responsivos"
+#: ../epanel/shortcodes/shortcodes.php:1091
+msgid "Use resizing"
+msgstr "Acomodar tamaño"
 
-#: ../epanel/options_nova.php:150
-msgid "Enable this option to make shortcodes respond to various screen sizes"
-msgstr ""
-"Activa esta opción para hacer que los atajos respondan a varios tamaños de "
-"pantalla"
+#: ../epanel/shortcodes/shortcodes.php:1168
+msgid "+ Add One More Tab"
+msgstr "+ Agragar una legüeta más"
 
-#: ../epanel/options_nova.php:153
-msgid "Google Fonts subsets"
-msgstr "Sub-conjuntos de Fuentes de Google"
+#: ../epanel/shortcodes/shortcodes.php:1318
+msgid "Image Height"
+msgstr "Altura de imagen"
 
-#: ../epanel/options_nova.php:157
-msgid "This will enable Google Fonts for Non-English languages."
-msgstr ""
-"Esto activará las las fuentes Google para lenguajes que no sean inglés."
-
-#: ../epanel/options_nova.php:162
-#, fuzzy
-msgid "Custom CSS"
-msgstr "CSS extras"
-
-#: ../epanel/options_nova.php:166
-#, fuzzy
-msgid "Here you can add custom css to override or extend default styles."
-msgstr "Acá pedes agregar tus css propios para extender los estilos defecto."
+#: ../epanel/shortcodes/shortcodes.php:1319
+msgid "Image Width"
+msgstr "Anchura de imagen"
 
 #: ../epanel/page_templates/page_templates.php:22
 msgid "Captcha"
@@ -495,197 +709,6 @@ msgstr "Selecciona categorías de blog:"
 msgid "Select gallery categories:"
 msgstr "Selecciona categorías de galería de imagenes:"
 
-#: ../epanel/shortcodes/shortcodes.php:15
-msgid "Previous"
-msgstr "Anterior"
-
-#: ../epanel/shortcodes/shortcodes.php:15
-msgid "Next"
-msgstr "Siguiente"
-
-#: ../epanel/shortcodes/shortcodes.php:302
-msgid "Member Login"
-msgstr "Ingreso de miembros"
-
-#: ../epanel/shortcodes/shortcodes.php:305
-msgid "Username: "
-msgstr "Nombre de usuario:"
-
-#: ../epanel/shortcodes/shortcodes.php:306
-msgid "Password: "
-msgstr "Contraseña"
-
-#: ../epanel/shortcodes/shortcodes.php:307
-msgid "Login"
-msgstr "Inicio de sesión"
-
-#: ../epanel/shortcodes/shortcodes.php:343
-msgid "Add a Tooltip Text"
-msgstr "Agregar texto de ayuda"
-
-#: ../epanel/shortcodes/shortcodes.php:365
-msgid "Click here to learn more"
-msgstr "Da click acá para aprender más"
-
-#: ../epanel/shortcodes/shortcodes.php:973
-msgid "Caption"
-msgstr "Leyenda"
-
-#: ../epanel/shortcodes/shortcodes.php:974
-msgid "Caption goes here"
-msgstr "La leyenda va acá"
-
-#: ../epanel/shortcodes/shortcodes.php:975
-msgid "Caption title goes here"
-msgstr "La leyenda del título va acá"
-
-#: ../epanel/shortcodes/shortcodes.php:979
-msgid "State"
-msgstr "Estado"
-
-#: ../epanel/shortcodes/shortcodes.php:981
-msgid "Select between expanded and closed state"
-msgstr "Seleccione entre estado expandido o cerrado"
-
-#: ../epanel/shortcodes/shortcodes.php:986
-#: ../epanel/shortcodes/shortcodes.php:1002
-#: ../epanel/shortcodes/shortcodes.php:1031
-#: ../epanel/shortcodes/shortcodes.php:1111
-msgid "Content"
-msgstr "Contenido"
-
-#: ../epanel/shortcodes/shortcodes.php:987
-#: ../epanel/shortcodes/shortcodes.php:1003
-#: ../epanel/shortcodes/shortcodes.php:1089
-#: ../epanel/shortcodes/shortcodes.php:1112
-msgid "Content goes here"
-msgstr "El contenido va acá"
-
-#: ../epanel/shortcodes/shortcodes.php:988
-#: ../epanel/shortcodes/shortcodes.php:1004
-#: ../epanel/shortcodes/shortcodes.php:1033
-msgid "Content text or html"
-msgstr "Contenido en texto o html"
-
-#: ../epanel/shortcodes/shortcodes.php:995
-#: ../epanel/shortcodes/shortcodes.php:1017
-msgid "Type"
-msgstr "Tipo"
-
-#: ../epanel/shortcodes/shortcodes.php:997
-msgid "Type of the box"
-msgstr "Tipo de caja"
-
-#: ../epanel/shortcodes/shortcodes.php:1011
-msgid "Link"
-msgstr "Enlace"
-
-#: ../epanel/shortcodes/shortcodes.php:1013
-msgid "URL"
-msgstr "Dirección web"
-
-#: ../epanel/shortcodes/shortcodes.php:1019
-msgid "Choose button type"
-msgstr "Seleccione tipo de botón"
-
-#: ../epanel/shortcodes/shortcodes.php:1024
-msgid "Color"
-msgstr "Color"
-
-#: ../epanel/shortcodes/shortcodes.php:1026
-msgid "Choose button color"
-msgstr "Seleccione color de botón"
-
-#: ../epanel/shortcodes/shortcodes.php:1032
-msgid "Link text"
-msgstr "Texto de enlace"
-
-#: ../epanel/shortcodes/shortcodes.php:1037
-msgid "Icon"
-msgstr "Icono"
-
-#: ../epanel/shortcodes/shortcodes.php:1039
-msgid "Used for icon button type"
-msgstr "Utilizado para el tipo de botón con icono"
-
-#: ../epanel/shortcodes/shortcodes.php:1044
-msgid "Open link in new window"
-msgstr "Abrir en nueva ventana"
-
-#: ../epanel/shortcodes/shortcodes.php:1046
-msgid "Select yes if the link should be opened in a new window"
-msgstr "Selecciona SI, si deseas que se abra el enlace en nuna nueva ventana"
-
-#: ../epanel/shortcodes/shortcodes.php:1054
-msgid "Slider Type"
-msgstr "Tipo diapositiva"
-
-#: ../epanel/shortcodes/shortcodes.php:1056
-msgid "Select Slider Type here"
-msgstr "Selecciona el tipo diapositiva acá"
-
-#: ../epanel/shortcodes/shortcodes.php:1061
-msgid "Effect"
-msgstr "Efecto"
-
-#: ../epanel/shortcodes/shortcodes.php:1063
-msgid "Select Animation Effect"
-msgstr "Seleccione la animación de efecto"
-
-#: ../epanel/shortcodes/shortcodes.php:1068
-msgid "Auto"
-msgstr "Automático"
-
-#: ../epanel/shortcodes/shortcodes.php:1070
-msgid "Choose yes if you want for automatic slider animation"
-msgstr "Selecciona SI, si deseas animación automática de diapositivas"
-
-#: ../epanel/shortcodes/shortcodes.php:1075
-msgid "Auto Speed"
-msgstr "Velocidad automática"
-
-#: ../epanel/shortcodes/shortcodes.php:1077
-msgid "Automattic slider speed (works only if Auto is set to yes)"
-msgstr "Velocidad automática de diapositivas"
-
-#: ../epanel/shortcodes/shortcodes.php:1081
-msgid "Tab Text"
-msgstr "Texto de lengüeta"
-
-#: ../epanel/shortcodes/shortcodes.php:1088
-msgid "Tab Content"
-msgstr "Contenido de lengüeta"
-
-#: ../epanel/shortcodes/shortcodes.php:1090
-msgid "Paste image url here, if you chose \"images\" slider type"
-msgstr ""
-"Pega la dirección de la imagen acá, si has seleccionado el tipo de  "
-"diapostivas de \"imagenes\"."
-
-#: ../epanel/shortcodes/shortcodes.php:1098
-msgid "Image Url"
-msgstr "Dirección de imagen"
-
-#: ../epanel/shortcodes/shortcodes.php:1100
-msgid "Author Image URL"
-msgstr "Dirección de imagen de autor"
-
-#: ../epanel/shortcodes/shortcodes.php:1104
-msgid "Use resizing"
-msgstr "Acomodar tamaño"
-
-#: ../epanel/shortcodes/shortcodes.php:1181
-msgid "+ Add One More Tab"
-msgstr "+ Agragar una legüeta más"
-
-#: ../epanel/shortcodes/shortcodes.php:1331
-msgid "Image Height"
-msgstr "Altura de imagen"
-
-#: ../epanel/shortcodes/shortcodes.php:1332
-msgid "Image Width"
-msgstr "Anchura de imagen"
-
 #: ../includes/breadcrumbs.php:10
 msgid "Posts Tagged "
 msgstr "Publicación etiquetada"
@@ -702,11 +725,6 @@ msgstr "Resultado de búsqueda de"
 #: ../includes/breadcrumbs.php:26
 msgid "Posts by "
 msgstr "Publicado por"
-
-#: ../includes/entry.php:16
-#, php-format
-msgid "Permanent Link to %s"
-msgstr "Enlace permanente para %s"
 
 #: ../includes/navigation.php:2
 msgid "&laquo; Older Entries"
@@ -728,6 +746,15 @@ msgstr ""
 "La página que solicitas no ha sido encontrada. Prueba mejorar tu búsqueda o "
 "usa la barra de navegación para localizar la publicación."
 
+#: ../includes/entry.php:16
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Enlace permanente para %s"
+
+#: ../includes/functions/installation.php:1
+msgid "Read Nova Documentation"
+msgstr "Leer la documentación del tema Nova"
+
 #: ../includes/functions/comments.php:21
 msgid "Your comment is awaiting moderation."
 msgstr "Tu comentario espera por moderación."
@@ -735,7 +762,3 @@ msgstr "Tu comentario espera por moderación."
 #: ../includes/functions/comments.php:27
 msgid "Reply"
 msgstr "Responder"
-
-#: ../includes/functions/installation.php:1
-msgid "Read Nova Documentation"
-msgstr "Leer la documentación del tema Nova"

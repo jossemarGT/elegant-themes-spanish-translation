@@ -1,5 +1,6 @@
 #Elegant Themes Spanish Translation
 Spanish translation of some ElegantThemes.com's themes.
+- [Divi](http://www.elegantthemes.com/demo/?theme=Divi)
 - [Fable](http://www.elegantthemes.com/demo/?theme=Fable)
 - [Foxy](http://www.elegantthemes.com/demo/?theme=Foxy)
 - [Nova](http://www.elegantthemes.com/demo/?theme=Nova)

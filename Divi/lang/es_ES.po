@@ -1,283 +1,387 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: wp-theme-elegant-foxy-adsense\n"
-"POT-Creation-Date: 2014-05-15 13:58-0600\n"
+"Project-Id-Version: Divi ES\n"
+"POT-Creation-Date: 2014-05-21 10:18-0600\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jossemar Cordero <hello@jossemargt.com>\n"
-"Language-Team: \n"
-"Language: es\n"
+"Language-Team: etchq <temas@etchq.net>\n"
+"Language: spanish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
 "X-Poedit-KeywordsList: _e;__;_x;_n\n"
 "X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ..\n"
 
-#: ../image.php:56
-msgid "&larr; Previous"
-msgstr "&larr; Anterior"
-
-#: ../image.php:57
-msgid "Next &rarr;"
-msgstr "Siguiente &rarr;"
-
-#: ../image.php:62 ../content.php:25
-msgid "Pages:"
-msgstr "Páginas"
-
-#: ../comments.php:15 ../comments.php:29
+#: ../comments.php:18 ../comments.php:31
 msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
 msgstr "<span class=\"meta-nav\">&larr;</span> Comentarios Anteriores"
 
-#: ../comments.php:16 ../comments.php:30
+#: ../comments.php:19 ../comments.php:32
 msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Nuevos Comentarios <span class=\"meta-nav\">&rarr;</span>"
 
-#: ../page-contact.php:137
-msgid "Message"
-msgstr "Mensaje"
+#: ../single-project.php:51 ../single.php:34 ../page.php:46
+msgid "Pages:"
+msgstr "Páginas"
 
-#: ../functions.php:32
+#: ../single-project.php:60
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../single-project.php:61
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: ../functions.php:30
 msgid "Primary Menu"
 msgstr "Menú Principal"
 
-#: ../functions.php:33
-msgid "Footer Menu"
-msgstr "Menú de Pie"
-
-#: ../functions.php:96 ../functions.php:116
+#: ../functions.php:63 ../functions.php:69
 msgid "on"
 msgstr "en"
 
-#: ../functions.php:99 ../functions.php:119
-msgid "no-subset"
-msgstr "sin-subset"
+#: ../functions.php:120
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Por favor, revise los campos de texto para asegurarse de haber ingresado la "
+"información correcta."
 
-#: ../functions.php:263
+#: ../functions.php:173
 #, php-format
 msgid "Posts by %s"
 msgstr "Publicaciones por %s"
 
-#: ../functions.php:280
+#: ../functions.php:190
 msgid "% Comments"
 msgstr "% Comentarios"
 
-#: ../functions.php:282
+#: ../functions.php:192
 msgid "No Comments"
 msgstr "Sin Comentarios"
 
-#: ../functions.php:284
+#: ../functions.php:194
 msgid "1 Comment"
 msgstr "1 Comentario"
 
-#: ../functions.php:315
-msgid "Testimonials"
-msgstr "Testimonios"
-
-#: ../functions.php:316
-msgid "Testimonial"
-msgstr "Testimonio"
-
-#: ../functions.php:317
-msgid "Add New"
-msgstr "Añadir Nuevo"
-
-#: ../functions.php:318
-msgid "Add New Testimonial"
-msgstr "Añadir Nuevo Testimonio"
-
-#: ../functions.php:319
-msgid "Edit Testimonial"
-msgstr "Editar Testimonio"
-
-#: ../functions.php:320
-msgid "New Testimonial"
-msgstr "Nuevo Testimonio"
-
-#: ../functions.php:321
-msgid "All Testimonials"
-msgstr "Todos los Testimonios"
-
-#: ../functions.php:322
-msgid "View Testimonial"
-msgstr "Ver Testimonio"
-
-#: ../functions.php:323
-msgid "Search Testimonials"
-msgstr "Buscar Testimonio"
-
-#: ../functions.php:324
-msgid "Nothing found"
-msgstr "Nada encontrado"
-
-#: ../functions.php:325
-msgid "Nothing found in Trash"
-msgstr "Nada encontrado en Basurero"
-
-#: ../functions.php:355
-#, fuzzy, php-format
-msgid "Testimonial updated. <a href=\"%s\">View testimonial</a>"
-msgstr "Testimonio Actualizado"
-
-#: ../functions.php:356
-msgid "Custom field updated."
-msgstr "Campo personalizado actualizado."
-
-#: ../functions.php:357
-msgid "Custom field deleted."
-msgstr "Campo personalizado eliminado."
-
-#: ../functions.php:358
-msgid "Testimonial updated."
-msgstr "Testimonio actualizado."
-
-#: ../functions.php:360
-#, php-format
-msgid "Testimonial restored to revision from %s"
-msgstr "Testimonio restaurado a la revisión desde %s"
-
-#: ../functions.php:361
-#, php-format
-msgid "Testimonial published. <a href=\"%s\">View testimonial</a>"
-msgstr "Testimonio publicado. <a href=\"%s\">Ver testimonio</a>"
-
-#: ../functions.php:362
-msgid "Testimonial saved."
-msgstr "Testimonio guardado."
-
-#: ../functions.php:363
-#, php-format
-msgid ""
-"Testimonial submitted. <a target=\"_blank\" href=\"%s\">Preview testimonial</"
-"a>"
-msgstr ""
-"Testimonio enviado. <a target=\"_blank\" href=\"%s\">Pre visualizar "
-"testimonio</a>"
-
-#: ../functions.php:364
-#, php-format
-msgid ""
-"Testimonial scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
-"\"%2$s\">Preview testimonial</a>"
-msgstr ""
-"Testimonio programado para el: <strong>%1$s</strong>. <a target=\"_blank\" "
-"href=\"%2$s\">Pre visualizar testimonio</a>"
-
-#: ../functions.php:366
-msgid "M j, Y @ G:i"
-msgstr "M j, Y @ G:i"
-
-#: ../functions.php:367
-#, php-format
-msgid ""
-"Testimonial draft updated. <a target=\"_blank\" href=\"%s\">Preview "
-"testimonial</a>"
-msgstr ""
-"Borrador de Testimonio actualizado. <a target=\"_blank\" href=\"%s\">Pre "
-"visualizar testimonio</a>"
-
-#: ../functions.php:375
-msgid "ET Testimonial Settings"
-msgstr "ET Configuración de Testimonios"
-
-#: ../functions.php:376 ../functions.php:377
+#: ../functions.php:223 ../functions.php:224 ../functions.php:225
+#: ../functions.php:226
 msgid "ET Settings"
 msgstr "ET Configuraciones"
 
-#: ../functions.php:669
-msgid "Fonts"
-msgstr "Tipografias"
+#: ../functions.php:232
+msgid "Projects"
+msgstr "Proyectos"
 
-#: ../functions.php:674
+#: ../functions.php:233
+msgid "Project"
+msgstr "Proyecto"
+
+#: ../functions.php:234 ../functions.php:316
+msgid "Add New"
+msgstr "Añadir Nuevo"
+
+#: ../functions.php:235
+msgid "Add New Project"
+msgstr "Añadir Nuevo Proyecto"
+
+#: ../functions.php:236
+msgid "Edit Project"
+msgstr "Editar Proyecto"
+
+#: ../functions.php:237
+msgid "New Project"
+msgstr "Nuevo Proyecto"
+
+#: ../functions.php:238
+msgid "All Projects"
+msgstr "Todos los Proyectos"
+
+#: ../functions.php:239
+msgid "View Project"
+msgstr "Ver Proyecto"
+
+#: ../functions.php:240
+msgid "Search Projects"
+msgstr "Buscar Proyectos"
+
+#: ../functions.php:241 ../functions.php:323
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+#: ../functions.php:242 ../functions.php:324
+msgid "Nothing found in Trash"
+msgstr "Nada encontrado en Basurero"
+
+#: ../functions.php:269 ../functions.php:279
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../functions.php:270
+msgid "Category"
+msgstr "Categoría"
+
+#: ../functions.php:271
+msgid "Search Categories"
+msgstr "Buscar en Categorías"
+
+#: ../functions.php:272
+msgid "All Categories"
+msgstr "Todas las Categorías"
+
+#: ../functions.php:273
+msgid "Parent Category"
+msgstr "Categoría Padre"
+
+#: ../functions.php:274
+msgid "Parent Category:"
+msgstr "Categoría Padre"
+
+#: ../functions.php:275
+msgid "Edit Category"
+msgstr "Editar Categoría"
+
+#: ../functions.php:276
+msgid "Update Category"
+msgstr "Actualizar Categoría"
+
+#: ../functions.php:277
+msgid "Add New Category"
+msgstr "Añadir Nueva Categoría"
+
+#: ../functions.php:278
+msgid "New Category Name"
+msgstr "Nombre de Nueva categoría"
+
+#: ../functions.php:291 ../functions.php:301
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../functions.php:292
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: ../functions.php:293
+msgid "Search Tags"
+msgstr "Buscar en Etiquetas"
+
+#: ../functions.php:294
+msgid "All Tags"
+msgstr "Todas las Etiquetas"
+
+#: ../functions.php:295
+msgid "Parent Tag"
+msgstr "Etiqueta Padre"
+
+#: ../functions.php:296
+msgid "Parent Tag:"
+msgstr "Etiqueta Padre:"
+
+#: ../functions.php:297
+msgid "Edit Tag"
+msgstr "Editar Etiqueta"
+
+#: ../functions.php:298
+msgid "Update Tag"
+msgstr "Actualizar Etiqueta"
+
+#: ../functions.php:299
+msgid "Add New Tag"
+msgstr "Añadir Nueva Etiqueta"
+
+#: ../functions.php:300
+msgid "New Tag Name"
+msgstr "Nombre de Nueva Etiqueta"
+
+#: ../functions.php:314
+msgid "Layouts"
+msgstr "Esquemas"
+
+#: ../functions.php:315
+msgid "Layout"
+msgstr "Esquema"
+
+#: ../functions.php:317
+msgid "Add New Layout"
+msgstr "Añadir Nuevo Esquema"
+
+#: ../functions.php:318
+msgid "Edit Layout"
+msgstr "Editar Esquema"
+
+#: ../functions.php:319
+msgid "New Layout"
+msgstr "Nuevo Esquema"
+
+#: ../functions.php:320
+msgid "All Layouts"
+msgstr "Todos los Esquemas"
+
+#: ../functions.php:321
+msgid "View Layout"
+msgstr "Ver Esquema"
+
+#: ../functions.php:322
+msgid "Search Layouts"
+msgstr "Buscar Esquemas"
+
+#: ../functions.php:364 ../epanel/options_divi.php:88
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: ../functions.php:365 ../epanel/options_divi.php:89
+msgid "Left Sidebar"
+msgstr "Barra Lateral Izquiera"
+
+#: ../functions.php:366 ../epanel/options_divi.php:90
+msgid "Full Width"
+msgstr "Página de Ancho completo"
+
+#: ../functions.php:442
+msgid "Fonts"
+msgstr "Tipografías"
+
+#: ../functions.php:447
 msgid "Schemes"
 msgstr "Esquemas"
 
-#: ../functions.php:676
+#: ../functions.php:449
 msgid ""
 "Note: Color settings set above should be applied to the Default color scheme."
 msgstr ""
 "Nota: Las preferencias de color elegidas serán aplicadas al esquema de color "
 "defecto."
 
-#: ../functions.php:687
+#: ../functions.php:460
 msgid "Link Color"
 msgstr "Color del Enlace"
 
-#: ../functions.php:700
+#: ../functions.php:473
 msgid "Main Font Color"
 msgstr "Color de Tipografía Principal"
 
-#: ../functions.php:713
-msgid "Slider Background Color"
-msgstr "Color Fondo de Diapositivas"
+#: ../functions.php:486
+msgid "Accent Color"
+msgstr "Color de Acento"
 
-#: ../functions.php:726
-msgid "Slider Shadow Color"
-msgstr "Color Sombra de Diapositivas"
+#: ../functions.php:499
+msgid "Footer Background Color"
+msgstr "Color Fondo de Pie de Página"
 
-#: ../functions.php:739
-msgid "Button / Tab Background Color"
-msgstr "Color de Fondo Boton / Pestaña"
+#: ../functions.php:512
+msgid "Menu Links Color"
+msgstr "Color de Enlace de Menú"
 
-#: ../functions.php:752
-msgid "Button / Tab Shadow Color"
-msgstr "Color de Sombra Boton / Pestaña"
+#: ../functions.php:525
+msgid "Active Menu Link Color"
+msgstr "Color del Enlace de Menú Activo"
 
-#: ../functions.php:765
-msgid "Widget Hightlight Color / Progress Bar Color"
-msgstr "Color de restalado de Widget / Barra de Progreso"
-
-#: ../functions.php:777
+#: ../functions.php:537
 msgid "Header Font"
 msgstr "Tipografía de Encabezado"
 
-#: ../functions.php:791
+#: ../functions.php:551
 msgid "Body Font"
 msgstr "Tipografía de Cuerpo"
 
-#: ../functions.php:806
+#: ../functions.php:566
 msgid "Color Schemes"
 msgstr "Esquemas de color"
 
-#: ../functions.php:811
+#: ../functions.php:571
 msgid "Default"
 msgstr "Defecto"
 
-#: ../functions.php:812
-msgid "Blue"
-msgstr "Azul"
-
-#: ../functions.php:813
+#: ../functions.php:572
 msgid "Green"
 msgstr "Verde"
 
-#: ../functions.php:814
-msgid "Purple"
-msgstr "Púrpura"
+#: ../functions.php:573
+msgid "Orange"
+msgstr "Naranja"
 
-#: ../functions.php:815
+#: ../functions.php:574
+msgid "Pink"
+msgstr "Rosa"
+
+#: ../functions.php:575
 msgid "Red"
 msgstr "Rojo"
 
-#: ../functions.php:816
-msgid "Gray"
-msgstr "Gris"
+#: ../functions.php:1345
+msgid "Tab"
+msgstr "Lengüeta"
 
-#: ../footer.php:21
-msgid "Google Plus"
-msgstr "Google Plus"
+#: ../functions.php:1565
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr ""
+"<h2 class=\"et_pb_subscribed\">Suscrito ¡Revise el correo de confirmación!</"
+"h2>"
 
-#: ../footer.php:22
-msgid "Facebook"
-msgstr "Facebook"
+#: ../functions.php:1578
+msgid "Subscribe"
+msgstr "Suscribir"
 
-#: ../footer.php:23
-msgid "Twitter"
-msgstr "Twitter"
+#: ../functions.php:1591
+msgid "First Name"
+msgstr "Primer Nombre"
 
-#: ../footer.php:40
+#: ../functions.php:1592
+msgid "Last Name"
+msgstr "Apellido"
+
+#: ../functions.php:1593 ../functions.php:2164
+msgid "Email Address"
+msgstr "Email"
+
+#: ../functions.php:1767
+#, php-format
+msgid "by %s |"
+msgstr "por %s |"
+
+#: ../functions.php:1772
+#, php-format
+msgid "%s |"
+msgstr "%s | "
+
+#: ../functions.php:1787
+msgid "read more..."
+msgstr "leer más..."
+
+#: ../functions.php:2153
+#, php-format
+msgid "New Message From %1$s%2$s"
+msgstr "Nuevo mensaje de %1$s%2$s"
+
+#: ../functions.php:2155
+#, php-format
+msgid " - %s"
+msgstr "- %s"
+
+#: ../functions.php:2163
+msgid "Name"
+msgstr "Nombre"
+
+#: ../functions.php:2165
+msgid "Message"
+msgstr "Mensaje"
+
+#: ../functions.php:2219
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../functions.php:2220
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ../footer.php:42
 #, php-format
 msgid "Designed by %1$s | Powered by %2$s"
 msgstr "Diseñado por %1$s | Gracias a %2$s"
@@ -292,22 +396,21 @@ msgstr "Inicio"
 
 #: ../epanel/custom_functions.php:703
 msgid "Archives"
-msgstr "Archivos"
+msgstr "Publicaciones"
 
 #: ../epanel/custom_functions.php:705
-#, fuzzy, php-format
+#, php-format
 msgid "Search results for \"%s\""
-msgstr "Resultados de Búsqueda para"
+msgstr "Resultados de búsqueda para \"%s\""
 
 #: ../epanel/custom_functions.php:707
-#, fuzzy
 msgid "404 Not Found"
-msgstr "Resultados no encontrados"
+msgstr "404 No encontrado"
 
 #: ../epanel/custom_functions.php:778
 #, php-format
 msgid "Currently viewing archives from %1$s"
-msgstr "Actulamente esta viendo los archivos de %1$s"
+msgstr "Actulamente está viendo las publicaciones de %1$s"
 
 #: ../epanel/custom_functions.php:1011
 msgid "Image doesn't exist"
@@ -327,7 +430,7 @@ msgstr ""
 "\">página de opciones de tema</a>.</p></div>"
 
 #: ../epanel/custom_functions.php:1219
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
 "\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
@@ -336,27 +439,36 @@ msgid ""
 "\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
 msgstr ""
 "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox"
-"\" title=\"%1$s\">Ver detalles de versión %3$s</a>. <em>Las auto-"
-"actualizaciones no están disponibles para este tema. Si es un Tema Elegant "
-"Themes, debes descargar de la sección de miembros el tema y <a href=\"http://"
-"www.elegantthemes.com/members-area/documentation.html#update\" target="
-"\"_blank\">re-instalarlo</a> para actualizarlo a la última versión.</em>"
+"\" title=\"%1$s\">Ver detalles de versión %3$s</a>. <em>Para poder "
+"actualizar el tema deberá instalar el <a href=\"https://www.elegantthemes."
+"com/members-area/documentation.html#updater\" target=\"_blank\">Plugin de "
+"actualización Elegant</a> para autenticar su suscripción.</em>"
 
 #: ../epanel/custom_functions.php:1223
-#, fuzzy
 msgid ""
 "Before you can update your Elegant Themes, you must first install the <a "
 "href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
 "\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
 "subscription."
 msgstr ""
-"Las actualizaciones automáticas no están disponibles para este tema. Si es "
-"un tema de Elegant Themes, descarga el tema de el área de miembros y <a href="
-"\"http://www.elegantthemes.com/members-area/documentation.html#update\" "
-"target=\"_blank\">reinstalalo</a> de forma que actualices a la última "
-"versión."
+"Para poder actualizar el tema deberá instalar el <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Plugin de actualización Elegant</a> para autenticar su suscripción."
 
-#: ../epanel/options_foxy.php:159
+#: ../epanel/options_divi.php:97
+msgid "MailChimp API Key"
+msgstr "Llave de API de MailChimp"
+
+#: ../epanel/options_divi.php:102
+#, php-format
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"Ingrese su llave de API de MailChimp. Puede crear su llave <a target=\"_blank"
+"\" href=\"%1$s\">acá</a>"
+
+#: ../epanel/options_divi.php:205
 msgid ""
 "This option allows you to change how your dates are displayed. For more "
 "information please refer to the WordPress codex here:<a href='http://codex."
@@ -368,13 +480,12 @@ msgstr ""
 "Formatting_Date_and_Time' target='_blank'>Dando formato a Fecha y Hora</a>"
 
 #: ../epanel/core_functions.php:375
-#, fuzzy
 msgid ""
 "This will return all of the settings throughout the options page to their "
 "default values. <strong>Are you sure you want to do this?</strong>"
 msgstr ""
 "Esto reiniciara todas las configuraciones en la página a sus valores por "
-"defecto. <strong>¿Está seguro de hacer esto?"
+"defecto. <strong>¿Está seguro de hacer esto?</strong>"
 
 #: ../epanel/shortcodes/shortcodes.php:15
 msgid "Previous"
@@ -388,10 +499,201 @@ msgstr "Siguiente"
 msgid "Click here to learn more"
 msgstr "Haz click para aprender más"
 
-#: ../includes/functions/comments.php:31
-#, php-format
-msgid "%1$s"
-msgstr "%1$s"
+#: ../et-pagebuilder/et-pagebuilder.php:49
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr ""
+"Usted no tiene los suficientes permisos para exportar el contenido del sitio."
+
+#: ../et-pagebuilder/et-pagebuilder.php:55
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"Cuando de click en el botón de abajo, Wordpress creará un archivo XML para "
+"que lo pueda guardar en su computadora."
+
+#: ../et-pagebuilder/et-pagebuilder.php:56
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain all "
+"layouts you created using the Page Builder."
+msgstr ""
+"Este formato, que llamamos Wordpress eXtended RSS o WXR, contendrá todos los "
+"esquemas que creó con el Constructor de Páginas (Page Builder)."
+
+#: ../et-pagebuilder/et-pagebuilder.php:57
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import all layouts from this site."
+msgstr ""
+"Una vez usted hubiese guardado el archivo que descargó, podrá utilizar la "
+"función de importar de otra instalación de WordPress para importar los "
+"esquemas del sitio."
+
+#: ../et-pagebuilder/et-pagebuilder.php:63
+msgid "Download Export File"
+msgstr "Descargar el archivo de exportación"
+
+#: ../et-pagebuilder/et-pagebuilder.php:83
+#: ../et-pagebuilder/et-pagebuilder.php:85
+msgid "Use Default Editor"
+msgstr "Usar editor defecto"
+
+#: ../et-pagebuilder/et-pagebuilder.php:83
+#: ../et-pagebuilder/et-pagebuilder.php:84
+msgid "Use Page Builder"
+msgstr "Usar constructor de páginas"
+
+#: ../et-pagebuilder/et-pagebuilder.php:180
+msgid "Replace the existing content with loaded layout"
+msgstr "Reemplazar el contenido exitente con el esquema cargado"
+
+#: ../et-pagebuilder/et-pagebuilder.php:198
+msgid "Saved Layouts:"
+msgstr "Esquemas guradados"
+
+#: ../et-pagebuilder/et-pagebuilder.php:226
+msgid "Predefined Layouts:"
+msgstr "Esquemas predefinidos:"
+
+#: ../et-pagebuilder/et-pagebuilder.php:319
+msgid "The section should have at least one row."
+msgstr "Esta sección debe tener al menos una fila."
+
+#: ../et-pagebuilder/et-pagebuilder.php:320
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr ""
+"El modulo de ancho completo no puede ser utilizado fuera de la sección de "
+"ancho completo."
+
+#: ../et-pagebuilder/et-pagebuilder.php:321
+msgid "Preview"
+msgstr "Previsualización"
+
+#: ../et-pagebuilder/et-pagebuilder.php:322
+msgid "Module"
+msgstr "Módulo"
+
+#: ../et-pagebuilder/et-pagebuilder.php:335
+msgid "Page Builder"
+msgstr "Constructor de páginas"
+
+#: ../includes/functions/comments.php:15
+#, fuzzy, php-format
+msgid "on %1$s at %2$s"
+msgstr "el %1$s a las %2$s"
+
+#~ msgid "&larr; Previous"
+#~ msgstr "&larr; Anterior"
+
+#~ msgid "Footer Menu"
+#~ msgstr "Menú de Pie"
+
+#~ msgid "no-subset"
+#~ msgstr "sin-subset"
+
+#~ msgid "Testimonials"
+#~ msgstr "Testimonios"
+
+#~ msgid "Testimonial"
+#~ msgstr "Testimonio"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "Añadir Nuevo Testimonio"
+
+#~ msgid "Edit Testimonial"
+#~ msgstr "Editar Testimonio"
+
+#~ msgid "New Testimonial"
+#~ msgstr "Nuevo Testimonio"
+
+#~ msgid "All Testimonials"
+#~ msgstr "Todos los Testimonios"
+
+#~ msgid "View Testimonial"
+#~ msgstr "Ver Testimonio"
+
+#, fuzzy
+#~ msgid "Testimonial updated. <a href=\"%s\">View testimonial</a>"
+#~ msgstr "Testimonio Actualizado"
+
+#~ msgid "Custom field updated."
+#~ msgstr "Campo personalizado actualizado."
+
+#~ msgid "Custom field deleted."
+#~ msgstr "Campo personalizado eliminado."
+
+#~ msgid "Testimonial updated."
+#~ msgstr "Testimonio actualizado."
+
+#~ msgid "Testimonial restored to revision from %s"
+#~ msgstr "Testimonio restaurado a la revisión desde %s"
+
+#~ msgid "Testimonial published. <a href=\"%s\">View testimonial</a>"
+#~ msgstr "Testimonio publicado. <a href=\"%s\">Ver testimonio</a>"
+
+#~ msgid "Testimonial saved."
+#~ msgstr "Testimonio guardado."
+
+#~ msgid ""
+#~ "Testimonial submitted. <a target=\"_blank\" href=\"%s\">Preview "
+#~ "testimonial</a>"
+#~ msgstr ""
+#~ "Testimonio enviado. <a target=\"_blank\" href=\"%s\">Pre visualizar "
+#~ "testimonio</a>"
+
+#~ msgid ""
+#~ "Testimonial scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+#~ "href=\"%2$s\">Preview testimonial</a>"
+#~ msgstr ""
+#~ "Testimonio programado para el: <strong>%1$s</strong>. <a target=\"_blank"
+#~ "\" href=\"%2$s\">Pre visualizar testimonio</a>"
+
+#~ msgid "M j, Y @ G:i"
+#~ msgstr "M j, Y @ G:i"
+
+#~ msgid ""
+#~ "Testimonial draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+#~ "testimonial</a>"
+#~ msgstr ""
+#~ "Borrador de Testimonio actualizado. <a target=\"_blank\" href=\"%s\">Pre "
+#~ "visualizar testimonio</a>"
+
+#~ msgid "ET Testimonial Settings"
+#~ msgstr "ET Configuración de Testimonios"
+
+#~ msgid "Slider Shadow Color"
+#~ msgstr "Color Sombra de Diapositivas"
+
+#~ msgid "Button / Tab Background Color"
+#~ msgstr "Color de Fondo Boton / Pestaña"
+
+#~ msgid "Button / Tab Shadow Color"
+#~ msgstr "Color de Sombra Boton / Pestaña"
+
+#~ msgid "Widget Hightlight Color / Progress Bar Color"
+#~ msgstr "Color de restalado de Widget / Barra de Progreso"
+
+#~ msgid "Blue"
+#~ msgstr "Azul"
+
+#~ msgid "Purple"
+#~ msgstr "Púrpura"
+
+#~ msgid "Gray"
+#~ msgstr "Gris"
+
+#~ msgid "Google Plus"
+#~ msgstr "Google Plus"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "%1$s"
+#~ msgstr "%1$s"
 
 #~ msgid ""
 #~ "This post is password protected. Enter the password to view comments."
@@ -477,9 +779,6 @@ msgstr "%1$s"
 #~ msgid "by"
 #~ msgstr "por"
 
-#~ msgid "read more"
-#~ msgstr "leer más"
-
 #~ msgid "Make sure you entered the captcha. "
 #~ msgstr "Asegúrate de ingresar el captcha. "
 
@@ -498,23 +797,11 @@ msgstr "%1$s"
 #~ msgid "Thanks for contacting us"
 #~ msgstr "Gracias por contactarnos"
 
-#~ msgid "Name"
-#~ msgstr "Nombre"
-
-#~ msgid "Email Address"
-#~ msgstr "Email"
-
 #~ msgid "Subject"
 #~ msgstr "Título"
 
 #~ msgid "Captcha: "
 #~ msgstr "Captcha: "
-
-#~ msgid "Reset"
-#~ msgstr "Reiniciar"
-
-#~ msgid "Submit"
-#~ msgstr "Enviar"
 
 #~ msgid "Zoom in"
 #~ msgstr "Acercar"
@@ -543,12 +830,6 @@ msgstr "%1$s"
 #~ msgid "Select a month"
 #~ msgstr "Seleccionar un mes"
 
-#~ msgid "Categories"
-#~ msgstr "Categorías"
-
-#~ msgid "Tags"
-#~ msgstr "Etiquetas"
-
 #~ msgid "Authors"
 #~ msgstr "Autores"
 
@@ -575,9 +856,6 @@ msgstr "%1$s"
 
 #~ msgid "Navigation"
 #~ msgstr "Navegación"
-
-#~ msgid "Layout Settings"
-#~ msgstr "Configuración de Diseño"
 
 #~ msgid "Ad Management"
 #~ msgstr "Administración de Anuncios"
@@ -879,9 +1157,6 @@ msgstr "%1$s"
 #~ "Esta configuración controla cuantas pestañas se añaden a las diapositivas "
 #~ "de Artículos Promocionados en la página inicial."
 
-#~ msgid "Featured Posts Category"
-#~ msgstr "Categoría de publicaciones promocionadas"
-
 #~ msgid ""
 #~ "Here you can choose which category to be used to populate the Featured "
 #~ "Slider on the homepage. This only applies if you have disabled the Use "
@@ -1063,12 +1338,6 @@ msgstr "%1$s"
 #~ "solo como organización. Activando esta opción eliminara los enlaces de "
 #~ "todas las páginas/categorías para que no envíen a ningún lado al hacer "
 #~ "clic."
-
-#~ msgid "Single Post Layout"
-#~ msgstr "Diseño de Publicación Simple"
-
-#~ msgid "Single Page Layout"
-#~ msgstr "Diseño de Página Simple"
 
 #~ msgid "Choose which items to display in the postinfo section"
 #~ msgstr "Elegir que elementos mostrar en la sección postinfo"
@@ -1573,9 +1842,6 @@ msgstr "%1$s"
 #~ msgstr ""
 #~ "Configuración adicional aparece aquí, cuando alguna plantilla de página "
 #~ "ET se selecciona (Atributos de Página - Plantilla)"
-
-#~ msgid "Full Width Page"
-#~ msgstr "Página de Ancho completo"
 
 #~ msgid "Regenerate captcha numbers"
 #~ msgstr "Regenerar números captcha"
