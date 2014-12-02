@@ -4,7 +4,6 @@ msgstr ""
 "POT-Creation-Date: 2014-05-21 10:18-0600\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jossemar Cordero <hello@jossemargt.com>\n"
-"Language-Team: etchq <temas@etchq.net>\n"
 "Language: spanish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -583,1479 +582,1086 @@ msgstr "Constructor de páginas"
 msgid "on %1$s at %2$s"
 msgstr "el %1$s a las %2$s"
 
-#~ msgid "&larr; Previous"
-#~ msgstr "&larr; Anterior"
+#DESDE AQUÍ MODIFICA JULIO 24_11_2014 
 
-#~ msgid "Footer Menu"
-#~ msgstr "Menú de Pie"
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
 
-#~ msgid "no-subset"
-#~ msgstr "sin-subset"
+msgid "Footer Menu"
+msgstr "Menú de Pie"
 
-#~ msgid "Testimonials"
-#~ msgstr "Testimonios"
+msgid "no-subset"
+msgstr "sin-subset"
 
-#~ msgid "Testimonial"
-#~ msgstr "Testimonio"
+msgid "Testimonials"
+msgstr "Testimonios"
 
-#~ msgid "Add New Testimonial"
-#~ msgstr "Añadir Nuevo Testimonio"
+msgid "Testimonial"
+msgstr "Testimonio"
 
-#~ msgid "Edit Testimonial"
-#~ msgstr "Editar Testimonio"
+msgid "Add New Testimonial"
+msgstr "Añadir Nuevo Testimonio"
 
-#~ msgid "New Testimonial"
-#~ msgstr "Nuevo Testimonio"
+msgid "Edit Testimonial"
+msgstr "Editar Testimonio"
 
-#~ msgid "All Testimonials"
-#~ msgstr "Todos los Testimonios"
+msgid "New Testimonial"
+msgstr "Nuevo Testimonio"
 
-#~ msgid "View Testimonial"
-#~ msgstr "Ver Testimonio"
+msgid "All Testimonials"
+msgstr "Todos los Testimonios"
+
+msgid "View Testimonial"
+msgstr "Ver Testimonio"
 
 #, fuzzy
-#~ msgid "Testimonial updated. <a href=\"%s\">View testimonial</a>"
-#~ msgstr "Testimonio Actualizado"
+msgid "Testimonial updated. <a href=\"%s\">View testimonial</a>"
+msgstr "Testimonio Actualizado"
 
-#~ msgid "Custom field updated."
-#~ msgstr "Campo personalizado actualizado."
+msgid "Custom field updated."
+msgstr "Campo personalizado actualizado."
 
-#~ msgid "Custom field deleted."
-#~ msgstr "Campo personalizado eliminado."
+msgid "Custom field deleted."
+msgstr "Campo personalizado eliminado."
 
-#~ msgid "Testimonial updated."
-#~ msgstr "Testimonio actualizado."
+msgid "Testimonial updated."
+msgstr "Testimonio actualizado."
 
-#~ msgid "Testimonial restored to revision from %s"
-#~ msgstr "Testimonio restaurado a la revisión desde %s"
+msgid "Testimonial restored to revision from %s"
+msgstr "Testimonio restaurado a la revisión desde %s"
 
-#~ msgid "Testimonial published. <a href=\"%s\">View testimonial</a>"
-#~ msgstr "Testimonio publicado. <a href=\"%s\">Ver testimonio</a>"
+msgid "Testimonial published. <a href=\"%s\">View testimonial</a>"
+msgstr "Testimonio publicado. <a href=\"%s\">Ver testimonio</a>"
 
-#~ msgid "Testimonial saved."
-#~ msgstr "Testimonio guardado."
+msgid "Testimonial saved."
+msgstr "Testimonio guardado."
 
-#~ msgid ""
-#~ "Testimonial submitted. <a target=\"_blank\" href=\"%s\">Preview "
-#~ "testimonial</a>"
-#~ msgstr ""
-#~ "Testimonio enviado. <a target=\"_blank\" href=\"%s\">Pre visualizar "
-#~ "testimonio</a>"
+msgid "Testimonial submitted. <a target=\"_blank\" href=\"%s\">Preview testimonial</a>"
+msgstr "Testimonio enviado. <a target=\"_blank\" href=\"%s\">Pre visualizar testimonio</a>"
 
-#~ msgid ""
-#~ "Testimonial scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
-#~ "href=\"%2$s\">Preview testimonial</a>"
-#~ msgstr ""
-#~ "Testimonio programado para el: <strong>%1$s</strong>. <a target=\"_blank"
-#~ "\" href=\"%2$s\">Pre visualizar testimonio</a>"
 
-#~ msgid "M j, Y @ G:i"
-#~ msgstr "M j, Y @ G:i"
+msgid "Testimonial scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview testimonial</a>"
 
-#~ msgid ""
-#~ "Testimonial draft updated. <a target=\"_blank\" href=\"%s\">Preview "
-#~ "testimonial</a>"
-#~ msgstr ""
-#~ "Borrador de Testimonio actualizado. <a target=\"_blank\" href=\"%s\">Pre "
-#~ "visualizar testimonio</a>"
+msgstr "Testimonio programado para el: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Pre visualizar testimonio</a>"
 
-#~ msgid "ET Testimonial Settings"
-#~ msgstr "ET Configuración de Testimonios"
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
 
-#~ msgid "Slider Shadow Color"
-#~ msgstr "Color Sombra de Diapositivas"
+msgid "Testimonial draft updated. <a target=\"_blank\" href=\"%s\">Preview testimonial</a>"
+msgstr "Borrador de Testimonio actualizado. <a target=\"_blank\" href=\"%s\">Pre visualizar testimonio</a>"
 
-#~ msgid "Button / Tab Background Color"
-#~ msgstr "Color de Fondo Boton / Pestaña"
+msgid "ET Testimonial Settings"
+msgstr "ET Configuración de Testimonios"
 
-#~ msgid "Button / Tab Shadow Color"
-#~ msgstr "Color de Sombra Boton / Pestaña"
+msgid "Slider Shadow Color"
+msgstr "Color Sombra de Diapositivas"
 
-#~ msgid "Widget Hightlight Color / Progress Bar Color"
-#~ msgstr "Color de restalado de Widget / Barra de Progreso"
+msgid "Button / Tab Background Color"
+msgstr "Color de Fondo Boton / Pestaña"
 
-#~ msgid "Blue"
-#~ msgstr "Azul"
+msgid "Button / Tab Shadow Color"
+msgstr "Color de Sombra Boton / Pestaña"
 
-#~ msgid "Purple"
-#~ msgstr "Púrpura"
+msgid "Widget Hightlight Color / Progress Bar Color"
+msgstr "Color de restalado de Widget / Barra de Progreso"
 
-#~ msgid "Gray"
-#~ msgstr "Gris"
+msgid "Blue"
+msgstr "Azul"
 
-#~ msgid "Google Plus"
-#~ msgstr "Google Plus"
+msgid "Purple"
+msgstr "Púrpura"
 
-#~ msgid "Facebook"
-#~ msgstr "Facebook"
+msgid "Gray"
+msgstr "Gris"
 
-#~ msgid "Twitter"
-#~ msgstr "Twitter"
+msgid "Google Plus"
+msgstr "Google Plus"
 
-#~ msgid "%1$s"
-#~ msgstr "%1$s"
+msgid "Facebook"
+msgstr "Facebook"
 
-#~ msgid ""
-#~ "This post is password protected. Enter the password to view comments."
-#~ msgstr ""
-#~ "Esta publicación está protegida por contraseña. Ingrese su contraseña "
-#~ "para ver los comentarios."
+msgid "Twitter"
+msgstr "Twitter"
 
-#~ msgid "0 Comments"
-#~ msgstr "0 Comentarios"
+msgid "%1$s"
+msgstr "%1$s"
 
-#~ msgid "Comments"
-#~ msgstr "Comentarios"
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta publicación está protegida por contraseña. Ingrese su contraseña para ver los comentarios."
 
-#~ msgid "Trackbacks/Pingbacks"
-#~ msgstr "Retroenlace/Pingbacks"
+msgid "0 Comments"
+msgstr "0 Comentarios"
 
-#~ msgid "Submit Comment"
-#~ msgstr "Enviar Comentario"
+msgid "Comments"
+msgstr "Comentarios"
 
-#~ msgid "Post a Reply"
-#~ msgstr "Publicar Respuesta"
+msgid "Trackbacks/Pingbacks"
+msgstr "Retroenlace/Pingbacks"
 
-#~ msgid "Leave a Reply to %s"
-#~ msgstr "Responder a %s"
+msgid "Submit a Comment"
+msgstr "Enviar Comentario"
 
-#~ msgid "0 comments"
-#~ msgstr "0 comentarios"
+msgid "Submit Comment"
+msgstr "Enviar Comentario"
 
-#~ msgid "1 comment"
-#~ msgstr "1 comentario"
+msgid "Post a Reply"
+msgstr "Publicar Respuesta"
 
-#~ msgid "comments"
-#~ msgstr "comentarios"
+msgid "Leave a Reply to %s"
+msgstr "Responder a %s"
 
-#~ msgid "Navigation Menu"
-#~ msgstr "Menú de Navegación"
+msgid "0 comments"
+msgstr "0 comentarios"
 
-#~ msgid "By"
-#~ msgstr "Por"
+msgid "1 comment"
+msgstr "1 comentario"
 
-#~ msgid "in"
-#~ msgstr "en"
+msgid "comments"
+msgstr "comentarios"
 
-#~ msgid ""
-#~ "If this post is displayed in the featured slider on homepage, you can set "
-#~ "options for it here."
-#~ msgstr ""
-#~ "Si esta publicación se despliega en diapositivas de su página de inicio, "
-#~ "aquí puede alterar sus opciones."
+msgid "Navigation Menu"
+msgstr "Menú de Navegación"
 
-#~ msgid "Slide Title"
-#~ msgstr "Titulo de diapositiva"
+msgid "By"
+msgstr "Por"
 
-#~ msgid "Slide Description"
-#~ msgstr "Descripción de diapositiva"
+msgid "in"
+msgstr "en"
 
-#~ msgid "Read More Custom Link"
-#~ msgstr "Leer Más Enlace Personalizado"
+msgid "If this post is displayed in the featured slider on homepage, you can set options for it here."
+msgstr "Si esta publicación se despliega en diapositivas de su página de inicio, aquí puede alterar sus opciones."
 
-#~ msgid "Here you can provide a custom url, that will be used for the slide"
-#~ msgstr ""
-#~ "Aquí puedes proveer una URL personalizada, será utilizada en la "
-#~ "diapositiva"
 
-#~ msgid "Blurb Icon Image"
-#~ msgstr "Icono Imagen de Propaganda"
+msgid "Slide Title"
+msgstr "Titulo de diapositiva"
 
-#~ msgid "Upload Image"
-#~ msgstr "Subir Imagen"
+msgid "Slide Description"
+msgstr "Descripción de diapositiva"
 
-#~ msgid ""
-#~ "If this page is used for a blurb, you can upload the icon image here."
-#~ msgstr ""
-#~ "Si esta página es utilizada por una propaganda, actualiza el icono imagen "
-#~ "aquí."
+msgid "Read More Custom Link"
+msgstr "Leer Más Enlace Personalizado"
 
-#~ msgid "Company Name"
-#~ msgstr "Nombre de la Compañia"
+msgid "Here you can provide a custom url, that will be used for the slide"
+msgstr "Aquí puedes proveer una URL personalizada, será utilizada en la diapositiva"
 
-#~ msgid "Posted"
-#~ msgstr "Publicado"
+msgid "Blurb Icon Image"
+msgstr "Icono Imagen de Propaganda"
 
-#~ msgid "by"
-#~ msgstr "por"
+msgid "Upload Image"
+msgstr "Subir Imagen"
 
-#~ msgid "Make sure you entered the captcha. "
-#~ msgstr "Asegúrate de ingresar el captcha. "
+msgid "If this page is used for a blurb, you can upload the icon image here."
+msgstr "Si esta página es utilizada por una propaganda, actualiza el icono imagen "
+"aquí."
 
-#~ msgid "Numbers regenerated."
-#~ msgstr "Números regenerados."
+msgid "Company Name"
+msgstr "Nombre de la Compañia"
 
-#~ msgid "You entered the wrong number in captcha. "
-#~ msgstr "Ingresaste el número equivocado en el captcha. "
+msgid "Posted"
+msgstr "Publicado"
 
-#~ msgid "Make sure you fill all fields. "
-#~ msgstr "Asegurate de llenar todos los campos. "
+msgid "by"
+msgstr "por"
 
-#~ msgid "Invalid Email. "
-#~ msgstr "Email Invalido. "
+msgid "Make sure you entered the captcha. "
+msgstr "Asegúrate de ingresar el captcha. "
 
-#~ msgid "Thanks for contacting us"
-#~ msgstr "Gracias por contactarnos"
+msgid "Numbers regenerated."
+msgstr "Números regenerados."
 
-#~ msgid "Subject"
-#~ msgstr "Título"
+msgid "You entered the wrong number in captcha. "
+msgstr "Ingresaste el número equivocado en el captcha. "
 
-#~ msgid "Captcha: "
-#~ msgstr "Captcha: "
+msgid "Make sure you fill all fields. "
+msgstr "Asegurate de llenar todos los campos. "
 
-#~ msgid "Zoom in"
-#~ msgstr "Acercar"
+msgid "Invalid Email. "
+msgstr "Email Invalido. "
 
-#~ msgid "Read more"
-#~ msgstr "Leer más"
+msgid "Thanks for contacting us"
+msgstr "Gracias por contactarnos"
 
-#~ msgid "Username"
-#~ msgstr "Nombre de Usuario"
+msgid "Subject"
+msgstr "Título"
 
-#~ msgid "Password"
-#~ msgstr "Contraseña"
+msgid "Captcha: "
+msgstr "Captcha: "
 
-#~ msgid "search this website"
-#~ msgstr "buscar en este sitio"
+msgid "Zoom in"
+msgstr "Acercar"
 
-#~ msgid "search this site..."
-#~ msgstr "buscar en este sitio..."
+msgid "Read more"
+msgstr "Leer más"
 
-#~ msgid "Posts"
-#~ msgstr "Publicaciones"
+msgid "Username"
+msgstr "Nombre de Usuario"
 
-#~ msgid "Pages"
-#~ msgstr "Páginas"
+msgid "Password"
+msgstr "Contraseña"
 
-#~ msgid "Select a month"
-#~ msgstr "Seleccionar un mes"
+msgid "search this website"
+msgstr "buscar en este sitio"
 
-#~ msgid "Authors"
-#~ msgstr "Autores"
+msgid "search this site..."
+msgstr "buscar en este sitio..."
 
-#~ msgid "Saving..."
-#~ msgstr "Guardando..."
+msgid "Posts"
+msgstr "Publicaciones"
 
-#~ msgid "Options Saved."
-#~ msgstr "Opciones Guardadas."
+msgid "Pages"
+msgstr "Páginas"
 
-#~ msgid "Options"
-#~ msgstr "Opciones"
+msgid "Select a month"
+msgstr "Seleccionar un mes"
 
-#~ msgid "Theme Options"
-#~ msgstr "Opciones de Tema"
+msgid "Authors"
+msgstr "Autores"
 
-#~ msgid "settings saved."
-#~ msgstr "configuración guardada."
+msgid "Saving..."
+msgstr "Guardando..."
 
-#~ msgid "settings reset."
-#~ msgstr "configuración reiniciada."
+msgid "Options Saved."
+msgstr "Opciones Guardadas."
 
-#~ msgid "General Settings"
-#~ msgstr "Configuración General"
+msgid "Options"
+msgstr "Opciones"
 
-#~ msgid "Navigation"
-#~ msgstr "Navegación"
+msgid "Theme Options"
+msgstr "Opciones de Tema"
 
-#~ msgid "Ad Management"
-#~ msgstr "Administración de Anuncios"
+msgid "settings saved."
+msgstr "configuración guardada."
 
-#~ msgid "Colorization"
-#~ msgstr "Colorización"
+msgid "settings reset."
+msgstr "configuración reiniciada."
 
-#~ msgid "SEO"
-#~ msgstr "SEO"
+msgid "General Settings"
+msgstr "Configuración General"
 
-#~ msgid "Integration"
-#~ msgstr "Integración"
+msgid "Navigation"
+msgstr "Navegación"
 
-#~ msgid "Support Docs"
-#~ msgstr "Documentación de Soporte"
+msgid "Ad Management"
+msgstr "Administración de Anuncios"
 
-#~ msgid "You don't have pages"
-#~ msgstr "No tienes páginas"
+msgid "Colorization"
+msgstr "Colorización"
 
-#~ msgid "Save changes"
-#~ msgstr "Guardar cambios"
+msgid "SEO"
+msgstr "SEO"
 
-#~ msgid "General"
-#~ msgstr "General"
+msgid "Integration"
+msgstr "Integración"
 
-#~ msgid "Homepage"
-#~ msgstr "Página de Inicio"
+msgid "Support Docs"
+msgstr "Documentación de Soporte"
 
-#~ msgid "Featured Slider"
-#~ msgstr "Diapositiva Principal"
+msgid "You don't have pages"
+msgstr "No tienes páginas"
 
-#~ msgid "Logo"
-#~ msgstr "Logo"
+msgid "Save changes"
+msgstr "Guardar cambios"
 
-#~ msgid ""
-#~ "If you would like to use your own custom logo image click the Upload "
-#~ "Image button."
-#~ msgstr ""
-#~ "Si deseas utilizar tu propia imagen de logotipo haz click en el botón "
-#~ "Subir Imagen"
+msgid "General"
+msgstr "General"
 
-#~ msgid "Favicon"
-#~ msgstr "Favicon"
+msgid "Homepage"
+msgstr "Página de Inicio"
 
-#~ msgid ""
-#~ "If you would like to use your own custom favicon image click the Upload "
-#~ "Image button."
-#~ msgstr ""
-#~ "Si deseas utilizar tu propia imagen de favicon haz click en el botón "
-#~ "Subir Imagen"
+msgid "Featured Slider"
+msgstr "Diapositiva Principal"
 
-#~ msgid "Grab the first post image"
-#~ msgstr "Tomar la primera imagen de la publicación"
+msgid "Logo"
+msgstr "Logo"
 
-#~ msgid ""
-#~ "By default thumbnail images are created using custom fields. However, if "
-#~ "you would rather use the images that are already in your post for your "
-#~ "thumbnail (and bypass using custom fields) you can activate this option. "
-#~ "Once activcated thumbnail images will be generated automatically using "
-#~ "the first image in your post. The image must be hosted on your own server."
-#~ msgstr ""
-#~ "Por defecto las imagenes de vista previa son creadas utilizando campos "
-#~ "personalizados. Sin embargo, si desea utilizar las imagenes que ya están "
-#~ "en su publicación para ser vista previa (y saltar utilizar campos "
-#~ "personalizados) puedes activar esta opción. Una vez activado las imagenes "
-#~ "de vista previa se generaran automáticamente utilizando la primer imagen "
-#~ "de tu publicación. La imagen debe estar almacenada en tu propio servidor."
+msgid "If you would like to use your own custom logo image click the Upload Image button."
+msgstr "Si deseas utilizar tu propia imagen de logotipo haz click en el botón Subir Imagen"
 
-#~ msgid "Show Twitter Icon"
-#~ msgstr "Mostrar Icono de Twitter"
+msgid "Favicon"
+msgstr "Favicon"
 
-#~ msgid "Here you can choose to display your Twitter Icon. "
-#~ msgstr "Aquí puedes elegir mostrar tu ícono de Twitter. "
+msgid "If you would like to use your own custom favicon image click the Upload Image button."
 
-#~ msgid "Show Google Plus Icon"
-#~ msgstr "Mostrar Icono de Google Plus"
+msgstr "Si deseas utilizar tu propia imagen de favicon haz click en el botón Subir Imagen"
 
-#~ msgid "Here you can choose to display your Google Plus Icon. "
-#~ msgstr "Aquí puedes elegir mostrar tu ícono de Google Plus. "
+msgid "Grab the first post image"
+msgstr "Tomar la primera imagen de la publicación"
 
-#~ msgid "Show Facebook Icon"
-#~ msgstr "Mostrar Icono de Facebook"
+msgid "By default thumbnail images are created using custom fields. However, if you would rather use the images that are already in your post for your thumbnail (and bypass using custom fields) you can activate this option. Once activcated thumbnail images will be generated automatically using the first image in your post. The image must be hosted on your own server."
+msgstr "Por defecto las imagenes de vista previa son creadas utilizando campos personalizados. Sin embargo, si desea utilizar las imagenes que ya están en su publicación para ser vista previa (y saltar utilizar campos personalizados) puedes activar esta opción. Una vez activado las imagenes de vista previa se generaran automáticamente utilizando la primer imagen de tu publicación. La imagen debe estar almacenada en tu propio servidor."
 
-#~ msgid "Here you can choose to display your Facebook Icon. "
-#~ msgstr "Aquí puedes elegir mostrar tu ícono de Facebook. "
+msgid "Show Twitter Icon"
+msgstr "Mostrar Icono de Twitter"
 
-#~ msgid "Twitter Profile Url"
-#~ msgstr "Dirección de cuenta de Twitter"
+msgid "Here you can choose to display your Twitter Icon. "
+msgstr "Aquí puedes elegir mostrar tu ícono de Twitter. "
 
-#~ msgid "Place your Twitter Profile URL here. "
-#~ msgstr "Coloque la dirección de su perfil de Twitter aquí. "
+msgid "Show Google Plus Icon"
+msgstr "Mostrar Icono de Google Plus"
 
-#~ msgid "Google Plus Url"
-#~ msgstr "Dirección Google PLUS"
+msgid "Here you can choose to display your Google Plus Icon. "
+msgstr "Aquí puedes elegir mostrar tu ícono de Google Plus. "
 
-#~ msgid "Place your Google Plus URL here. "
-#~ msgstr "Coloque la dirección de su perfil de Google Plus aquí. "
+msgid "Show Facebook Icon"
+msgstr "Mostrar Icono de Facebook"
 
-#~ msgid "Facebook Profile Url"
-#~ msgstr "Dirección de Facebook  "
+msgid "Here you can choose to display your Facebook Icon. "
+msgstr "Aquí puedes elegir mostrar tu ícono de Facebook. "
 
-#~ msgid "Place your Facebook Profile URL here. "
-#~ msgstr "Coloque la dirección de su perfil de Facebook aquí. "
+msgid "Twitter Profile Url"
+msgstr "Dirección de cuenta de Twitter"
 
-#~ msgid "Number of Posts displayed on Category page"
-#~ msgstr "Número de publicaciones mostradas en Categorias"
+msgid "Place your Twitter Profile URL here. "
+msgstr "Coloque la dirección de su perfil de Twitter aquí. "
 
-#~ msgid ""
-#~ "Here you can designate how many recent articles are displayed on the "
-#~ "Category page. This option works independently from the Settings > "
-#~ "Reading options in wp-admin."
-#~ msgstr ""
-#~ "Aquí puedes elegir cuantos artículos recientes se muestran en la página "
-#~ "Categoria.Esta opción funciona independientemente de la configuración en "
-#~ "Opciones>Configuración de Lectura."
+msgid "Google Plus Url"
+msgstr "Dirección Google PLUS"
 
-#~ msgid "Number of Posts displayed on Archive pages"
-#~ msgstr "Número de Publicaciones mostradas en Páginas Archivo"
+msgid "Place your Google Plus URL here. "
+msgstr "Coloque la dirección de su perfil de Google Plus aquí. "
 
-#~ msgid ""
-#~ "Here you can designate how many recent articles are displayed on the "
-#~ "Archive pages. This option works independently from the Settings > "
-#~ "Reading options in wp-admin."
-#~ msgstr ""
-#~ "Aquí puedes designar cuantos artículos recientes se muestran en las "
-#~ "páginas de Archivo. Esta opción funciona independiente de Configuración > "
-#~ "Opciones de Lectura en wp-admin"
+msgid "Facebook Profile Url"
+msgstr "Dirección de Facebook  "
 
-#~ msgid "Number of Posts displayed on Search pages"
-#~ msgstr "Número de articulos mostrados en busquedas"
+msgid "Place your Facebook Profile URL here. "
+msgstr "Coloque la dirección de su perfil de Facebook aquí. "
 
-#~ msgid ""
-#~ "Here you can designate how many recent articles are displayed on the "
-#~ "Search results pages. This option works independently from the Settings > "
-#~ "Reading options in wp-admin."
-#~ msgstr "Aquí puedes designar cuantas publicaciones recientes se muestran e"
+msgid "Number of Posts displayed on Category page"
+msgstr "Número de publicaciones mostradas en Categorias"
 
-#~ msgid "Number of Posts displayed on Tag pages"
-#~ msgstr "Número de publicaciones mostradas en las páginas de Etiquetas"
+msgid "Here you can designate how many recent articles are displayed on the Category page. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aquí puedes elegir cuantos artículos recientes se muestran en la página Categoria.Esta opción funciona independientemente de la configuración en Opciones>Configuración de Lectura."
 
-#~ msgid ""
-#~ "Here you can designate how many recent articles are displayed on the Tag "
-#~ "pages. This option works independently from the Settings > Reading "
-#~ "options in wp-admin."
-#~ msgstr ""
-#~ "Aquí puedes designar cuantos articulos recientes se muestran en las "
-#~ "páginas de Etiquetas. Esta opción funciona independiente de Configuración "
-#~ "> Opciones de Lectura en wp-admin."
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Número de Publicaciones mostradas en Páginas Archivo"
 
-#~ msgid "Date format"
-#~ msgstr "Formato de Fecha"
+#msgid "Here you can designate how many recent articles are displayed on the Archive pages. This option works independently from the Settings > 
+#Reading option in wp-admin."
+#msgstr "Aquí puedes designar cuantos artículos recientes se muestran en las páginas de Archivo. Esta opción funciona independiente de #Configuración > Opciones de Lectura en wp-admin"
 
-#~ msgid "Use excerpts when defined"
-#~ msgstr "Utilizar fragmentos cuando se definan"
+msgid "Number of Posts displayed on Search pages"
+msgstr "Número de articulos mostrados en busquedas"
 
-#~ msgid "This will enable the use of excerpts in posts or pages."
-#~ msgstr "Esto habilitará el uso de fragmentos en publicaciones o páginas."
+msgid "Here you can designate how many recent articles are displayed on the Search results pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aquí puedes designar cuantas publicaciones recientes se muestran"
 
-#~ msgid "Responsive shortcodes"
-#~ msgstr "Codigo-Atajos Responsivos"
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Número de publicaciones mostradas en las páginas de Etiquetas"
 
-#~ msgid ""
-#~ "Enable this option to make shortcodes respond to various screen sizes"
-#~ msgstr ""
-#~ "Active esta opción para que los codigo-atajos respondan a varios tamaños "
-#~ "de pantalla"
+msgid "Here you can designate how many recent articles are displayed on the Tag pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aquí puedes designar cuantos articulos recientes se muestran en las páginas de Etiquetas. Esta opción funciona independiente de Configuración > Opciones de Lectura en wp-admin."
 
-#~ msgid "Google Fonts subsets"
-#~ msgstr "Subconjunto de Fuentes Google"
+msgid "Date format"
+msgstr "Formato de Fecha"
 
-#~ msgid "This will enable Google Fonts for Non-English languages."
-#~ msgstr "Esto habilitará Fuentes Google para idiomas extranjeros."
+msgid "Use excerpts when defined"
+msgstr "Utilizar fragmentos cuando se definan"
 
-#~ msgid "Custom CSS"
-#~ msgstr "CSS Personalizado"
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "Esto habilitará el uso de fragmentos en publicaciones o páginas."
 
-#~ msgid "Here you can add custom css to override or extend default styles."
-#~ msgstr ""
-#~ "Aquí puede añadir css propio para sobrecargar o extender estilos "
-#~ "predeterminados."
+msgid "Responsive shortcodes"
+msgstr "Codigo-Atajos Responsivos"
 
-#~ msgid "Display Content Areas"
-#~ msgstr "Mostrar áreas de Contenido"
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr "Active esta opción para que los codigo-atajos respondan a varios tamaños de pantalla"
 
-#~ msgid "Here you can choose to display the Content Areas on the homepage. "
-#~ msgstr ""
-#~ "Aquí puede elegir mostrar Areas de Contenido en la página de inicio. "
+msgid "Google Fonts subsets"
+msgstr "Subconjunto de Fuentes Google"
 
-#~ msgid "Display Products Slider"
-#~ msgstr "Mostrar Diapositivas de Productos"
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "Esto habilitará Fuentes Google para idiomas extranjeros."
 
-#~ msgid "Here you can choose to display the Products Slider on the homepage. "
-#~ msgstr ""
-#~ "Aquí puedes elegir mostrar las Diapositivas de Productos en la página "
-#~ "inicial. "
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
 
-#~ msgid "Display Pages in Tabs Area"
-#~ msgstr "Mostrar Páginas en Área de Pestañas"
+msgid "Here you can add custom css to override or extend default styles."
+msgstr "Aquí puede añadir css propio para sobrecargar o extender estilos predeterminados."
 
-#~ msgid ""
-#~ "Here you can choose to display Clients logos section on the homepage. "
-#~ msgstr ""
-#~ "Acá puedes seleccionar el logotipo que aparecerá en tu página de inicio"
+msgid "Display Content Areas"
+msgstr "Mostrar áreas de Contenido"
 
-#~ msgid "Display Testimonials"
-#~ msgstr "Mostrar Testimonios"
+msgid "Here you can choose to display the Content Areas on the homepage. "
+msgstr "Aquí puede elegir mostrar Areas de Contenido en la página de inicio. "
 
-#~ msgid "Here you can choose to display the Testimonials on the homepage. "
-#~ msgstr "Aquí puedes elegir mostrar los Testimonios en la página inicial. "
 
-#~ msgid "Display Callout"
-#~ msgstr "Mostrar Atención"
+msgid "Display Products Slider"
+msgstr "Mostrar Diapositivas de Productos"
 
-#~ msgid "Here you can choose to display Callout button on the homepage. "
-#~ msgstr ""
-#~ "Aquí puedes elegir mostrar el botón de Atención en la página Inicial. "
+msgid "Here you can choose to display the Products Slider on the homepage. "
+msgstr "Aquí puedes elegir mostrar las Diapositivas de Productos en la página inicial. "
 
-#~ msgid "Content Area 1 Page"
-#~ msgstr "Área de Contenido 1 Página"
+msgid "Display Pages in Tabs Area"
+msgstr "Mostrar Páginas en Área de Pestañas"
 
-#~ msgid "Choose the page you would like to display in the Content Area. "
-#~ msgstr "Elije la página que quieres mostrar en el área de Contenido. "
+msgid "Here you can choose to display Clients logos section on the homepage."
+msgstr "Acá puedes seleccionar el logotipo que aparecerá en tu página de inicio"
 
-#~ msgid "Content Area 2 Page"
-#~ msgstr "Área de Contenido 2 Páginas"
+msgid "Display Testimonials"
+msgstr "Mostrar Testimonios"
 
-#~ msgid "Content Area 3 Page"
-#~ msgstr "Área de Contenido 3 Páginas"
+msgid "Here you can choose to display the Testimonials on the homepage. "
+msgstr "Aquí puedes elegir mostrar los Testimonios en la página inicial. "
 
-#~ msgid "Callout Url"
-#~ msgstr "Url de Atención"
+msgid "Display Callout"
+msgstr "Mostrar Atención"
 
-#~ msgid "Place your Callout button URL here. "
-#~ msgstr "Coloque su Botón URL de Atención aquí. "
+msgid "Here you can choose to display Callout button on the homepage. "
+msgstr "Aquí puedes elegir mostrar el botón de Atención en la página Inicial. "
 
-#~ msgid "Callout Text"
-#~ msgstr "Texto de Atención"
+msgid "Content Area 1 Page"
+msgstr "Área de Contenido 1 Página"
 
-#~ msgid "Place your Callout text here. "
-#~ msgstr "Coloque su texto de Atención aquí. "
+msgid "Choose the page you would like to display in the Content Area. "
+msgstr "Elije la página que quieres mostrar en el área de Contenido. "
 
-#~ msgid "Callout Button Text"
-#~ msgstr "Texto de Botón de Atención"
+msgid "Content Area 2 Page"
+msgstr "Área de Contenido 2 Páginas"
 
-#~ msgid "Place your Callout button Text here. "
-#~ msgstr "Coloque el Texto del botón de atención aquí. "
+msgid "Content Area 3 Page"
+msgstr "Área de Contenido 3 Páginas"
 
-#~ msgid "Number of Featured Products"
-#~ msgstr "Número de Productos Promocionados"
+msgid "Callout Url"
+msgstr "Url de Atención"
 
-#~ msgid ""
-#~ "Here you can designate how many featured products are displayed on the "
-#~ "homepage."
-#~ msgstr ""
-#~ "Aquí puedes designar cuantos productos promocionados se muestran en la "
-#~ "página de inicio."
+msgid "Place your Callout button URL here. "
+msgstr "Coloque su Botón URL de Atención aquí. "
 
-#~ msgid "Include pages in the Tabs Area"
-#~ msgstr "Incluye páginas en el Área de Pestañas"
+msgid "Callout Text"
+msgstr "Texto de Atención"
 
-#~ msgid ""
-#~ "If you selected Use Pages above, then use the checkboxes below to choose "
-#~ "which pages are displayed in the Featured Slider."
-#~ msgstr ""
-#~ "Si seleccionaste Utilizar Páginas arriba, entonces utiliza las "
-#~ "selecciones abajo para elegir que páginas se muestran en las Diapositivas "
-#~ "de Promocionados."
+msgid "Place your Callout text here. "
+msgstr "Coloque su texto de Atención aquí. "
 
-#~ msgid "Display Featured Slider"
-#~ msgstr "Mostrar Diapositivas de Promocionados."
+msgid "Callout Button Text"
+msgstr "Texto de Botón de Atención"
 
-#~ msgid ""
-#~ "You can choose whether or not to display the Featured Articles section on "
-#~ "the homepge. If you don't want to utilize this feature simply disable "
-#~ "this option."
-#~ msgstr ""
-#~ "Aquí puedes elegir mostrar la sección Artículos Promocionados. Si no "
-#~ "deseas utilizarlos desactiva esta opción."
+msgid "Place your Callout button Text here. "
+msgstr "Coloque el Texto del botón de atención aquí. "
 
-#~ msgid "Duplicate Featured Articles"
-#~ msgstr "Duplicar Artículos Promocionados"
+msgid "Number of Featured Products"
+msgstr "Número de Productos Promocionados"
 
-#~ msgid ""
-#~ "In some cases your Featured Articles will also be one of your most recent "
-#~ "articles, in which case the article will be displayed twice on the "
-#~ "homepage. If you would like to remove duplicate posts enable this option."
-#~ msgstr ""
-#~ "Algunas veces tus Artículos Promocionados serán uno de tus mas recientes, "
-#~ "en ese caso el articulo se mostrará dos veces en la página de inicio. Si "
-#~ "quieres eliminar duplicados activa esta opción."
+msgid "Here you can designate how many featured products are displayed on the homepage."
+msgstr "Aquí puedes designar cuantos productos promocionados se muestran en la página de inicio."
 
-#~ msgid "Number of Featured Slides"
-#~ msgstr "Número de diapositivas destacadas"
+msgid "Include pages in the Tabs Area"
+msgstr "Incluye páginas en el Área de Pestañas"
 
-#~ msgid ""
-#~ "This setting controls how menu tabs are added to the Featured Articles "
-#~ "slider on the homepage."
-#~ msgstr ""
-#~ "Esta configuración controla cuantas pestañas se añaden a las diapositivas "
-#~ "de Artículos Promocionados en la página inicial."
+msgid "If you selected Use Pages above, then use the checkboxes below to choose which pages are displayed in the Featured Slider."
+msgstr "Si seleccionaste Utilizar Páginas arriba, entonces utiliza las selecciones abajo para elegir que páginas se muestran en las Diapositivas de Promocionados."
 
-#~ msgid ""
-#~ "Here you can choose which category to be used to populate the Featured "
-#~ "Slider on the homepage. This only applies if you have disabled the Use "
-#~ "Pages options below."
-#~ msgstr ""
-#~ "Aquí puedes elegir la categoría para cargar las diapositivas "
-#~ "Promocionadas en la página de inicio. Solo aplica si has desactivado el "
-#~ "Usar Páginas abajo."
+msgid "Display Featured Slider"
+msgstr "Mostrar Diapositivas de Promocionados."
 
-#~ msgid "Use pages"
-#~ msgstr "Usar Páginas"
+msgid "You can choose whether or not to display the Featured Articles section on the homepge. If you don't want to utilize this feature simply disable this option."
+msgstr "Aquí puedes elegir mostrar la sección Artículos Promocionados. Si no deseas utilizarlos desactiva esta opción."
 
-#~ msgid ""
-#~ "The homepage Featured Slider can be set up using two methods. You can "
-#~ "populate the slider using Posts, or you can populate it using Pages. If "
-#~ "you would like to use Pages in the Featured Slider then enable this "
-#~ "option."
-#~ msgstr ""
-#~ "Las diapositivas Promocionadas en la página de inicio se pueden usar de "
-#~ "dos formas. Utilizando Publicaciones o utilizando páginas. Si quieres "
-#~ "utilizar páginas como diapositiva activa esta opción."
+msgid "Duplicate Featured Articles"
+msgstr "Duplicar Artículos Promocionados"
 
-#~ msgid "Include pages in the Featured Slider (if Use Pages enabled)"
-#~ msgstr ""
-#~ "Incluir páginas en Diapositivas Promocionadas (si Usar Páginas está "
-#~ "activo)"
+msgid "In some cases your Featured Articles will also be one of your most recent articles, in which case the article will be displayed twice on the homepage. If you would like to remove duplicate posts enable this option."
+msgstr "Algunas veces tus Artículos Promocionados serán uno de tus mas recientes, en ese caso el articulo se mostrará dos veces en la página de inicio. Si quieres eliminar duplicados activa esta opción."
 
-#~ msgid "Automatic Slider Animation"
-#~ msgstr "Animación Automática de Diapositivas"
+msgid "Number of Featured Slides"
+msgstr "Número de diapositivas destacadas"
 
-#~ msgid ""
-#~ "If you would like the Featured Articles slider to slide automatically, "
-#~ "without the visitor having to click the next button, enable this option "
-#~ "and then adjust the rotation speed below if desired."
-#~ msgstr ""
-#~ "Si deseas diapositivas destacadas que se deslicen automáticamente sin que "
-#~ "el visitante haga clic, activa esta opción y ajusta la velocidad de "
-#~ "rotación como desees."
+msgid "This setting controls how menu tabs are added to the Featured Articles slider on the homepage."
+msgstr "Esta configuración controla cuantas pestañas se añaden a las diapositivas de Artículos Promocionados en la página inicial."
 
-#~ msgid "Automatic Animation Speed (in ms)"
-#~ msgstr "Velocidad Automática de Animación (en ms)"
+msgid "Here you can choose which category to be used to populate the Featured Slider on the homepage. This only applies if you have disabled the Use Pages options below."
+msgstr "Aquí puedes elegir la categoría para cargar las diapositivas Promocionadas en la página de inicio. Solo aplica si has desactivado el Usar Páginas abajo."
 
-#~ msgid ""
-#~ "Here you can designate how fast the slider fades between each article. "
-#~ "The higher the number the longer the pause between each rotation."
-#~ msgstr ""
-#~ "Aquí puedes elegir que rápido las diapositivas cambian entre cada "
-#~ "articulo. Número mas alto indica una mayor pausa."
+msgid "Use pages"
+msgstr "Usar Páginas"
 
-#~ msgid "Exclude pages from the navigation bar"
-#~ msgstr "Excluir páginas de la barra de navegación"
+msgid "The homepage Featured Slider can be set up using two methods. You can populate the slider using Posts, or you can populate it using Pages. If you would like to use Pages in the Featured Slider then enable this option."
+msgstr "Las diapositivas Promocionadas en la página de inicio se pueden usar de dos formas. Utilizando Publicaciones o utilizando páginas. Si quieres utilizar páginas como diapositiva activa esta opción."
 
-#~ msgid ""
-#~ "Here you can choose to remove certain pages from the navigation menu. All "
-#~ "pages marked with an X will not appear in your navigation bar. "
-#~ msgstr ""
-#~ "Aquí puedes elegir eliminar ciertas páginas del menú de navegación. Todas "
-#~ "las páginas marcadas con X no aparecerán en la barra de navegación. "
+msgid "Include pages in the Featured Slider (if Use Pages enabled)"
+msgstr "Incluir páginas en Diapositivas Promocionadas (si Usar Páginas está activo)"
 
-#~ msgid "Show dropdown menus"
-#~ msgstr "Mostrar menús desplegables"
+msgid "Automatic Slider Animation"
+msgstr "Animación Automática de Diapositivas"
 
-#~ msgid ""
-#~ "If you would like to remove the dropdown menus from the pages navigation "
-#~ "bar disable this feature."
-#~ msgstr ""
-#~ "Si deseas remover el menú desplegable de la barra de navegación de "
-#~ "páginas desactiva aquí"
+msgid "If you would like the Featured Articles slider to slide automatically, without the visitor having to click the next button, enable this option and then adjust the rotation speed below if desired."
+msgstr "Si deseas diapositivas destacadas que se deslicen automáticamente sin que el visitante haga clic, activa esta opción y ajusta la velocidad de rotación como desees."
 
-#~ msgid "Display Home link"
-#~ msgstr "Mostrar enlace de Inicio"
+msgid "Automatic Animation Speed (in ms)"
+msgstr "Velocidad Automática de Animación (en ms)"
 
-#~ msgid ""
-#~ "By default the theme creates a Home link that, when clicked, leads back "
-#~ "to your blog's homepage. If, however, you are using a static homepage and "
-#~ "have already created a page called Home to use, this will result in a "
-#~ "duplicate link. In this case you should disable this feature to remove "
-#~ "the link."
-#~ msgstr ""
-#~ "Predeterminado el tema crea un enlace a Inicio que cuando se hace clic te "
-#~ "lleva a tu página inicial. Si utilizas una página estática y has creado "
-#~ "una página Inicio a usar, esto causara dos enlaces a inicio. En este caso "
-#~ "deberías desactivar esta característica."
+msgid "Here you can designate how fast the slider fades between each article. The higher the number the longer the pause between each rotation."
+msgstr "Aquí puedes elegir que rápido las diapositivas cambian entre cada articulo. Número mas alto indica una mayor pausa."
 
-#~ msgid "Sort Pages Links"
-#~ msgstr "Ordenar Enlaces de Páginas"
+msgid "Exclude pages from the navigation bar"
+msgstr "Excluir páginas de la barra de navegación"
 
-#~ msgid "Here you can choose to sort your pages links."
-#~ msgstr "Aquí puedes elegir ordenar los enlaces de páginas."
+msgid "Here you can choose to remove certain pages from the navigation menu. All pages marked with an X will not appear in your navigation bar. "
+msgstr "Aquí puedes elegir eliminar ciertas páginas del menú de navegación. Todas las páginas marcadas con X no aparecerán en la barra de navegación. "
 
-#~ msgid "Order Pages Links by Ascending/Descending"
-#~ msgstr "Ordenar Enlaces de Páginas Ascendente/Descendente"
 
-#~ msgid ""
-#~ "Here you can choose to reverse the order that your pages links are "
-#~ "displayed. You can choose between ascending and descending."
-#~ msgstr ""
-#~ "Acá puedes seleccionar invertir el orden de los links de las páginas que "
-#~ "son desplegadas. Puedes elegir entre ascendente o descendente"
+msgid "Show dropdown menus"
+msgstr "Mostrar menús desplegables"
+
+msgid "If you would like to remove the dropdown menus from the pages navigation bar disable this feature."
+msgstr "Si deseas remover el menú desplegable de la barra de navegación de páginas desactiva aquí"
+
+
+msgid "Display Home link"
+msgstr "Mostrar enlace de Inicio"
+
+msgid "By default the theme creates a Home link that, when clicked, leads back to your blog's homepage. If, however, you are using a static homepage and have already created a page called Home to use, this will result in a duplicate link. In this case you should disable this feature to remove the link."
+msgstr "Predeterminado el tema crea un enlace a Inicio que cuando se hace clic te lleva a tu página inicial. Si utilizas una página estática y has creado una página Inicio a usar, esto causara dos enlaces a inicio. En este caso deberías desactivar esta característica."
+
+msgid "Sort Pages Links"
+msgstr "Ordenar Enlaces de Páginas"
+
+msgid "Here you can choose to sort your pages links."
+msgstr "Aquí puedes elegir ordenar los enlaces de páginas."
+
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Ordenar Enlaces de Páginas Ascendente/Descendente"
+
+msgid "Here you can choose to reverse the order that your pages links are displayed. You can choose between ascending and descending."
+
+msgstr "Acá puedes seleccionar invertir el orden de los links de las páginas que son desplegadas. Puedes elegir entre ascendente o descendente"
+
 
 #, fuzzy
-#~ msgid "Number of dropdown tiers shown"
-#~ msgstr "Número de niveles de menú dropdown"
+msgid "Number of dropdown tiers shown"
+msgstr "Número de niveles de menú dropdown"
 
 #, fuzzy
-#~ msgid ""
-#~ "This options allows you to control how many teirs your pages dropdown "
-#~ "menu has. Increasing the number allows for additional menu items to be "
-#~ "shown."
-#~ msgstr ""
-#~ "Esta opción te permiete controlar cuantos niveles de menú dropdown "
-#~ "tendrás por página. Incrementar el número te permitirá  desplegar más "
-#~ "elementos."
-
-#~ msgid "Exclude categories from the navigation bar"
-#~ msgstr "Excluir categorías de barra de navegación"
-
-#~ msgid ""
-#~ "Here you can choose to remove certain categories from the navigation "
-#~ "menu. All categories marked with an X will not appear in your navigation "
-#~ "bar. "
-#~ msgstr ""
-#~ "Acá puedes seleccionar las categorías que deseas quitar del menú. Todas "
-#~ "las categorías marcadas con una X no aparecerán en la barra de navegación."
-
-#~ msgid ""
-#~ "If you would like to remove the dropdown menus from the categories "
-#~ "navigation bar disable this feature."
-#~ msgstr ""
-#~ "Si deseas quitar los menú dropdown de la barra de navegación de "
-#~ "categorías des"
-
-#~ msgid "Hide empty categories"
-#~ msgstr "Ocultar categorías vacias"
-
-#~ msgid ""
-#~ "If you would like categories to be displayed in your navigationbar that "
-#~ "don't have any posts in them then disable this option. By default empty "
-#~ "categories are hidden"
-#~ msgstr ""
-#~ "Si quieres mostrar las categorías en tu barra de navegación que no posee "
-#~ "ninguna publicación entonces desactiva esta opción. Las categorías vacías "
-#~ "se ocultan de otra forma."
-
-#~ msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
-#~ msgstr "Ordenar Enlaces de Categorías por Nombre/ID/Slug/Cantidad/Grupo"
-
-#~ msgid ""
-#~ "By default pages are sorted by name. However if you would rather have "
-#~ "them sorted by ID you can adjust this setting."
-#~ msgstr ""
-#~ "De forma predeterminada las páginas se ordenan por nombre. Puedes "
-#~ "ordenarlas por ID en esta configuración"
-
-#~ msgid "Order Category Links by Ascending/Descending"
-#~ msgstr "Ordenar Enlaces de Categoría Ascendente/Descendente"
-
-#~ msgid ""
-#~ "Here you can choose to reverse the order that your categories links are "
-#~ "displayed. You can choose between ascending and descending."
-#~ msgstr ""
-#~ "Aquí puedes elegir invertir el orden de los enlaces de categorías. Puedes "
-#~ "elegir entre Ascendente y Descendente."
-
-#~ msgid "Disable top tier dropdown menu links"
-#~ msgstr "Desactivar la parte superior de los enlaces en menú desplegable"
-
-#~ msgid ""
-#~ "In some cases users will want to create parent categories or links as "
-#~ "placeholders to hold a list of child links or categories. In this case it "
-#~ "is not desirable to have the parent links lead anywhere, but instead "
-#~ "merely serve an organizational function. Enabling this options will "
-#~ "remove the links from all parent pages/categories so that they don't lead "
-#~ "anywhere when clicked."
-#~ msgstr ""
-#~ "En algunos casos los usuarios querrán crear categorías padres o enlaces "
-#~ "como contenedores para almacenar un listado de categorías hijo. En ese "
-#~ "caso no se desea que los enlaces padres redirijan a ningún lado, sino "
-#~ "solo como organización. Activando esta opción eliminara los enlaces de "
-#~ "todas las páginas/categorías para que no envíen a ningún lado al hacer "
-#~ "clic."
-
-#~ msgid "Choose which items to display in the postinfo section"
-#~ msgstr "Elegir que elementos mostrar en la sección postinfo"
-
-#~ msgid ""
-#~ "Here you can choose which items appear in the postinfo section on single "
-#~ "post pages. This is the area, usually below the post title, which "
-#~ "displays basic information about your post. The highlighted itmes shown "
-#~ "below will appear. "
-#~ msgstr ""
-#~ "Aquí puedes elegir que elementos aparecerán en la sección postinfo de las "
-#~ "páginas con una sola publicación. Esta área, usualmente bajo el titulo de "
-#~ "la publicación, muestra la información acerca de la misma. Los elementos "
-#~ "resaltados aparecerán. "
-
-#~ msgid "Place Thumbs on Posts"
-#~ msgstr "Colocar Imágenes en miniatura en Publicaciones"
-
-#~ msgid ""
-#~ "By default thumbnails are placed at the beginning of your post on single "
-#~ "post pages. If you would like to remove this initial thumbnail image to "
-#~ "avoid repetition simply disable this option. "
-#~ msgstr ""
-#~ "De forma predeterminada las imágenes en miniatura se colocan al principio "
-#~ "de tu publicación en páginas de una sola publicación. Si quieres eliminar "
-#~ "esta imagen para evitar repetición desactiva esta opción. "
-
-#~ msgid "Show comments on posts"
-#~ msgstr "Mostrar comentarios en publicaciones"
-
-#~ msgid ""
-#~ "You can disable this option if you want to remove the comments and "
-#~ "comment form from single post pages. "
-#~ msgstr ""
-#~ "Puedes desactivar esta opción si quieres eliminar los comentarios y el "
-#~ "formulario de comentarios de las páginas de una sola publicación. "
-
-#~ msgid "Place Thumbs on Pages"
-#~ msgstr "Colocar Imágenes Miniatura en Páginas"
-
-#~ msgid ""
-#~ "By default thumbnails are not placed on pages (they are only used on "
-#~ "posts). However, if you want to use thumbnails on posts you can! Just "
-#~ "enable this option. "
-#~ msgstr "De forma predeterminada no se colocan en páginas ("
-
-#~ msgid "Show comments on pages"
-#~ msgstr "Mostrar comentarios en páginas"
-
-#~ msgid ""
-#~ "By default comments are not placed on pages, however, if you would like "
-#~ "to allow people to comment on your pages simply enable this option. "
-#~ msgstr ""
-#~ "De forma predeterminada los comentarios no se muestran en las páginas. "
-#~ "Puedes activar los comentarios en páginas activando esta opción. "
-
-#~ msgid "Post info section"
-#~ msgstr "Sección Post info"
-
-#~ msgid ""
-#~ "Here you can choose which items appear in the postinfo section on pages. "
-#~ "This is the area, usually below the post title, which displays basic "
-#~ "information about your post. The highlighted itmes shown below will "
-#~ "appear. "
-#~ msgstr ""
-#~ "Aquí puedes elegir que elementos aparecerán en la sección postinfo en "
-#~ "páginas. Esta área usualmente bajo el titulo de la publicación muestra la "
-#~ "información de la misma. Los elementos resaltados se mostraran. "
-
-#~ msgid "Show Thumbs on Index pages"
-#~ msgstr "Mostrar miniaturas en páginas Indice"
-
-#~ msgid "Enable this option to show thumbnails on Index Pages."
-#~ msgstr "Activa esta opción para mostrar miniaturas en páginas Indice"
-
-#~ msgid "Show Author Avatar on Blog Posts"
-#~ msgstr "Mostrar Avatar de Autor en Publicaciones"
-
-#~ msgid "Enable this option to show the post author avatar on Blog Posts."
-#~ msgstr ""
-#~ "Activa esta opción para mostrar el avatar del autor en las publicaciones "
-#~ "del Blog"
-
-#~ msgid "Homepage SEO"
-#~ msgstr "SEO Pagina de Inicio"
-
-#~ msgid "Single Post Page SEO"
-#~ msgstr "SEO Publicación de página simple"
-
-#~ msgid "Index Page SEO"
-#~ msgstr "SEO Página de Indice"
-
-#~ msgid " Enable custom title "
-#~ msgstr " Activar titulo personalizado"
-
-#~ msgid ""
-#~ "By default the theme uses a combination of your blog name and your blog "
-#~ "description, as defined when you created your blog, to create your "
-#~ "homepage titles. However if you want to create a custom title then simply "
-#~ "enable this option and fill in the custom title field below. "
-#~ msgstr ""
-#~ "De forma predeterminada el tema utiliza el nombre de tu blog y la "
-#~ "descripción del mismo que defines al crear tu página de inicio. Sin "
-#~ "embargo si quieres crear un título personalizado activa esta opción y "
-#~ "llena el campo personalizado abajo. "
-
-#~ msgid " Enable meta description"
-#~ msgstr " Activar meta descripción"
-
-#~ msgid ""
-#~ "By default the theme uses your blog description, as defined when you "
-#~ "created your blog, to fill in the meta description field. If you would "
-#~ "like to use a different description then enable this option and fill in "
-#~ "the custom description field below. "
-#~ msgstr ""
-#~ "De forma predeterminada el tema utiliza la descripción del blog, como "
-#~ "definiste cuando creaste el blog, para llenar el campo meta descripción. "
-#~ "Si deseas utilizar otra activa esta opción y llena el campo personalizado "
-#~ "abajo. "
-
-#~ msgid " Enable meta keywords"
-#~ msgstr " Activar meta palabras clave"
-
-#~ msgid ""
-#~ "By default the theme does not add keywords to your header. Most search "
-#~ "engines don't use keywords to rank your site anymore, but some people "
-#~ "define them anyway just in case. If you want to add meta keywords to your "
-#~ "header then enable this option and fill in the custom keywords field "
-#~ "below. "
-#~ msgstr ""
-#~ "De forma predeterminada el tema no añade palabras clave a su sitio. La "
-#~ "mayoría de motores de búsqueda no utilizan las palabras clave para "
-#~ "calificar su sitio, sin embargo algunos las definen por si acaso. Si "
-#~ "quieres añadir palabras clave meta a su encabezado active esta opción y "
-#~ "llene las palabras clave abajo. "
-
-#~ msgid " Enable canonical URL's"
-#~ msgstr " Habilitar URL's canonicas"
-
-#~ msgid ""
-#~ "Canonicalization helps to prevent the indexing of duplicate content by "
-#~ "search engines, and as a result, may help avoid duplicate content "
-#~ "penalties and pagerank degradation. Some pages may have different URLs "
-#~ "all leading to the same place. For example domain.com, domain.com/index."
-#~ "html, and www.domain.com are all different URLs leading to your homepage. "
-#~ "From a search engine's perspective these duplicate URLs, which also occur "
-#~ "often due to custom permalinks, may be treaded individually instead of as "
-#~ "a single destination. Defining a canonical URL tells the search engine "
-#~ "which URL you would like to use officially. The theme bases its canonical "
-#~ "URLs off your permalinks and the domain name defined in the settings tab "
-#~ "of wp-admin."
-#~ msgstr ""
-#~ "La canonicalización ayuda a prevenir indexar contenido duplicado por "
-#~ "motores de búsqueda, como resutlado puede ayudar evitar penalidades por "
-#~ "contenido repetido y degradación en el rango de la página. Definir una "
-#~ "URL canónica avisa al motor de búsqueda que URL quieres utilizar de forma "
-#~ "oficial. El tema basa su URL canónica en base a sus \"permalinks\" y el "
-#~ "nombre de dominio en la pestaña de configuración de wp-admin."
-
-#~ msgid "Homepage custom title (if enabled)"
-#~ msgstr "Título personalizado en página de inicio (al activar)"
-
-#~ msgid ""
-#~ "If you have enabled custom titles you can add your custom title here. "
-#~ "Whatever you type here will be placed between the < title >< /title > "
-#~ "tags in header.php"
-#~ msgstr ""
-#~ "Si activaste títulos personalizados puedes añadirlo aquí. Lo que escribas "
-#~ "aquí se colocara en etiquetas <title></title> en header.php"
-
-#~ msgid "Homepage meta description (if enabled)"
-#~ msgstr "La meta descripción de la página de inicio (al activar)"
-
-#~ msgid ""
-#~ "If you have enabled meta descriptions you can add your custom description "
-#~ "here."
-#~ msgstr ""
-#~ "Si activaste la meta descripción puedes añadir descripción personalizada "
-#~ "aquí."
-
-#~ msgid "Homepage meta keywords (if enabled)"
-#~ msgstr "Palabras meta en página de inicio (al activar)"
-
-#~ msgid ""
-#~ "If you have enabled meta keywords you can add your custom keywords here. "
-#~ "Keywords should be separated by comas. For example: wordpress,themes,"
-#~ "templates,elegant"
-#~ msgstr ""
-#~ "Si activaste las palabras meta puedes añadir las personalizadas aquí. Las "
-#~ "palabras clave se separan por comas. Por ejemplo: wodrpess,temas,etchq"
-
-#~ msgid "If custom titles are disabled, choose autogeneration method"
-#~ msgstr ""
-#~ "Si los títulos personalizados están desactivados, elige método de "
-#~ "autogenerar"
-
-#~ msgid ""
-#~ "If you are not using cutsom post titles you can still have control over "
-#~ "how your titles are generated. Here you can choose which order you would "
-#~ "like your post title and blog name to be displayed, or you can remove the "
-#~ "blog name from the title completely."
-#~ msgstr ""
-#~ "Si no utilizas títulos de publicación personalizados aún puedes tener "
-#~ "control de como se generan los títulos. Puedes elegir el orden en el que "
-#~ "deseas se muestre o eliminar completamente el nombre del blog del título."
-
-#~ msgid "Define a character to separate BlogName and Post title"
-#~ msgstr ""
-#~ "Elige un caracter para serpara el NombredelBlog del título de la "
-#~ "publicación"
-
-#~ msgid ""
-#~ "Here you can change which character separates your blog title and post "
-#~ "name when using autogenerated post titles. Common values are | or -"
-#~ msgstr ""
-#~ "Aquí puedes cambiar que carácter separa el título del blog y nombre de "
-#~ "publicación cuando utilizas títulos de publicación auto generados. "
-#~ "Valores comunes son | o -"
-
-#~ msgid "Enable custom titles"
-#~ msgstr "Activar títulos personalizados"
-
-#~ msgid ""
-#~ "By default the theme creates post titles based on the title of your post "
-#~ "and your blog name. If you would like to make your meta title different "
-#~ "than your actual post title you can define a custom title for each post "
-#~ "using custom fields. This option must be enabled for custom titles to "
-#~ "work, and you must choose a custom field name for your title below."
-#~ msgstr ""
-#~ "Predeterminado el tema crea los títulos de las publicaciones de forma "
-#~ "automática de tu publicación y nombre de blog. Si deseas hacer tu titulo "
-#~ "meta diferente de tu publicación actual puedes definir un título para "
-#~ "cada publicación utilizando campos personalizados. Esta opción debe estar "
-#~ "activada para que los títulos personalizados funcionen y debes elegir un "
-#~ "nombre de campo personalizado."
-
-#~ msgid "Enable custom description"
-#~ msgstr "Habilitar descripción personalizada"
-
-#~ msgid ""
-#~ "If you would like to add a meta description to your post you can do so "
-#~ "using custom fields. This option must be enabled for descriptions to be "
-#~ "displayed on post pages. You can add your meta description using custom "
-#~ "fields based off the custom field name you define below."
-#~ msgstr ""
-#~ "Puedes utilizar la meta descripción desde campos personalizados. Esta "
-#~ "opción debe estar hablitada para mostrar las descripciones en las "
-#~ "páginas. Puedes añadir la descripción meta utilizando campos "
-#~ "personalizados en el nombre que definas aquí."
-
-#~ msgid "Enable custom keywords"
-#~ msgstr "Habilitar palabras clave personalizadas"
-
-#~ msgid ""
-#~ "If you would like to add meta keywords to your post you can do so using "
-#~ "custom fields. This option must be enabled for keywords to be displayed "
-#~ "on post pages. You can add your meta keywords using custom fields based "
-#~ "off the custom field name you define below."
-#~ msgstr ""
-#~ "Si deseas añadir meta palabras clave a tu publicación lo puedes hacer por "
-#~ "campos personalizados. Esta opción debe estar activada para que las "
-#~ "palabras clave se muestren en publicaciones. Puedes añadir las palabras "
-#~ "clave usando el campo personalizado definido aquí."
-
-#~ msgid "Enable canonical URL's"
-#~ msgstr "Hablitar URL's canonicas"
-
-#~ msgid ""
-#~ "Canonicalization helps to prevent the indexing of duplicate content by "
-#~ "search engines, and as a result, may help avoid duplicate content "
-#~ "penalties and pagerank degradation. Some pages may have different URL's "
-#~ "all leading to the same place. For example domain.com, domain.com/index."
-#~ "html, and www.domain.com are all different URLs leading to your homepage. "
-#~ "From a search engine's perspective these duplicate URLs, which also occur "
-#~ "often due to custom permalinks, may be treaded individually instead of as "
-#~ "a single destination. Defining a canonical URL tells the search engine "
-#~ "which URL you would like to use officially. The theme bases its canonical "
-#~ "URLs off your permalinks and the domain name defined in the settings tab "
-#~ "of wp-admin."
-#~ msgstr ""
-#~ "Canonizar ayuda evitar el indexado de contenido duplicado por los motores "
-#~ "de busqueda y por consiguiente evitar penalidades. Algunas páginas tienen "
-#~ "diferente URL y dirigen al mismo sitio. Definir una URL canónica le "
-#~ "indica al buscador cual es la URL que oficialmente quieres utilizar."
-
-#~ msgid "Custom field Name to be used for title"
-#~ msgstr "Nombre de campo personalizado para utilizar como título"
-
-#~ msgid ""
-#~ "When you define your title using custom fields you should use this value "
-#~ "for the custom field Name. The Value of your custom field should be the "
-#~ "custom title you would like to use."
-#~ msgstr ""
-#~ "Cuando defines el título por medio de campos personalizados utiliza este "
-#~ "valor para el campo personalizado."
-
-#~ msgid "Custom field Name to be used for description"
-#~ msgstr "Nombre de campo personalizado para utilizar como descripción"
-
-#~ msgid ""
-#~ "When you define your meta description using custom fields you should use "
-#~ "this value for the custom field Name. The Value of your custom field "
-#~ "should be the custom description you would like to use."
-#~ msgstr ""
-#~ "Cuando defines la meta descripción por medio de campos personalizados "
-#~ "utiliza este valor para el campo personalizado."
-
-#~ msgid "Custom field Name to be used for keywords"
-#~ msgstr "Nombre de campo personalizado para utilizar como palabras clave."
-
-#~ msgid ""
-#~ "When you define your keywords using custom fields you should use this "
-#~ "value for the custom field Name. The Value of your custom field should be "
-#~ "the meta keywords you would like to use, separated by comas."
-#~ msgstr ""
-#~ "Cuando defines las palabras clave por medio de campos personalizados "
-#~ "utiliza este valor para el campo personalizado."
-
-#~ msgid ""
-#~ "If you are not using cutsom post titles you can still have control over "
-#~ "hw your titles are generated. Here you can choose which order you would "
-#~ "like your post title and blog name to be displayed, or you can remove the "
-#~ "blog name from the title completely."
-#~ msgstr ""
-#~ "Si no utilizas títulos personalizados aún puedes tener control sobre como "
-#~ "se generan. Puedes elegir el orden de tu publicación y nombre de blog "
-#~ "para desplegar o puedes eliminar el nombre de blog completamente."
-
-#~ msgid "Enable meta descriptions"
-#~ msgstr "Hablitar descripciones meta"
-
-#~ msgid ""
-#~ "Check this box if you want to display meta descriptions on category/"
-#~ "archive pages. The description is based off the category description you "
-#~ "choose when creating/edit your category in wp-admin."
-#~ msgstr ""
-#~ "Selecciona si deseas mostrar meta descripción en archivo/categoría. Esta "
-#~ "descripción está basada en la categoría cuando creas/editas la categoría "
-#~ "en wp-admin."
-
-#~ msgid "Choose title autogeneration method"
-#~ msgstr "Elegir método de auto generación de título"
-
-#~ msgid ""
-#~ "Here you can choose how your titles on index pages are generated. You can "
-#~ "change which order your blog name and index title are displayed, or you "
-#~ "can remove the blog name from the title completely."
-#~ msgstr ""
-#~ "Puedes elegir como tus títulos en páginas indice se generan. Puedes "
-#~ "cambiar el orden del nombre del blog y el título del indice o eliminar el "
-#~ "nombre del blog del título."
-
-#~ msgid ""
-#~ "Here you can change which character separates your blog title and index "
-#~ "page name when using autogenerated post titles. Common values are | or -"
-#~ msgstr ""
-#~ "Aquí puedes cambiar el caracter que separa el título del blog y el nombre "
-#~ "de la página de indice utilizando títulos de publicación autogenerado. "
-#~ "Valores comunes | o -"
-
-#~ msgid "Code Integration"
-#~ msgstr "Integración de Código"
-
-#~ msgid "Enable header code"
-#~ msgstr "Activar código de encabezado"
-
-#~ msgid ""
-#~ "Disabling this option will remove the header code below from your blog. "
-#~ "This allows you to remove the code while saving it for later use."
-#~ msgstr ""
-#~ "Desactivar esta opción eliminará el código de encabezado debajo del blog. "
-#~ "Esto permite guardar el código y no utilizarlo."
-
-#~ msgid "Enable body code"
-#~ msgstr "Activar código de cuerpo"
-
-#~ msgid ""
-#~ "Disabling this option will remove the body code below from your blog. "
-#~ "This allows you to remove the code while saving it for later use."
-#~ msgstr ""
-#~ "Desactivar esta opción eliminará el código del cuerpo de ser usado en el "
-#~ "blog. Permite eliminar el código mientras lo guardas para uso posterior."
-
-#~ msgid "Enable single top code"
-#~ msgstr "Activar código único superior"
-
-#~ msgid ""
-#~ "Disabling this option will remove the single top code below from your "
-#~ "blog. This allows you to remove the code while saving it for later use."
-#~ msgstr ""
-#~ "Desactivar esta opción eliminará el código debajo de su blog. Esto "
-#~ "permite que lo elimines pero guardarlo para uso posterior."
-
-#~ msgid "Enable single bottom code"
-#~ msgstr "Activar código de fondo simple"
-
-#~ msgid ""
-#~ "Disabling this option will remove the single bottom code below from your "
-#~ "blog. This allows you to remove the code while saving it for later use."
-#~ msgstr ""
-#~ "Desactivar esta opción eliminará el código debajo del blog. Permite "
-#~ "guardar el código para uso posterior."
-
-#~ msgid "Add code to the < head > of your blog"
-#~ msgstr "Añade el código a la etiqueta < head > de tu blog"
-
-#~ msgid ""
-#~ "Any code you place here will appear in the head section of every page of "
-#~ "your blog. This is useful when you need to add javascript or css to all "
-#~ "pages."
-#~ msgstr ""
-#~ "Cualquier código que muestres aquí aparecerá en la sección encabezado de "
-#~ "cada página de tu blog. Esto es útil cuando deseas añadir css o "
-#~ "javascript a todas tus páginas."
-
-#~ msgid ""
-#~ "Add code to the < body > (good for tracking codes such as google "
-#~ "analytics)"
-#~ msgstr ""
-#~ "Añade código al < body >. Util para códigos de rastreo como google "
-#~ "analytics"
-
-#~ msgid ""
-#~ "Any code you place here will appear in body section of all pages of your "
-#~ "blog. This is usefull if you need to input a tracking pixel for a state "
-#~ "counter such as Google Analytics."
-#~ msgstr ""
-#~ "Cualquier código que coloques aquí aparecerá en la sección de cuerpo de "
-#~ "todas las páginas de tu blog. Útil para rastreo de estados como Google "
-#~ "Analytics."
-
-#~ msgid "Add code to the top of your posts"
-#~ msgstr "Añadir códiigo a la parte superior de tus publicaciones"
-
-#~ msgid ""
-#~ "Any code you place here will be placed at the top of all single posts. "
-#~ "This is useful if you are looking to integrating things such as social "
-#~ "bookmarking links."
-#~ msgstr ""
-#~ "Cualquier código que coloques aquí se colocará en la parte superior de "
-#~ "cada publicación individual. Esto es útil si buscas integrar cosas como "
-#~ "enlaces sociales."
-
-#~ msgid "Add code to the bottom of your posts, before the comments"
-#~ msgstr "Añade código debajo de tus publicaciones, antes de los comentarios"
-
-#~ msgid "Documentation"
-#~ msgstr "Documentación"
-
-#~ msgid "Manage Un-widgetized Advertisements"
-#~ msgstr "Administrar Anuncios sin-widget"
-
-#~ msgid "Enable Single Post 468x60 banner"
-#~ msgstr "Habilitar Banner 468x60 en publicación simple"
-
-#~ msgid ""
-#~ "Enabling this option will display a 468x60 banner ad on the bottom of "
-#~ "your post pages below the single post content. If enabled you must fill "
-#~ "in the banner image and destination url below."
-#~ msgstr ""
-#~ "Esta opción habilita un anuncio de 486x60 en el inferior de tus páginas "
-#~ "de publicación bajo el contenido de la publicación. Si está activado "
-#~ "debes llenar la imagen de banner y dirección de destino abajo."
-
-#~ msgid "Input 468x60 advertisement banner image"
-#~ msgstr "Ingrese imagen de publicidad de 486x60"
-
-#~ msgid "Here you can provide 468x60 banner image url"
-#~ msgstr "Aquí puedes ingresar la URL de la imagen del banner"
-
-#~ msgid "Input 468x60 advertisement destination url"
-#~ msgstr "Ingrese URL de destino para el anuncio de 486x60"
-
-#~ msgid "Here you can provide 468x60 banner destination url"
-#~ msgstr ""
-#~ "Aquí puedes ingresar la dirección de destino para el banner de 468x60"
-
-#~ msgid "Input 468x60 adsense code"
-#~ msgstr "Ingresa el código adsense de 486x60"
-
-#~ msgid "Place your adsense code here."
-#~ msgstr "Ingrese su código adsense aquí"
-
-#~ msgid "Captcha"
-#~ msgstr "Captcha"
-
-#~ msgid "Fill"
-#~ msgstr "Llenar"
-
-#~ msgid "field"
-#~ msgstr "campo"
-
-#~ msgid "Invalid email"
-#~ msgstr "email invalido"
-
-#~ msgid "ET Page Template Settings"
-#~ msgstr "Configuración de Plantilla de Página ET"
-
-#~ msgid ""
-#~ "Additional settings appear here, when one of ET page templates is "
-#~ "selected ( Page Attributes -> Template )"
-#~ msgstr ""
-#~ "Configuración adicional aparece aquí, cuando alguna plantilla de página "
-#~ "ET se selecciona (Atributos de Página - Plantilla)"
-
-#~ msgid "Regenerate captcha numbers"
-#~ msgstr "Regenerar números captcha"
-
-#~ msgid "Email To:"
-#~ msgstr "Enviar email a:"
-
-#~ msgid "Blog Style mode"
-#~ msgstr "Estilo de blog"
-
-#~ msgid "Hide Auto Thumbnail"
-#~ msgstr "Ocultar auto miniaturas de imagen"
-
-#~ msgid "Show Titles"
-#~ msgstr "Mostrar Títulos"
-
-#~ msgid "Show Descriptions"
-#~ msgstr "Mostrar Descripciones"
-
-#~ msgid "Detect Portrait Images"
-#~ msgstr "Detectar Imagenes de Portrato (Verticales)"
-
-#~ msgid "Thumbnail Size:"
-#~ msgstr "Tamaño de vista previa:"
-
-#~ msgid "Small"
-#~ msgstr "Pequeño"
-
-#~ msgid "Medium"
-#~ msgstr "Mediano"
-
-#~ msgid "Large"
-#~ msgstr "Grande"
-
-#~ msgid "Number of posts per page:"
-#~ msgstr "Número de publicaciones por página:"
-
-#~ msgid "Select blog categories:"
-#~ msgstr "Seleccione categorías de blog:"
-
-#~ msgid "Select gallery categories:"
-#~ msgstr "Selecciones categorías de galería:"
-
-#~ msgid "Member Login"
-#~ msgstr "Ingreso de Miembro"
-
-#~ msgid "Username: "
-#~ msgstr "Nombre de usuario: "
-
-#~ msgid "Password: "
-#~ msgstr "Contraseña: "
-
-#~ msgid "Login"
-#~ msgstr "Ingresar"
-
-#~ msgid "Add a Tooltip Text"
-#~ msgstr "Añadir texto de ayuda"
-
-#~ msgid "Caption"
-#~ msgstr "Leyenda"
-
-#~ msgid "Caption goes here"
-#~ msgstr "Aquí va la leyenda"
-
-#~ msgid "Caption title goes here"
-#~ msgstr "Título va aquí"
-
-#~ msgid "State"
-#~ msgstr "Estado"
-
-#~ msgid "Select between expanded and closed state"
-#~ msgstr "Seleccione entre estado expandido y cerrado"
-
-#~ msgid "Content"
-#~ msgstr "Contenido"
-
-#~ msgid "Content goes here"
-#~ msgstr "Aquí va contenido"
-
-#~ msgid "Content text or html"
-#~ msgstr "Texto o HTML"
-
-#~ msgid "Type"
-#~ msgstr "Typo"
-
-#~ msgid "Type of the box"
-#~ msgstr "Typo de caja"
-
-#~ msgid "Link"
-#~ msgstr "Link"
-
-#~ msgid "URL"
-#~ msgstr "URL"
-
-#~ msgid "Choose button type"
-#~ msgstr "Elige tipo de botón"
-
-#~ msgid "Color"
-#~ msgstr "Color"
-
-#~ msgid "Choose button color"
-#~ msgstr "Elige color de botón"
-
-#~ msgid "Link text"
-#~ msgstr "Texto de vinculo"
-
-#~ msgid "Icon"
-#~ msgstr "Íconon"
-
-#~ msgid "Used for icon button type"
-#~ msgstr "Utilizado para tipo de botón con ícono"
-
-#~ msgid "Open link in new window"
-#~ msgstr "Abrir enlace en nueva ventana"
-
-#~ msgid "Select yes if the link should be opened in a new window"
-#~ msgstr "Selecciona Si para abrir en nueva ventana"
-
-#~ msgid "Slider Type"
-#~ msgstr "Tipo de Diapositivas"
-
-#~ msgid "Select Slider Type here"
-#~ msgstr "Seleccione el tipo de diapositivas aquí"
-
-#~ msgid "Effect"
-#~ msgstr "Efecto"
-
-#~ msgid "Select Animation Effect"
-#~ msgstr "Seleccione Efecto de Animación"
-
-#~ msgid "Auto"
-#~ msgstr "Auto"
-
-#~ msgid "Choose yes if you want for automatic slider animation"
-#~ msgstr ""
-#~ "Seleccione si para activar una animación automática a sus diapositivas"
-
-#~ msgid "Auto Speed"
-#~ msgstr "Velocidad Automática"
-
-#~ msgid "Automattic slider speed (works only if Auto is set to yes)"
-#~ msgstr ""
-#~ "Velocidad de diapositivas automatica (funciona solo si Auto está en Si)"
-
-#~ msgid "Tab Text"
-#~ msgstr "Texto de Pestaña"
-
-#~ msgid "Tab Content"
-#~ msgstr "Contenido de Pestaña"
-
-#~ msgid "Paste image url here, if you chose \"images\" slider type"
-#~ msgstr ""
-#~ "Pegar dirección de imagen aquí. Si selecciona diapositivas tipo \"imagen\""
-
-#~ msgid "Image Url"
-#~ msgstr "URL de Imágen"
-
-#~ msgid "Author Image URL"
-#~ msgstr "URL de autor de imágen"
-
-#~ msgid "Use resizing"
-#~ msgstr "Utilizar redimensionar"
-
-#~ msgid "+ Add One More Tab"
-#~ msgstr "+ Añadir nueva pestaña"
-
-#~ msgid "Image Height"
-#~ msgstr "Altura Imagen"
-
-#~ msgid "Image Width"
-#~ msgstr "Anchura Imagen"
-
-#~ msgid "Posts Tagged "
-#~ msgstr "Publicaciones Etiquetadas "
-
-#~ msgid "Posts made in"
-#~ msgstr "Publicaciones hechas en"
-
-#~ msgid "Posts by "
-#~ msgstr "Publicaciones por "
-
-#~ msgid "Read More"
-#~ msgstr "Leer más"
-
-#~ msgid "&laquo; Older Entries"
-#~ msgstr "&laquo; Anteriores"
-
-#~ msgid "Next Entries &raquo;"
-#~ msgstr "&laquo; Older Entries"
-
-#~ msgid ""
-#~ "The page you requested could not be found. Try refining your search, or "
-#~ "use the navigation above to locate the post."
-#~ msgstr ""
-#~ "La página solicitada no se pudo encontrar. Intenta refinar tu búsqueda o "
-#~ "utiliza el menú para navegar."
-
-#~ msgid "Posts Tagged &quot;"
-#~ msgstr "Publicaciones Etiquetadas &quot;"
-
-#~ msgid "Your comment is awaiting moderation."
-#~ msgstr "Tu comentario esta esperando moderación."
-
-#~ msgid "Reply"
-#~ msgstr "Responder"
-
-#~ msgid "(Edit)"
-#~ msgstr "(Editar)"
-
-#~ msgid "Read Foxy Documentation"
-#~ msgstr "Leer Documentación Foxy"
-
-#~ msgid "Related Products"
-#~ msgstr "Productos Relacionados"
-
-#~ msgid "You may also like&hellip;"
-#~ msgstr "Tal vez te guste&hellip;"
+msgid "This options allows you to control how many teirs your pages dropdown menu has. Increasing the number allows for additional menu items to be shown."
+msgstr "Esta opción te permiete controlar cuantos niveles de menú dropdown tendrás por página. Incrementar el número te permitirá  desplegar más elementos."
+
+msgid "Exclude categories from the navigation bar"
+msgstr "Excluir categorías de barra de navegación"
+
+msgid "Here you can choose to remove certain categories from the navigation menu. All categories marked with an X will not appear in your navigation bar. "
+msgstr "Acá puedes seleccionar las categorías que deseas quitar del menú. Todas las categorías marcadas con una X no aparecerán en la barra de navegación."
+
+msgid "If you would like to remove the dropdown menus from the categories navigation bar disable this feature."
+msgstr "Si deseas quitar los menú dropdown de la barra de navegación de categorías des"
+
+msgid "Hide empty categories"
+msgstr "Ocultar categorías vacias"
+
+msgid "If you would like categories to be displayed in your navigationbar that don't have any posts in them then disable this option. By default empty categories are hidden"
+msgstr "Si quieres mostrar las categorías en tu barra de navegación que no posee ninguna publicación entonces desactiva esta opción. Las categorías vacías se ocultan de otra forma."
+
+
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Ordenar Enlaces de Categorías por Nombre/ID/Slug/Cantidad/Grupo"
+
+msgid "By default pages are sorted by name. However if you would rather have them sorted by ID you can adjust this setting."
+msgstr "De forma predeterminada las páginas se ordenan por nombre. Puedes ordenarlas por ID en esta configuración"
+
+
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Ordenar Enlaces de Categoría Ascendente/Descendente"
+
+msgid "Here you can choose to reverse the order that your categories links are displayed. You can choose between ascending and descending."
+msgstr "Aquí puedes elegir invertir el orden de los enlaces de categorías. Puedes elegir entre Ascendente y Descendente."
+
+
+msgid "Disable top tier dropdown menu links"
+msgstr "Desactivar la parte superior de los enlaces en menú desplegable"
+
+msgid "In some cases users will want to create parent categories or links as placeholders to hold a list of child links or categories. In this case it is not desirable to have the parent links lead anywhere, but instead merely serve an organizational function. Enabling this options will remove the links from all parent pages/categories so that they don't lead anywhere when clicked."
+msgstr "En algunos casos los usuarios querrán crear categorías padres o enlaces como contenedores para almacenar un listado de categorías hijo. En ese caso no se desea que los enlaces padres redirijan a ningún lado, sino solo como organización. Activando esta opción eliminara los enlaces de todas las páginas/categorías para que no envíen a ningún lado al hacer clic."
+
+msgid "Choose which items to display in the postinfo section"
+msgstr "Elegir que elementos mostrar en la sección postinfo"
+
+msgid "Here you can choose which items appear in the postinfo section on single post pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr "Aquí puedes elegir que elementos aparecerán en la sección postinfo de las páginas con una sola publicación. Esta área, usualmente bajo el titulo de la publicación, muestra la información acerca de la misma. Los elementos resaltados aparecerán. "
+
+msgid "Place Thumbs on Posts"
+msgstr "Colocar Imágenes en miniatura en Publicaciones"
+
+msgid "By default thumbnails are placed at the beginning of your post on single post pages. If you would like to remove this initial thumbnail image to avoid repetition simply disable this option. "
+msgstr "De forma predeterminada las imágenes en miniatura se colocan al principio de tu publicación en páginas de una sola publicación. Si quieres eliminar esta imagen para evitar repetición desactiva esta opción. "
+
+
+msgid "Show comments on posts"
+msgstr "Mostrar comentarios en publicaciones"
+
+msgid "You can disable this option if you want to remove the comments and comment form from single post pages. "
+msgstr "Puedes desactivar esta opción si quieres eliminar los comentarios y el formulario de comentarios de las páginas de una sola publicación. "
+
+
+msgid "Place Thumbs on Pages"
+msgstr "Colocar Imágenes Miniatura en Páginas"
+
+msgid "By default thumbnails are not placed on pages (they are only used on posts). However, if you want to use thumbnails on posts you can! Just enable this option. "
+msgstr "De forma predeterminada no se colocan en páginas"
+
+msgid "Show comments on pages"
+msgstr "Mostrar comentarios en páginas"
+
+msgid "By default comments are not placed on pages, however, if you would like to allow people to comment on your pages simply enable this option. "
+msgstr "De forma predeterminada los comentarios no se muestran en las páginas. Puedes activar los comentarios en páginas activando esta opción. "
+
+
+msgid "Post info section"
+msgstr "Sección Post info"
+
+msgid "Here you can choose which items appear in the postinfo section on pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr "Aquí puedes elegir que elementos aparecerán en la sección postinfo en páginas. Esta área usualmente bajo el titulo de la publicación muestra la información de la misma. Los elementos resaltados se mostraran. "
+
+msgid "Show Thumbs on Index pages"
+msgstr "Mostrar miniaturas en páginas Indice"
+
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "Activa esta opción para mostrar miniaturas en páginas Indice"
+
+msgid "Show Author Avatar on Blog Posts"
+msgstr "Mostrar Avatar de Autor en Publicaciones"
+
+msgid "Enable this option to show the post author avatar on Blog Posts."
+msgstr "Activa esta opción para mostrar el avatar del autor en las publicaciones del Blog"
+
+msgid "Homepage SEO"
+msgstr "SEO Pagina de Inicio"
+
+msgid "Single Post Page SEO"
+msgstr "SEO Publicación de página simple"
+
+msgid "Index Page SEO"
+msgstr "SEO Página de Indice"
+
+msgid " Enable custom title "
+msgstr " Activar titulo personalizado"
+
+msgid "By default the theme uses a combination of your blog name and your blog description, as defined when you created your blog, to create your homepage titles. However if you want to create a custom title then simply enable this option and fill in the custom title field below. "
+msgstr "De forma predeterminada el tema utiliza el nombre de tu blog y la descripción del mismo que defines al crear tu página de inicio. Sin embargo si quieres crear un título personalizado activa esta opción y llena el campo personalizado abajo. "
+
+msgid " Enable meta description"
+msgstr " Activar meta descripción"
+
+msgid "By default the theme uses your blog description, as defined when you created your blog, to fill in the meta description field. If you would like to use a different description then enable this option and fill in the custom description field below. "
+msgstr "De forma predeterminada el tema utiliza la descripción del blog, como definiste cuando creaste el blog, para llenar el campo meta descripción. Si deseas utilizar otra activa esta opción y llena el campo personalizado abajo. "
+
+
+msgid " Enable meta keywords"
+msgstr " Activar meta palabras clave"
+
+msgid "By default the theme does not add keywords to your header. Most search engines don't use keywords to rank your site anymore, but some people define them anyway just in case. If you want to add meta keywords to your header then enable this option and fill in the custom keywords field below. "
+msgstr "De forma predeterminada el tema no añade palabras clave a su sitio. La mayoría de motores de búsqueda no utilizan las palabras clave para calificar su sitio, sin embargo algunos las definen por si acaso. Si quieres añadir palabras clave meta a su encabezado active esta opción y llene las palabras clave abajo. "
+
+
+msgid " Enable canonical URL's"
+msgstr " Habilitar URL's canonicas"
+
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URLs all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treaded individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr "La canonicalización ayuda a prevenir indexar contenido duplicado por motores de búsqueda, como resutlado puede ayudar evitar penalidades por contenido repetido y degradación en el rango de la página. Definir una URL canónica avisa al motor de búsqueda que URL quieres utilizar de forma oficial. El tema basa su URL canónica en base a sus \"permalinks\" y el nombre de dominio en la pestaña de configuración de wp-admin."
+
+
+msgid "Homepage custom title (if enabled)"
+msgstr "Título personalizado en página de inicio (al activar)"
+
+msgid "If you have enabled custom titles you can add your custom title here. Whatever you type here will be placed between the < title >< /title > tags in header.php"
+msgstr "Si activaste títulos personalizados puedes añadirlo aquí. Lo que escribas aquí se colocara en etiquetas <title></title> en header.php"
+
+msgid "Homepage meta description (if enabled)"
+msgstr "La meta descripción de la página de inicio (al activar)"
+
+msgid "If you have enabled meta descriptions you can add your custom description here."
+msgstr "Si activaste la meta descripción puedes añadir descripción personalizada aquí."
+
+
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Palabras meta en página de inicio (al activar)"
+
+msgid "If you have enabled meta keywords you can add your custom keywords here. Keywords should be separated by comas. For example: wordpress,themes,templates,elegant"
+msgstr "Si activaste las palabras meta puedes añadir las personalizadas aquí. Las palabras clave se separan por comas. Por ejemplo: wodrpess,temas,etchq"
+
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr "Si los títulos personalizados están desactivados, elige método de autogenerar"
+
+
+msgid "If you are not using cutsom post titles you can still have control over how your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr "Si no utilizas títulos de publicación personalizados aún puedes tener control de como se generan los títulos. Puedes elegir el orden en el que deseas se muestre o eliminar completamente el nombre del blog del título."
+
+
+msgid "Define a character to separate BlogName and Post title"
+msgstr "Elige un caracter para serpara el NombredelBlog del título de la publicación"
+
+
+msgid "Here you can change which character separates your blog title and post name when using autogenerated post titles. Common values are | or -"
+
+msgstr "Aquí puedes cambiar que carácter separa el título del blog y nombre de publicación cuando utilizas títulos de publicación auto generados. Valores comunes son | o -"
+
+
+msgid "Enable custom titles"
+msgstr "Activar títulos personalizados"
+
+msgid "By default the theme creates post titles based on the title of your post and your blog name. If you would like to make your meta title different than your actual post title you can define a custom title for each post using custom fields. This option must be enabled for custom titles to work, and you must choose a custom field name for your title below."
+msgstr "Predeterminado el tema crea los títulos de las publicaciones de forma automática de tu publicación y nombre de blog. Si deseas hacer tu titulo meta diferente de tu publicación actual puedes definir un título para cada publicación utilizando campos personalizados. Esta opción debe estar activada para que los títulos personalizados funcionen y debes elegir un nombre de campo personalizado."
+
+
+msgid "Enable custom description"
+msgstr "Habilitar descripción personalizada"
+
+msgid "If you would like to add a meta description to your post you can do so using custom fields. This option must be enabled for descriptions to be displayed on post pages. You can add your meta description using custom fields based off the custom field name you define below."
+msgstr "Puedes utilizar la meta descripción desde campos personalizados. Esta opción debe estar hablitada para mostrar las descripciones en las páginas. Puedes añadir la descripción meta utilizando campos personalizados en el nombre que definas aquí."
+
+msgid "Enable custom keywords"
+msgstr "Habilitar palabras clave personalizadas"
+
+msgid "If you would like to add meta keywords to your post you can do so using custom fields. This option must be enabled for keywords to be displayed on post pages. You can add your meta keywords using custom fields based off the custom field name you define below."
+msgstr "Si deseas añadir meta palabras clave a tu publicación lo puedes hacer por campos personalizados. Esta opción debe estar activada para que las palabras clave se muestren en publicaciones. Puedes añadir las palabras clave usando el campo personalizado definido aquí."
+
+msgid "Enable canonical URL's"
+msgstr "Hablitar URL's canonicas"
+
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URL's all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treaded individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr "Canonizar ayuda evitar el indexado de contenido duplicado por los motores de busqueda y por consiguiente evitar penalidades. Algunas páginas tienen diferente URL y dirigen al mismo sitio. Definir una URL canónica le indica al buscador cual es la URL que oficialmente quieres utilizar."
+
+msgid "Custom field Name to be used for title"
+msgstr "Nombre de campo personalizado para utilizar como título"
+
+msgid "When you define your title using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom title you would like to use."
+msgstr "Cuando defines el título por medio de campos personalizados utiliza este valor para el campo personalizado."
+
+msgid "Custom field Name to be used for description"
+msgstr "Nombre de campo personalizado para utilizar como descripción"
+
+msgid "When you define your meta description using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom description you would like to use."
+msgstr "Cuando defines la meta descripción por medio de campos personalizados utiliza este valor para el campo personalizado."
+
+
+msgid "Custom field Name to be used for keywords"
+msgstr "Nombre de campo personalizado para utilizar como palabras clave."
+
+msgid "When you define your keywords using custom fields you should use this value for the custom field Name. The Value of your custom field should be the meta keywords you would like to use, separated by comas."
+msgstr "Cuando defines las palabras clave por medio de campos personalizados utiliza este valor para el campo personalizado."
+
+msgid "If you are not using cutsom post titles you can still have control over hw your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr "Si no utilizas títulos personalizados aún puedes tener control sobre como se generan. Puedes elegir el orden de tu publicación y nombre de blog para desplegar o puedes eliminar el nombre de blog completamente."
+
+msgid "Enable meta descriptions"
+msgstr "Hablitar descripciones meta"
+
+msgid "Check this box if you want to display meta descriptions on category/archive pages. The description is based off the category description you choose when creating/edit your category in wp-admin."
+msgstr "Selecciona si deseas mostrar meta descripción en archivo/categoría. Esta descripción está basada en la categoría cuando creas/editas la categoría en wp-admin."
+
+msgid "Choose title autogeneration method"
+msgstr "Elegir método de auto generación de título"
+
+msgid "Here you can choose how your titles on index pages are generated. You can change which order your blog name and index title are displayed, or you can remove the blog name from the title completely."
+msgstr "Puedes elegir como tus títulos en páginas indice se generan. Puedes cambiar el orden del nombre del blog y el título del indice o eliminar el nombre del blog del título."
+
+msgid "Here you can change which character separates your blog title and index page name when using autogenerated post titles. Common values are | or -"
+msgstr "Aquí puedes cambiar el caracter que separa el título del blog y el nombre de la página de indice utilizando títulos de publicación autogenerado. Valores comunes | o -"
+
+msgid "Code Integration"
+msgstr "Integración de Código"
+
+msgid "Enable header code"
+msgstr "Activar código de encabezado"
+
+msgid "Disabling this option will remove the header code below from your blog. This allows you to remove the code while saving it for later use."
+
+msgstr "Desactivar esta opción eliminará el código de encabezado debajo del blog. Esto permite guardar el código y no utilizarlo."
+
+msgid "Enable body code"
+msgstr "Activar código de cuerpo"
+
+msgid "Disabling this option will remove the body code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Desactivar esta opción eliminará el código del cuerpo de ser usado en el blog. Permite eliminar el código mientras lo guardas para uso posterior."
+
+msgid "Enable single top code"
+msgstr "Activar código único superior"
+
+msgid "Disabling this option will remove the single top code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Desactivar esta opción eliminará el código debajo de su blog. Esto permite que lo elimines pero guardarlo para uso posterior."
+
+msgid "Enable single bottom code"
+msgstr "Activar código de fondo simple"
+
+msgid "Disabling this option will remove the single bottom code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Desactivar esta opción eliminará el código debajo del blog. Permite guardar el código para uso posterior."
+
+msgid "Add code to the < head > of your blog"
+msgstr "Añade el código a la etiqueta < head > de tu blog"
+
+msgid "Any code you place here will appear in the head section of every page of your blog. This is useful when you need to add javascript or css to all pages."
+msgstr "Cualquier código que muestres aquí aparecerá en la sección encabezado de cada página de tu blog. Esto es útil cuando deseas añadir css o javascript a todas tus páginas."
+
+msgid "Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr "Añade código al < body >. Util para códigos de rastreo como google analytics"
+
+msgid "Any code you place here will appear in body section of all pages of your blog. This is usefull if you need to input a tracking pixel for a state counter such as Google Analytics."
+msgstr "Cualquier código que coloques aquí aparecerá en la sección de cuerpo de todas las páginas de tu blog. Útil para rastreo de estados como Google Analytics."
+
+msgid "Add code to the top of your posts"
+msgstr "Añadir códiigo a la parte superior de tus publicaciones"
+
+msgid "Any code you place here will be placed at the top of all single posts. This is useful if you are looking to integrating things such as social bookmarking links."
+msgstr "Cualquier código que coloques aquí se colocará en la parte superior de cada publicación individual. Esto es útil si buscas integrar cosas como enlaces sociales."
+
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Añade código debajo de tus publicaciones, antes de los comentarios"
+
+msgid "Documentation"
+msgstr "Documentación"
+
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Administrar Anuncios sin-widget"
+
+msgid "Enable Single Post 468x60 banner"
+msgstr "Habilitar Banner 468x60 en publicación simple"
+
+msgid "Enabling this option will display a 468x60 banner ad on the bottom of your post pages below the single post content. If enabled you must fill in the banner image and destination url below."
+msgstr "Esta opción habilita un anuncio de 486x60 en el inferior de tus páginas de publicación bajo el contenido de la publicación. Si está activado debes llenar la imagen de banner y dirección de destino abajo."
+
+msgid "Input 468x60 advertisement banner image"
+msgstr "Ingrese imagen de publicidad de 486x60"
+
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Aquí puedes ingresar la URL de la imagen del banner"
+
+msgid "Input 468x60 advertisement destination url"
+msgstr "Ingrese URL de destino para el anuncio de 486x60"
+
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Aquí puedes ingresar la dirección de destino para el banner de 468x60"
+
+msgid "Input 468x60 adsense code"
+msgstr "Ingresa el código adsense de 486x60"
+
+msgid "Place your adsense code here."
+msgstr "Ingrese su código adsense aquí"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Fill"
+msgstr "Llenar"
+
+msgid "field"
+msgstr "campo"
+
+msgid "Invalid email"
+msgstr "email invalido"
+
+msgid "ET Page Template Settings"
+msgstr "Configuración de Plantilla de Página ET"
+
+msgid "Additional settings appear here, when one of ET page templates is selected ( Page Attributes -> Template )"
+msgstr "Configuración adicional aparece aquí, cuando alguna plantilla de página ET se selecciona (Atributos de Página - Plantilla)"
+
+msgid "Regenerate captcha numbers"
+msgstr "Regenerar números captcha"
+
+msgid "Email To:"
+msgstr "Enviar email a:"
+
+msgid "Blog Style mode"
+msgstr "Estilo de blog"
+
+msgid "Hide Auto Thumbnail"
+msgstr "Ocultar auto miniaturas de imagen"
+
+msgid "Show Titles"
+msgstr "Mostrar Títulos"
+
+msgid "Show Descriptions"
+msgstr "Mostrar Descripciones"
+
+msgid "Detect Portrait Images"
+msgstr "Detectar Imagenes de Portrato (Verticales)"
+
+msgid "Thumbnail Size:"
+msgstr "Tamaño de vista previa:"
+
+msgid "Small"
+msgstr "Pequeño"
+
+msgid "Medium"
+msgstr "Mediano"
+
+msgid "Large"
+msgstr "Grande"
+
+msgid "Number of posts per page:"
+msgstr "Número de publicaciones por página:"
+
+msgid "Select blog categories:"
+msgstr "Seleccione categorías de blog:"
+
+msgid "Select gallery categories:"
+msgstr "Selecciones categorías de galería:"
+
+msgid "Member Login"
+msgstr "Ingreso de Miembro"
+
+msgid "Username: "
+msgstr "Nombre de usuario: "
+
+msgid "Password: "
+msgstr "Contraseña: "
+
+msgid "Login"
+msgstr "Ingresar"
+
+msgid "Add a Tooltip Text"
+msgstr "Añadir texto de ayuda"
+
+msgid "Caption"
+msgstr "Leyenda"
+
+msgid "Caption goes here"
+msgstr "Aquí va la leyenda"
+
+msgid "Caption title goes here"
+msgstr "Título va aquí"
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Select between expanded and closed state"
+msgstr "Seleccione entre estado expandido y cerrado"
+
+msgid "Content"
+msgstr "Contenido"
+
+msgid "Content goes here"
+msgstr "Aquí va contenido"
+
+msgid "Content text or html"
+msgstr "Texto o HTML"
+
+msgid "Type"
+msgstr "Typo"
+
+msgid "Type of the box"
+msgstr "Typo de caja"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Choose button type"
+msgstr "Elige tipo de botón"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Choose button color"
+msgstr "Elige color de botón"
+
+msgid "Link text"
+msgstr "Texto de vinculo"
+
+msgid "Icon"
+msgstr "Íconon"
+
+msgid "Used for icon button type"
+msgstr "Utilizado para tipo de botón con ícono"
+
+msgid "Open link in new window"
+msgstr "Abrir enlace en nueva ventana"
+
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Selecciona Si para abrir en nueva ventana"
+
+msgid "Slider Type"
+msgstr "Tipo de Diapositivas"
+
+msgid "Select Slider Type here"
+msgstr "Seleccione el tipo de diapositivas aquí"
+
+msgid "Effect"
+msgstr "Efecto"
+
+msgid "Select Animation Effect"
+msgstr "Seleccione Efecto de Animación"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Seleccione si para activar una animación automática a sus diapositivas"
+
+
+msgid "Auto Speed"
+msgstr "Velocidad Automática"
+
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "Velocidad de diapositivas automatica (funciona solo si Auto está en Si)"
+
+
+msgid "Tab Text"
+msgstr "Texto de Pestaña"
+
+msgid "Tab Content"
+msgstr "Contenido de Pestaña"
+
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr "Pegar dirección de imagen aquí. Si selecciona diapositivas tipo \"imagen\""
+
+
+msgid "Image Url"
+msgstr "URL de Imágen"
+
+msgid "Author Image URL"
+msgstr "URL de autor de imágen"
+
+msgid "Use resizing"
+msgstr "Utilizar redimensionar"
+
+msgid "+ Add One More Tab"
+msgstr "+ Añadir nueva pestaña"
+
+msgid "Image Height"
+msgstr "Altura Imagen"
+
+msgid "Image Width"
+msgstr "Anchura Imagen"
+
+msgid "Posts Tagged "
+msgstr "Publicaciones Etiquetadas "
+
+msgid "Posts made in"
+msgstr "Publicaciones hechas en"
+
+msgid "Posts by "
+msgstr "Publicaciones por "
+
+msgid "Read More"
+msgstr "Leer más"
+
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Anteriores"
+
+msgid "Next Entries &raquo;"
+msgstr "&laquo; Older Entries"
+
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "La página solicitada no se pudo encontrar. Intenta refinar tu búsqueda o utiliza el menú para navegar."
+
+msgid "Posts Tagged &quot;"
+msgstr "Publicaciones Etiquetadas &quot;"
+
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario esta esperando moderación."
+
+msgid "Reply"
+msgstr "Responder"
+
+msgid "(Edit)"
+msgstr "(Editar)"
+
+msgid "Read Foxy Documentation"
+msgstr "Leer Documentación Foxy"
+
+msgid "Related Products"
+msgstr "Productos Relacionados"
+
+msgid "You may also like&hellip;"
+msgstr "Tal vez te guste&hellip;"

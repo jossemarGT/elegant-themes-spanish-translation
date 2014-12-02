@@ -1,4 +1,4 @@
-#Elegant Themes Spanish Translation
+# Elegant Themes Spanish Translation #
 Spanish translation of some ElegantThemes.com's themes.
 - [Divi](http://www.elegantthemes.com/demo/?theme=Divi)
 - [Fable](http://www.elegantthemes.com/demo/?theme=Fable)
@@ -7,5 +7,9 @@ Spanish translation of some ElegantThemes.com's themes.
 - [Sky](http://www.elegantthemes.com/demo/?theme=Sky)
 - [Webly](http://www.elegantthemes.com/demo/?theme=Webly)
 
-##License
+## License
 According to the license of each of the themes these .po/.mo files are under GPLv2.
+
+## Contributors
+- [jossemarGT](https://github.com/jossemarGT)
+- [Julio Gilabert](#)
