@@ -12,4 +12,4 @@ According to the license of each of the themes these .po/.mo files are under GPL
 
 ## Contributors
 - [jossemarGT](https://github.com/jossemarGT)
-- [Julio Gilabert](#)
+- [Julio Gilabert](https://github.com/juliogilabert)
