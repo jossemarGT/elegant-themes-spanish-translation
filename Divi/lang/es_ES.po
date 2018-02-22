@@ -1640,7 +1640,7 @@ msgid "&laquo; Older Entries"
 msgstr "&laquo; Anteriores"
 
 msgid "Next Entries &raquo;"
-msgstr "&laquo; Older Entries"
+msgstr "&laquo; Siguientes"
 
 msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
 msgstr "La página solicitada no se pudo encontrar. Intenta refinar tu búsqueda o utiliza el menú para navegar."
